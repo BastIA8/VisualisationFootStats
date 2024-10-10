@@ -7,11 +7,11 @@ API_KEY = 'f740b020bee549bca2f2b054310c8642'
 BASE_URL = 'https://api.football-data.org/v4/'
 
 CHAMPIONNAT_IDS = {
-    'Premier League': 2021
-    #'La Liga': 2014,
-    #'Serie A': 2019,
-    #'Bundesliga': 2002,
-    #'Ligue 1' : 2015
+    'Premier League': 2021,
+    'La Liga': 2014,
+    'Serie A': 2019,
+    'Bundesliga': 2002,
+    'Ligue 1' : 2015
 }
 
 
@@ -70,17 +70,22 @@ def collect_players_from_leagues():
                     all_players.append(player_data)
             if request_count >= 10:
                 print("\nPause pour respecter la limite de requêtes.\n")
-                time.sleep(60 - (time.time() - start_time))
+                time.sleep(60 - (time.time() - start_time) + 1)
                 request_count = 0
                 start_time = time.time()
     return all_players
 
 
+def split_first_last_name(players):
+    players[['prénom', 'nom']] = players['name'].str.split(' ', 1, expand=True)
+
+
 def save_players_data(players):
-    pass
+    players.to_csv("./Data/Players2024.csv")
 
 if __name__ == "__main__":
     players = collect_players_from_leagues()
     if players:
         players_df = pd.DataFrame(players)
-        print(players_df)
+        players_df = split_first_last_name(players_df)
+        save_players_data(players_df)
