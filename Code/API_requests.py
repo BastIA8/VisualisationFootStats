@@ -86,6 +86,7 @@ def split_first_last_name(players):
     players = players[cols]
     return players
 
+
 def split_name_safe(full_name):
     if pd.isna(full_name) or full_name.strip() == "":
         return "", ""
@@ -97,6 +98,7 @@ def split_name_safe(full_name):
 
 def save_players_data(players):
     players.to_csv("./Data/Players2024.csv")
+
 
 if __name__ == "__main__":
     players = collect_players_from_leagues()
