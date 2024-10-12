@@ -2,8 +2,13 @@ import requests
 import json
 import pandas as pd
 import time
+from dotenv import load_dotenv
+import os
 
-API_KEY = 'f740b020bee549bca2f2b054310c8642'
+load_dotenv()
+
+API_KEY = os.getenv('API_KEY')
+print(f"API Key: {API_KEY}")
 BASE_URL = 'https://api.football-data.org/v4/'
 
 CHAMPIONNAT_IDS = {
@@ -77,7 +82,18 @@ def collect_players_from_leagues():
 
 
 def split_first_last_name(players):
-    players[['prénom', 'nom']] = players['name'].str.split(' ', 1, expand=True)
+    players[['prénom', 'nom']] = players['nom'].apply(lambda x: split_name_safe(x)).apply(pd.Series)
+    cols = ['prénom', 'nom'] + [col for col in players.columns if col not in ['prénom', 'nom']]
+    players = players[cols]
+    return players
+
+def split_name_safe(full_name):
+    if pd.isna(full_name) or full_name.strip() == "":
+        return "", ""
+    parts = full_name.split(' ')
+    prénom = parts[0]
+    nom = ' '.join(parts[1:]) if len(parts) > 1 else ''
+    return prénom, nom
 
 
 def save_players_data(players):
