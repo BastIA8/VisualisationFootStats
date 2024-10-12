@@ -8,7 +8,6 @@ import os
 load_dotenv()
 
 API_KEY = os.getenv('API_KEY')
-print(f"API Key: {API_KEY}")
 BASE_URL = 'https://api.football-data.org/v4/'
 
 CHAMPIONNAT_IDS = {
