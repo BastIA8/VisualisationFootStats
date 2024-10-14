@@ -21,7 +21,6 @@ def scrap_player_stats(player_1st_name, player_last_name):
 
     soup = BeautifulSoup(response.content, 'html.parser')
     player_link = soup.find('a', title=f"{player_1st_name} {player_last_name}")
-    print (player_link)
 
     if not player_link:
         print(f"Joueur non trouvé : {player_1st_name} {player_last_name}")
@@ -29,7 +28,7 @@ def scrap_player_stats(player_1st_name, player_last_name):
 
     player_url = f"https://www.transfermarkt.com{player_link['href']}"
     player_stats = scrape_player_profile(player_url)
-    print(player_stats)
+    print(f"Stats : {player_stats}")
     return player_stats
 
 
@@ -38,25 +37,36 @@ def scrape_player_profile(player_url):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
     
     response = requests.get(player_url, headers=headers)
+
     if response.status_code != 200:
         print(f"Erreur lors de l'accès au profil : {player_url} ({response.status_code})")
         return None
+
     soup = BeautifulSoup(response.content, 'html.parser')
-    print(soup)
+
     stats = {
         'buts': extract_stat(soup, 'Goals'),
         'tirs': extract_stat(soup, 'Tirs'),
         'passes_decisives': extract_stat(soup, 'Passes décisives'),
         # Ajoute d'autres stats ici
     }
-    
     return stats
 
 
 def extract_stat(soup, stat_name):
-    stat = soup.find('span', text=stat_name)
-    if stat:
-        return stat.find_next('span').text
+    # Trouve l'élément <span> ou autre contenant le nom de la statistique (par ex. 'Goals')
+    stat_item = soup.find('span', string=stat_name)
+    print(f"STATS {stat_item}")
+
+    if stat_item:
+        # Remonte à l'élément parent puis trouve la valeur correspondante dans l'élément <a>
+        stat_container = stat_item.find_parent('li', class_='tm-player-performance__stats-list-item svelte-1byxyai')
+        print(stat_container)
+        if stat_container:
+            stat_value = stat_container.find('a', class_='tm-player-performance__stats-list-item-value svelte-1byxyai')
+            print(stat_value)
+            if stat_value:
+                return stat_value.text.strip()  # Récupère la valeur (le nombre de buts par exemple)
     return None
 
 
