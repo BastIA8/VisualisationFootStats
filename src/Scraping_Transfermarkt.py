@@ -20,7 +20,7 @@ def get_player_fbref_url(player_1st_name, player_last_name):
 
     return response.url
 
-def scrap_player_stats(player_1st_name, player_last_name):
+def scrap_player_stats(player_1st_name, player_last_name, poste):
     player_url = get_player_fbref_url(player_1st_name, player_last_name)
     if not player_url:
         return None
@@ -38,11 +38,26 @@ def scrap_player_stats(player_1st_name, player_last_name):
         return None
 
     soup = BeautifulSoup(response.content, 'html.parser')
-    player_stats = scrape_player_profile(soup)
+    player_stats = scrape_player_profile(soup, poste)
     return player_stats
 
-def scrape_player_profile(soup):
+def scrape_player_profile(soup, poste):
     stats = {}
+    if poste == "":
+        table = soup.find('table', {'id': 'scout_full_GK'})
+        wanted_stats = wanted_stats_GK
+    elif poste == "":
+        table = soup.find('table', {'id': 'scout_full_GK'})
+        wanted_stats = 
+    elif poste == "":
+        table = soup.find('table', {'id': 'scout_full_GK'})
+        wanted_stats = 
+    elif poste == "":
+        table = soup.find('table', {'id': 'scout_full_GK'})
+        wanted_stats = 
+    elif poste == "":
+        table = soup.find('table', {'id': 'scout_full_GK'})
+        wanted_stats = 
     table = soup.find('table', {'id': 'scout_full_GK'})
     if table:
         rows = table.find_all('tr')
@@ -66,8 +81,9 @@ def collect_stats(players_df):
     for index, row in players_df.iterrows():
         first_name = row['prénom']
         last_name = row['nom']
+        poste = row['poste']
         print(f"Scraping des statistiques pour {first_name} {last_name}...")
-        stats = scrap_player_stats(first_name, last_name)
+        stats = scrap_player_stats(first_name, last_name, poste)
         if stats:
             stats_list.append({
                 **stats
