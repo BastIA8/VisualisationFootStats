@@ -8,14 +8,14 @@ wanted_stats_GK = ['Goals Against', 'Shots on Target Against', 'Saves', 'Clean S
 wanted_stats_Field = ['Goals', 'Assists', 'Yellow Cards', 'Red Cards', 'Shots on Target', 'Goals/Shot', 'xG: Expected Goals' 'xA: Expected Assists', 'Key Passes', 'Passes Completed', 'Pass Completion %', 'Crosses', 'Progressive Passes', 'Progressive Carries', 'Tackles Won', 'Interceptions', 'Blocks', 'Clearances', 'Errors', 'Fouls Committed', 'Fouls Drawn', 'Offsides', 'Penalty Kicks Won', 'Penalty Kicks Conceded', 'Own Goals']
 
 def get_player_fbref_url(player_1st_name, player_last_name):
-    if not player_last_name:
+
+    if pd.isna(player_last_name):
         search_query = player_1st_name
-        print("Neto")
     else:
         search_query = f"{player_1st_name}+{player_last_name}"
 
     search_url = f"https://fbref.com/en/search/search.fcgi?search={search_query}"
-    #search_url = f"https://fbref.com/en/search/search.fcgi?search={player_1st_name}+{player_last_name}"
+
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
@@ -29,6 +29,7 @@ def get_player_fbref_url(player_1st_name, player_last_name):
 
 def scrap_player_stats(player_1st_name, player_last_name, poste):
     player_url = get_player_fbref_url(player_1st_name, player_last_name)
+
     if not player_url:
         return None
 
