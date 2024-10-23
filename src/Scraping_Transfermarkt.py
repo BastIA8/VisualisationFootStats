@@ -5,10 +5,17 @@ import time
 
 players = pd.read_csv('./Data/Players2024.csv')
 wanted_stats_GK = ['Goals Against', 'Shots on Target Against', 'Saves', 'Clean Sheets', 'Save% (Penalty Kicks)', 'PSxG/SoT', 'Passes Attempted (Launched)', 'Pass Completion Percentage (Launched)']
-wanted_stats_Field = []
+wanted_stats_Field = ['Goals', 'Assists', 'Yellow Cards', 'Red Cards', 'Shots on Target', 'Goals/Shot', 'xG: Expected Goals' 'xA: Expected Assists', 'Key Passes', 'Passes Completed', 'Pass Completion %', 'Crosses', 'Progressive Passes', 'Progressive Carries', 'Tackles Won', 'Interceptions', 'Blocks', 'Clearances', 'Errors', 'Fouls Committed', 'Fouls Drawn', 'Offsides', 'Penalty Kicks Won', 'Penalty Kicks Conceded', 'Own Goals']
 
 def get_player_fbref_url(player_1st_name, player_last_name):
-    search_url = f"https://fbref.com/en/search/search.fcgi?search={player_1st_name}+{player_last_name}"
+    if not player_last_name:
+        search_query = player_1st_name
+        print("Neto")
+    else:
+        search_query = f"{player_1st_name}+{player_last_name}"
+
+    search_url = f"https://fbref.com/en/search/search.fcgi?search={search_query}"
+    #search_url = f"https://fbref.com/en/search/search.fcgi?search={player_1st_name}+{player_last_name}"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
@@ -43,29 +50,32 @@ def scrap_player_stats(player_1st_name, player_last_name, poste):
 
 def scrape_player_profile(soup, poste):
     stats = {}
-    if poste == "":
+    if poste == "Goalkeeper":
         table = soup.find('table', {'id': 'scout_full_GK'})
         wanted_stats = wanted_stats_GK
-    elif poste == "":
-        table = soup.find('table', {'id': 'scout_full_GK'})
-        wanted_stats = 
-    elif poste == "":
-        table = soup.find('table', {'id': 'scout_full_GK'})
-        wanted_stats = 
-    elif poste == "":
-        table = soup.find('table', {'id': 'scout_full_GK'})
-        wanted_stats = 
-    elif poste == "":
-        table = soup.find('table', {'id': 'scout_full_GK'})
-        wanted_stats = 
-    table = soup.find('table', {'id': 'scout_full_GK'})
+    elif poste == "Defence" or poste == "Left-Back" or poste == "Right-Back" or poste == "Left Midfield" or poste == "Right Midfield":
+        table = soup.find('table', {'id': 'scout_full_FB'})
+        wanted_stats = wanted_stats_Field
+    elif poste == "Centre-Back":
+        table = soup.find('table', {'id': 'scout_full_CB'})
+        wanted_stats = wanted_stats_Field
+    elif poste == "Attacking Midfield" or poste == "Central Midfield" or poste == "Defensive Midfield" or poste == "Midfield":
+        table = soup.find('table', {'id': 'scout_full_MF'})
+        wanted_stats = wanted_stats_Field
+    elif poste == "Left Winger" or poste == "Right Winger":
+        table = soup.find('table', {'id': 'scout_full_AM'})
+        wanted_stats = wanted_stats_Field
+    elif poste == "Centre-Forward" or poste == "Offence":
+        table = soup.find('table', {'id': 'scout_full_FW'})
+        wanted_stats = wanted_stats_Field
+    #table = soup.find('table', {'id': 'scout_full_GK'})
     if table:
         rows = table.find_all('tr')
         for row in rows:
             stat_name_element = row.find('th')
             if stat_name_element:
                 stat_name_text = stat_name_element.text.strip()
-                if stat_name_text in wanted_stats_GK:
+                if stat_name_text in wanted_stats:
                     print(f"STAT NAME {stat_name_text}")
                     stat_value_element = row.find('td', {'data-stat': 'per90'})
                     if stat_value_element:
