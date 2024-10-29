@@ -99,13 +99,15 @@ def collect_stats(players_df):
             stats_list.append({
                 **stats
             })
-        time.sleep(2)
-        print(f"STATS {stats_list}")
+        time.sleep(10)
     return stats_list
 
 def merge_players_stats(players_df, stats_df):
     merged_df = players_df.merge(stats_df, on=['prénom', 'nom'], how='left')
     return merged_df
+
+def clear_empty_row(df):
+    pass
 
 def save_players_data(players):
     players.to_csv("./Data/Players_stats2024.csv", index=False)
@@ -115,4 +117,5 @@ if __name__ == "__main__":
     if stats:
         stats = pd.DataFrame(stats)
         stats_players = merge_players_stats(players, stats)
+        stats_players = clear_empty_row(stats_players)
         save_players_data(stats_players)
