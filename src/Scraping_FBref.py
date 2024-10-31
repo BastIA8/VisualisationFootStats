@@ -8,7 +8,6 @@ wanted_stats_GK = ['Goals Against', 'Shots on Target Against', 'Saves', 'Clean S
 wanted_stats_Field = ['Goals', 'Assists', 'Yellow Cards', 'Red Cards', 'Shots on Target', 'Goals/Shot', 'xG: Expected Goals' 'xA: Expected Assists', 'Key Passes', 'Passes Completed', 'Pass Completion %', 'Crosses', 'Progressive Passes', 'Progressive Carries', 'Tackles Won', 'Interceptions', 'Blocks', 'Clearances', 'Errors', 'Fouls Committed', 'Fouls Drawn', 'Offsides', 'Penalty Kicks Won', 'Penalty Kicks Conceded', 'Own Goals']
 
 def get_player_fbref_url(player_1st_name, player_last_name):
-
     if pd.isna(player_last_name):
         search_query = player_1st_name
     else:
@@ -26,6 +25,24 @@ def get_player_fbref_url(player_1st_name, player_last_name):
         return None
 
     return response.url
+
+def get_player_match_count(soup):
+    match_section = soup.find('div', {'class': 'p1'})
+    
+    if match_section:
+        match_block = match_section.find('div', recursive=False)
+        
+        if match_block:
+            label = match_block.find('span', {'class': 'poptip', 'data-tip': 'Matches Played by the player or squad'})
+            
+            if label:
+                match_values = [int(p.get_text(strip=True)) for p in match_block.find_all('p') if p.get_text(strip=True).isdigit()]
+                
+                if match_values:
+                    total_matches = sum(match_values)
+                    return total_matches
+    
+    return 0
 
 def scrap_player_stats(player_1st_name, player_last_name, poste):
     player_url = get_player_fbref_url(player_1st_name, player_last_name)
@@ -46,30 +63,25 @@ def scrap_player_stats(player_1st_name, player_last_name, poste):
         return None
 
     soup = BeautifulSoup(response.content, 'html.parser')
-    player_stats = scrape_player_profile(soup, poste)
+    match_count = get_player_match_count(soup)
+    player_stats = {'match_played': match_count}
+    player_stats.update(scrape_player_profile(soup, poste))
     return player_stats
 
 def scrape_player_profile(soup, poste):
     stats = {}
-    if poste == "Goalkeeper":
-        table = soup.find('table', {'id': 'scout_full_GK'})
-        wanted_stats = wanted_stats_GK
-    elif poste == "Defence" or poste == "Left-Back" or poste == "Right-Back" or poste == "Left Midfield" or poste == "Right Midfield":
-        table = soup.find('table', {'id': 'scout_full_FB'})
-        wanted_stats = wanted_stats_Field
-    elif poste == "Centre-Back":
-        table = soup.find('table', {'id': 'scout_full_CB'})
-        wanted_stats = wanted_stats_Field
-    elif poste == "Attacking Midfield" or poste == "Central Midfield" or poste == "Defensive Midfield" or poste == "Midfield":
-        table = soup.find('table', {'id': 'scout_full_MF'})
-        wanted_stats = wanted_stats_Field
-    elif poste == "Left Winger" or poste == "Right Winger":
-        table = soup.find('table', {'id': 'scout_full_AM'})
-        wanted_stats = wanted_stats_Field
-    elif poste == "Centre-Forward" or poste == "Offence":
-        table = soup.find('table', {'id': 'scout_full_FW'})
-        wanted_stats = wanted_stats_Field
-    #table = soup.find('table', {'id': 'scout_full_GK'})
+    table_id = {
+        "Goalkeeper": 'scout_full_GK',
+        "Defence": 'scout_full_FB',
+        "Centre-Back": 'scout_full_CB',
+        "Midfield": 'scout_full_MF',
+        "Winger": 'scout_full_AM',
+        "Forward": 'scout_full_FW'
+    }.get(poste, 'scout_full_FW')
+    wanted_stats = wanted_stats_GK if poste == "Goalkeeper" else wanted_stats_Field
+
+    table = soup.find('table', {'id': table_id})
+    
     if table:
         rows = table.find_all('tr')
         for row in rows:
@@ -77,15 +89,11 @@ def scrape_player_profile(soup, poste):
             if stat_name_element:
                 stat_name_text = stat_name_element.text.strip()
                 if stat_name_text in wanted_stats:
-                    print(f"STAT NAME {stat_name_text}")
                     stat_value_element = row.find('td', {'data-stat': 'per90'})
                     if stat_value_element:
                         stat_value = stat_value_element.text.strip()
-                        print(f"STAT VALUE {stat_value}")
                         stats[stat_name_text] = stat_value
-    print(f"Stats profile {stats}")
     return stats
-
 
 def collect_stats(players_df):
     stats_list = []
@@ -99,7 +107,7 @@ def collect_stats(players_df):
             stats_list.append({
                 **stats
             })
-        time.sleep(10)
+        time.sleep(15)
     return stats_list
 
 def merge_players_stats(players_df, stats_df):
