@@ -2,19 +2,17 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
+from unidecode import unidecode
 
-players = pd.read_csv('./Data/Players2024.csv')
 wanted_stats_GK = ['Goals Against', 'Shots on Target Against', 'Saves', 'Clean Sheets', 'Save% (Penalty Kicks)', 'PSxG/SoT', 'Passes Attempted (Launched)', 'Pass Completion Percentage (Launched)']
 wanted_stats_Field = ['Goals', 'Assists', 'Yellow Cards', 'Red Cards', 'Shots on Target', 'Goals/Shot', 'xG: Expected Goals' 'xA: Expected Assists', 'Key Passes', 'Passes Completed', 'Pass Completion %', 'Crosses', 'Progressive Passes', 'Progressive Carries', 'Tackles Won', 'Interceptions', 'Blocks', 'Clearances', 'Errors', 'Fouls Committed', 'Fouls Drawn', 'Offsides', 'Penalty Kicks Won', 'Penalty Kicks Conceded', 'Own Goals']
 
-def get_player_fbref_url(player_1st_name, player_last_name):
-    if pd.isna(player_last_name):
-        search_query = player_1st_name
-    else:
-        search_query = f"{player_1st_name}+{player_last_name}"
+def get_player_fbref_url(player_1st_name, player_last_name=None):
+    search_query = unidecode(player_1st_name)
+    if not pd.isna(player_last_name):
+        search_query += f"+{unidecode(player_last_name)}"
 
     search_url = f"https://fbref.com/en/search/search.fcgi?search={search_query}"
-
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
@@ -51,13 +49,16 @@ def scrap_player_stats(player_1st_name, player_last_name, poste):
         return None
 
     player_id = player_url.split("/")[-2]
-    scouting_url = f"https://fbref.com/en/players/{player_id}/scout/365_m1/{player_1st_name}-{player_last_name}-Scouting-Report"
+    scouting_url = f"https://fbref.com/en/players/{player_id}/scout/365_m1/{unidecode(player_1st_name)}"
+    if not pd.isna(player_last_name):
+        scouting_url += f"-{unidecode(player_last_name)}"
+    scouting_url += "-Scouting-Report"
+    
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
 
     response = requests.get(scouting_url, headers=headers)
-
     if response.status_code != 200:
         print(f"Erreur lors de l'accès au scouting report de {player_1st_name} {player_last_name} : {response.status_code}")
         return None
@@ -76,7 +77,9 @@ def scrape_player_profile(soup, poste):
         "Centre-Back": 'scout_full_CB',
         "Midfield": 'scout_full_MF',
         "Winger": 'scout_full_AM',
-        "Forward": 'scout_full_FW'
+        "Forward": 'scout_full_FW',
+        "Defensive Midfield": 'scout_full_MF',
+        "Right-Back": 'scout_full_FB'
     }.get(poste, 'scout_full_FW')
     wanted_stats = wanted_stats_GK if poste == "Goalkeeper" else wanted_stats_Field
 
@@ -95,7 +98,7 @@ def scrape_player_profile(soup, poste):
                         stats[stat_name_text] = stat_value
     return stats
 
-def collect_stats(players_df):
+def collect_stats(players_df, checkpoint_interval=100):
     stats_list = []
     for index, row in players_df.iterrows():
         first_name = row['prénom']
@@ -103,10 +106,18 @@ def collect_stats(players_df):
         poste = row['poste']
         print(f"Scraping des statistiques pour {first_name} {last_name}...")
         stats = scrap_player_stats(first_name, last_name, poste)
+
         if stats:
             stats_list.append({
+                'prénom': first_name,
+                'nom': last_name,
                 **stats
             })
+        
+        if (index + 1) % checkpoint_interval == 0:
+            pd.DataFrame(stats_list).to_csv(f"./Data/checkpoint_{index + 1}.csv", index=False)
+            print(f"Checkpoint sauvegardé pour {index + 1} joueurs.")
+
         time.sleep(15)
     return stats_list
 
@@ -114,16 +125,15 @@ def merge_players_stats(players_df, stats_df):
     merged_df = players_df.merge(stats_df, on=['prénom', 'nom'], how='left')
     return merged_df
 
-def clear_empty_row(df):
-    pass
 
 def save_players_data(players):
     players.to_csv("./Data/Players_stats2024.csv", index=False)
 
 if __name__ == "__main__":
-    stats = collect_stats(players)
+    players = pd.read_csv('./Data/Players2024.csv')
+    stats = collect_stats(players[:50])
     if stats:
         stats = pd.DataFrame(stats)
         stats_players = merge_players_stats(players, stats)
-        stats_players = clear_empty_row(stats_players)
+        #stats_players = clear_empty_row(stats_players)
         save_players_data(stats_players)
