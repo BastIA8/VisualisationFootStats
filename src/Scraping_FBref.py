@@ -125,7 +125,12 @@ def merge_players_stats(players_df, stats_df):
     merged_df = players_df.merge(stats_df, on=['prénom', 'nom'], how='left')
     return merged_df
 
-
+def clear_empty_row(df, max_missing_cols=25):
+    df['missing_count'] = df.isnull().sum(axis=1)
+    df_cleaned = df[df['missing_count'] <= max_missing_cols].drop(columns=['missing_count'])
+    
+    return df_cleaned
+    
 def save_players_data(players):
     players.to_csv("./Data/Players_stats2024.csv", index=False)
 
