@@ -8,9 +8,9 @@ wanted_stats_GK = ['Goals Against', 'Shots on Target Against', 'Saves', 'Clean S
 wanted_stats_Field = ['Goals', 'Assists', 'Yellow Cards', 'Red Cards', 'Shots on Target', 'Goals/Shot', 'xG: Expected Goals' 'xA: Expected Assists', 'Key Passes', 'Passes Completed', 'Pass Completion %', 'Crosses', 'Progressive Passes', 'Progressive Carries', 'Tackles Won', 'Interceptions', 'Blocks', 'Clearances', 'Errors', 'Fouls Committed', 'Fouls Drawn', 'Offsides', 'Penalty Kicks Won', 'Penalty Kicks Conceded', 'Own Goals']
 
 def get_player_fbref_url(player_1st_name, player_last_name=None):
-    search_query = unidecode(player_1st_name)
+    search_query = player_1st_name
     if not pd.isna(player_last_name):
-        search_query += f"+{unidecode(player_last_name)}"
+        search_query += f"+{player_last_name}"
 
     search_url = f"https://fbref.com/en/search/search.fcgi?search={search_query}"
     headers = {
@@ -29,17 +29,13 @@ def get_player_match_count(soup):
     
     if match_section:
         match_block = match_section.find('div', recursive=False)
-        
         if match_block:
             label = match_block.find('span', {'class': 'poptip', 'data-tip': 'Matches Played by the player or squad'})
-            
             if label:
                 match_values = [int(p.get_text(strip=True)) for p in match_block.find_all('p') if p.get_text(strip=True).isdigit()]
-                
                 if match_values:
                     total_matches = sum(match_values)
                     return total_matches
-    
     return 0
 
 def scrap_player_stats(player_1st_name, player_last_name, poste):
@@ -49,15 +45,15 @@ def scrap_player_stats(player_1st_name, player_last_name, poste):
         return None
 
     player_id = player_url.split("/")[-2]
-    scouting_url = f"https://fbref.com/en/players/{player_id}/scout/365_m1/{unidecode(player_1st_name)}"
+    scouting_url = f"https://fbref.com/en/players/{player_id}/scout/365_m1/{player_1st_name}"
+
     if not pd.isna(player_last_name):
-        scouting_url += f"-{unidecode(player_last_name)}"
+        scouting_url += f"-{player_last_name}"
     scouting_url += "-Scouting-Report"
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
-
     response = requests.get(scouting_url, headers=headers)
     if response.status_code != 200:
         print(f"Erreur lors de l'accès au scouting report de {player_1st_name} {player_last_name} : {response.status_code}")
@@ -74,12 +70,19 @@ def scrape_player_profile(soup, poste):
     table_id = {
         "Goalkeeper": 'scout_full_GK',
         "Defence": 'scout_full_FB',
+        "Right-Back": 'scout_full_FB',
+        "Left-Back": 'scout_full_FB',
+        "Right Midfield": 'scout_full_FB',
+        "Left Midfield": 'scout_full_FB',
         "Centre-Back": 'scout_full_CB',
         "Midfield": 'scout_full_MF',
-        "Winger": 'scout_full_AM',
-        "Forward": 'scout_full_FW',
         "Defensive Midfield": 'scout_full_MF',
-        "Right-Back": 'scout_full_FB'
+        "Attacking Midfield": 'scout_full_MF',
+        "Central Midfield": 'scout_full_MF',
+        "Right Winger": 'scout_full_AM',
+        "Left Winger": 'scout_full_AM',
+        "Centre-Forward": 'scout_full_FW',
+        "Offense": 'scout_full_FW'
     }.get(poste, 'scout_full_FW')
     wanted_stats = wanted_stats_GK if poste == "Goalkeeper" else wanted_stats_Field
 
