@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
+import glob
 from unidecode import unidecode
 
 wanted_stats_GK = ['Goals Against', 'Shots on Target Against', 'Saves', 'Clean Sheets', 'Save% (Penalty Kicks)', 'PSxG/SoT', 'Passes Attempted (Launched)', 'Pass Completion Percentage (Launched)']
@@ -139,9 +140,25 @@ def save_players_data(players):
 
 if __name__ == "__main__":
     players = pd.read_csv('./Data/Players2024.csv')
-    stats = collect_stats(players[:50])
-    if stats:
-        stats = pd.DataFrame(stats)
-        stats_players = merge_players_stats(players, stats)
-        #stats_players = clear_empty_row(stats_players)
+
+    try:
+        checkpoint_files = sorted(glob.glob("./Data/checkpoint_*.csv"))
+        if checkpoint_files:
+            last_checkpoint = checkpoint_files[-1]
+            processed_stats = pd.read_csv(last_checkpoint)
+            starting_index = len(processed_stats)
+            print(f"Reprise à partir de {starting_index} joueurs.")
+        else:
+            processed_stats = pd.DataFrame()
+            starting_index = 0
+    except Exception as e:
+        print("Erreur lors du chargement du checkpoint:", e)
+        processed_stats = pd.DataFrame()
+        starting_index = 0
+
+    new_stats = collect_stats(players[starting_index:])
+    if new_stats:
+        new_stats = pd.DataFrame(new_stats)
+        stats_players = pd.concat([processed_stats, new_stats], ignore_index=True)
+        stats_players = clear_empty_row(stats_players)
         save_players_data(stats_players)
