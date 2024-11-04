@@ -13,8 +13,8 @@
 11,Ismeal,Kabia,Offence,Arsenal FC,Premier League
 12,Jurrien,Timber,Centre-Back,Arsenal FC,Premier League
 13,William,Saliba,Centre-Back,Arsenal FC,Premier League
-14,Martinelli,,Left Winger,Arsenal FC,Premier League
-15,Gabriel,,Centre-Back,Arsenal FC,Premier League
+14,Gabriel,Martinelli,Left Winger,Arsenal FC,Premier League
+15,Gabriel,Magalhaes,Centre-Back,Arsenal FC,Premier League
 16,Kieran,Tierney,Left-Back,Arsenal FC,Premier League
 17,Takehiro,Tomiyasu,Right-Back,Arsenal FC,Premier League
 18,Leandro,Trossard,Left Winger,Arsenal FC,Premier League
@@ -34,7 +34,7 @@
 32,Jakub,Kiwior,Left-Back,Arsenal FC,Premier League
 33,Riccardo,Calafiori,Centre-Back,Arsenal FC,Premier League
 34,Bukayo,Saka,Right Winger,Arsenal FC,Premier League
-35,Emiliano,Martínez,Goalkeeper,Aston Villa FC,Premier League
+35,Emiliano,Martinez,Goalkeeper,Aston Villa FC,Premier League
 36,Robin,Olsen,Goalkeeper,Aston Villa FC,Premier League
 37,Joe,Gauci,Goalkeeper,Aston Villa FC,Premier League
 38,Oliwier,Zych,Goalkeeper,Aston Villa FC,Premier League
@@ -47,7 +47,7 @@
 45,Jamaldeen,Jimoh,Midfield,Aston Villa FC,Premier League
 46,John,McGinn,Central Midfield,Aston Villa FC,Premier League
 47,Pau,Torres,Centre-Back,Aston Villa FC,Premier League
-48,Emiliano,Buendía,Right Winger,Aston Villa FC,Premier League
+48,Emiliano,Buendia,Right Winger,Aston Villa FC,Premier League
 49,Matty,Cash,Right-Back,Aston Villa FC,Premier League
 50,Diego,Carlos,Centre-Back,Aston Villa FC,Premier League
 51,Boubacar,Kamara,Defensive Midfield,Aston Villa FC,Premier League
@@ -59,7 +59,7 @@
 57,Youri,Tielemans,Central Midfield,Aston Villa FC,Premier League
 58,Lucas,Digne,Left-Back,Aston Villa FC,Premier League
 59,Leon,Bailey,Right Winger,Aston Villa FC,Premier League
-60,Kosta,Nedeljković,Right-Back,Aston Villa FC,Premier League
+60,Kosta,Nedeljkovic,Right-Back,Aston Villa FC,Premier League
 61,Travis,Patterson,Left-Back,Aston Villa FC,Premier League
 62,Kadan,Young,Left Winger,Aston Villa FC,Premier League
 63,Lamare,Bogarde,Centre-Back,Aston Villa FC,Premier League
@@ -67,23 +67,23 @@
 65,Ian,Maatsen,Left-Back,Aston Villa FC,Premier League
 66,Amadou,Onana,Defensive Midfield,Aston Villa FC,Premier League
 67,Jacob,Ramsey,Attacking Midfield,Aston Villa FC,Premier League
-68,Jhon,Durán,Centre-Forward,Aston Villa FC,Premier League
+68,Jhon,Duran,Centre-Forward,Aston Villa FC,Premier League
 69,Morgan,Rogers,Left Winger,Aston Villa FC,Premier League
 70,Marcus,Bettinelli,Goalkeeper,Chelsea FC,Premier League
-71,Robert,Sánchez,Goalkeeper,Chelsea FC,Premier League
-72,Filip,Jörgensen,Goalkeeper,Chelsea FC,Premier League
-73,Lucas,Bergström,Goalkeeper,Chelsea FC,Premier League
+71,Robert,Sanchez,Goalkeeper,Chelsea FC,Premier League
+72,Filip,Jorgensen,Goalkeeper,Chelsea FC,Premier League
+73,Lucas,Bergstrom,Goalkeeper,Chelsea FC,Premier League
 74,Max,Merrick,Goalkeeper,Chelsea FC,Premier League
 75,Omari,Kellyman,Offence,Chelsea FC,Premier League
 76,Malo,Gusto,Right-Back,Chelsea FC,Premier League
 77,Cole,Palmer,Attacking Midfield,Chelsea FC,Premier League
 78,Kiernan,Dewsbury Hall,Central Midfield,Chelsea FC,Premier League
-79,Moisés,Caicedo,Defensive Midfield,Chelsea FC,Premier League
-80,Enzo,Fernández,Central Midfield,Chelsea FC,Premier League
+79,Moises,Caicedo,Defensive Midfield,Chelsea FC,Premier League
+80,Enzo,Fernandez,Central Midfield,Chelsea FC,Premier League
 81,Mykhailo,Mudryk,Left Winger,Chelsea FC,Premier League
 82,Reece,James,Right-Back,Chelsea FC,Premier League
-83,João,Félix,Left Winger,Chelsea FC,Premier League
-84,Cucurella,,Left-Back,Chelsea FC,Premier League
+83,Joao,Felix,Left Winger,Chelsea FC,Premier League
+84,Marc,Cucurella,Left-Back,Chelsea FC,Premier League
 85,Wesley,Fofana,Centre-Back,Chelsea FC,Premier League
 86,Christopher,Nkunku,Attacking Midfield,Chelsea FC,Premier League
 87,Ben,Chilwell,Left-Back,Chelsea FC,Premier League
@@ -100,13 +100,13 @@
 98,Renato,Veiga,Left-Back,Chelsea FC,Premier League
 99,Romeo,Lavia,Defensive Midfield,Chelsea FC,Premier League
 100,Levi,Colwill,Centre-Back,Chelsea FC,Premier League
-101,Benoît,Badiashile,Centre-Back,Chelsea FC,Premier League
+101,Benoit,Badiashile,Centre-Back,Chelsea FC,Premier League
 102,Noni,Madueke,Right Winger,Chelsea FC,Premier League
 103,Carney,Chukwuemeka,Central Midfield,Chelsea FC,Premier League
 104,Nicolas,Jackson,Centre-Forward,Chelsea FC,Premier League
 105,Jordan,Pickford,Goalkeeper,Everton FC,Premier League
-106,Asmir,Begović,Goalkeeper,Everton FC,Premier League
-107,João,Virgínia,Goalkeeper,Everton FC,Premier League
+106,Asmir,Begovic,Goalkeeper,Everton FC,Premier League
+107,Joao,Virginia,Goalkeeper,Everton FC,Premier League
 108,Roman,Dixon,Defence,Everton FC,Premier League
 109,Bradley,Moonan,Defence,Everton FC,Premier League
 110,Harrison,Armstrong,Midfield,Everton FC,Premier League
@@ -117,12 +117,12 @@
 115,Vitalii,Mykolenko,Left-Back,Everton FC,Premier League
 116,Dwight,McNeil,Left Winger,Everton FC,Premier League
 117,Orel,Mangala,Central Midfield,Everton FC,Premier League
-118,Abdoulaye,Doucouré,Central Midfield,Everton FC,Premier League
+118,Abdoulaye,Doucoure,Central Midfield,Everton FC,Premier League
 119,Dominic,Calvert-Lewin,Centre-Forward,Everton FC,Premier League
-120,Séamus,Coleman,Right-Back,Everton FC,Premier League
+120,Seamus,Coleman,Right-Back,Everton FC,Premier League
 121,Michael,Keane,Centre-Back,Everton FC,Premier League
 122,Jack,Harrison,Right Winger,Everton FC,Premier League
-123,Idrissa,Gana Guèye,Central Midfield,Everton FC,Premier League
+123,Idrissa,Gana Gueye,Central Midfield,Everton FC,Premier League
 124,Ashley,Young,Left-Back,Everton FC,Premier League
 125,James,Tarkowski,Centre-Back,Everton FC,Premier League
 126,Youssef,Chermiti,Centre-Forward,Everton FC,Premier League
@@ -142,26 +142,26 @@
 140,Rodrigo,Muniz,Centre-Forward,Fulham FC,Premier League
 141,Jorge,Cuenca,Centre-Back,Fulham FC,Premier League
 142,Emile,Smith Rowe,Attacking Midfield,Fulham FC,Premier League
-143,Carlos,Vinícius,Centre-Forward,Fulham FC,Premier League
+143,Carlos,Vinicius,Centre-Forward,Fulham FC,Premier League
 144,Andreas,Pereira,Attacking Midfield,Fulham FC,Premier League
-145,Saša,Lukić,Central Midfield,Fulham FC,Premier League
+145,Sasa,Lukic,Central Midfield,Fulham FC,Premier League
 146,Harry,Wilson,Right Winger,Fulham FC,Premier League
 147,Sander,Berge,Central Midfield,Fulham FC,Premier League
 148,Kenny,Tete,Right-Back,Fulham FC,Premier League
 149,Issa,Diop,Centre-Back,Fulham FC,Premier League
 150,Reiss,Nelson,Right Winger,Fulham FC,Premier League
-151,Adama,Traoré,Right Winger,Fulham FC,Premier League
+151,Adama,Traore,Right Winger,Fulham FC,Premier League
 152,Harrison,Reed,Central Midfield,Fulham FC,Premier League
 153,Tom,Cairney,Central Midfield,Fulham FC,Premier League
 154,Ryan,Sessegnon,Left-Back,Fulham FC,Premier League
 155,Antonee,Robinson,Left-Back,Fulham FC,Premier League
 156,Alex,Iwobi,Left Winger,Fulham FC,Premier League
-157,Raúl,Jiménez,Centre-Forward,Fulham FC,Premier League
+157,Raul,Jimenez,Centre-Forward,Fulham FC,Premier League
 158,Joachim,Andersen,Centre-Back,Fulham FC,Premier League
 159,Timothy,Castagne,Right-Back,Fulham FC,Premier League
 160,Alisson,,Goalkeeper,Liverpool FC,Premier League
 161,Caoimhin,Kelleher,Goalkeeper,Liverpool FC,Premier League
-162,Vítězslav,Jaroš,Goalkeeper,Liverpool FC,Premier League
+162,Vitezslav,Jaros,Goalkeeper,Liverpool FC,Premier League
 163,Tyler,Morton,Midfield,Liverpool FC,Premier League
 164,Trey,Nyoni,Attacking Midfield,Liverpool FC,Premier League
 165,Jarell,Quansah,Centre-Back,Liverpool FC,Premier League
@@ -169,10 +169,10 @@
 167,Harvey,Elliott,Central Midfield,Liverpool FC,Premier League
 168,Ryan,Gravenberch,Central Midfield,Liverpool FC,Premier League
 169,Alexis,Mac Allister,Central Midfield,Liverpool FC,Premier League
-170,Darwin,Núñez,Centre-Forward,Liverpool FC,Premier League
-171,Luis,Díaz,Left Winger,Liverpool FC,Premier League
+170,Darwin,Nunez,Centre-Forward,Liverpool FC,Premier League
+171,Luis,Diaz,Left Winger,Liverpool FC,Premier League
 172,Dominik,Szoboszlai,Central Midfield,Liverpool FC,Premier League
-173,Ibrahima,Konaté,Centre-Back,Liverpool FC,Premier League
+173,Ibrahima,Konate,Centre-Back,Liverpool FC,Premier League
 174,Curtis,Jones,Central Midfield,Liverpool FC,Premier League
 175,Virgil,van Dijk,Centre-Back,Liverpool FC,Premier League
 176,Andrew,Robertson,Left-Back,Liverpool FC,Premier League
@@ -182,7 +182,7 @@
 180,Kostas,Tsimikas,Left-Back,Liverpool FC,Premier League
 181,Diogo,Jota,Centre-Forward,Liverpool FC,Premier League
 182,Mohamed,Salah,Right Winger,Liverpool FC,Premier League
-183,Wataru,Endō,Defensive Midfield,Liverpool FC,Premier League
+183,Wataru,Endo,Defensive Midfield,Liverpool FC,Premier League
 184,Federico,Chiesa,Left Winger,Liverpool FC,Premier League
 185,Ederson,,Goalkeeper,Manchester City FC,Premier League
 186,Scott,Carson,Goalkeeper,Manchester City FC,Premier League
@@ -194,13 +194,13 @@
 192,Oscar,Bobb,Right Winger,Manchester City FC,Premier League
 193,James,McAtee,Central Midfield,Manchester City FC,Premier League
 194,Josh,Wilson-Esbrand,Left-Back,Manchester City FC,Premier League
-195,Sávio,,Right Winger,Manchester City FC,Premier League
-196,Joško,Gvardiol,Left-Back,Manchester City FC,Premier League
+195,Savio,,Right Winger,Manchester City FC,Premier League
+196,Josko,Gvardiol,Left-Back,Manchester City FC,Premier League
 197,Jeremy,Doku,Left Winger,Manchester City FC,Premier League
 198,Matheus,Nunes,Central Midfield,Manchester City FC,Premier League
 199,Erling,Haaland,Centre-Forward,Manchester City FC,Premier League
-200,Rúben,Dias,Centre-Back,Manchester City FC,Premier League
-201,Nathan,Aké,Centre-Back,Manchester City FC,Premier League
+200,Ruben,Dias,Centre-Back,Manchester City FC,Premier League
+201,Nathan,Ake,Centre-Back,Manchester City FC,Premier League
 202,Phil,Foden,Right Winger,Manchester City FC,Premier League
 203,Jack,Grealish,Left Winger,Manchester City FC,Premier League
 204,Kevin,De Bruyne,Attacking Midfield,Manchester City FC,Premier League
@@ -208,12 +208,12 @@
 206,Kyle,Walker,Right-Back,Manchester City FC,Premier League
 207,Bernardo,Silva,Attacking Midfield,Manchester City FC,Premier League
 208,Rodri,,Defensive Midfield,Manchester City FC,Premier League
-209,Ilkay,Gündogan,Central Midfield,Manchester City FC,Premier League
+209,Ilkay,Gundogan,Central Midfield,Manchester City FC,Premier League
 210,Manuel,Akanji,Centre-Back,Manchester City FC,Premier League
-211,Mateo,Kovačić,Central Midfield,Manchester City FC,Premier League
+211,Mateo,Kovacic,Central Midfield,Manchester City FC,Premier League
 212,André,Onana,Goalkeeper,Manchester United FC,Premier League
 213,Tom,Heaton,Goalkeeper,Manchester United FC,Premier League
-214,Altay,Bayındır,Goalkeeper,Manchester United FC,Premier League
+214,Altay,Bayindir,Goalkeeper,Manchester United FC,Premier League
 215,Ethan,Wheatley,Centre-Forward,Manchester United FC,Premier League
 216,Toby,Collyer,Defensive Midfield,Manchester United FC,Premier League
 217,Daniel,Gore,Central Midfield,Manchester United FC,Premier League
@@ -225,7 +225,7 @@
 223,Amad,Diallo,Right Winger,Manchester United FC,Premier League
 224,Joshua,Zirkzee,Centre-Forward,Manchester United FC,Premier League
 225,Antony,,Right Winger,Manchester United FC,Premier League
-226,Lisandro,Martínez,Centre-Back,Manchester United FC,Premier League
+226,Lisandro,Martinez,Centre-Back,Manchester United FC,Premier League
 227,Manuel,Ugarte,Defensive Midfield,Manchester United FC,Premier League
 228,Diogo,Dalot,Right-Back,Manchester United FC,Premier League
 229,Jonny,Evans,Centre-Back,Manchester United FC,Premier League
@@ -234,7 +234,7 @@
 232,Noussair,Mazraoui,Right-Back,Manchester United FC,Premier League
 233,Matthijs,de Ligt,Centre-Back,Manchester United FC,Premier League
 234,Tyrell,Malacia,Left-Back,Manchester United FC,Premier League
-235,Victor,Nilsson-Lindelöf,Centre-Back,Manchester United FC,Premier League
+235,Victor,Nilsson-Lindelof,Centre-Back,Manchester United FC,Premier League
 236,Christian,Eriksen,Central Midfield,Manchester United FC,Premier League
 237,Marcus,Rashford,Left Winger,Manchester United FC,Premier League
 238,Harry,Maguire,Centre-Back,Manchester United FC,Premier League
@@ -252,7 +252,7 @@
 250,William,Osula,Centre-Forward,Newcastle United FC,Premier League
 251,Valentino,Livramento,Right-Back,Newcastle United FC,Premier League
 252,Sven,Botman,Centre-Back,Newcastle United FC,Premier League
-253,Miguel,Almirón,Right Winger,Newcastle United FC,Premier League
+253,Miguel,Almiron,Right Winger,Newcastle United FC,Premier League
 254,Joelinton,,Central Midfield,Newcastle United FC,Premier League
 255,Callum,Wilson,Centre-Forward,Newcastle United FC,Premier League
 256,Harvey,Barnes,Left Winger,Newcastle United FC,Premier League
@@ -268,8 +268,8 @@
 266,Kieran,Trippier,Right-Back,Newcastle United FC,Premier League
 267,Sandro,Tonali,Defensive Midfield,Newcastle United FC,Premier League
 268,Emil,Krafth,Right-Back,Newcastle United FC,Premier League
-269,Bruno,Guimarães,Defensive Midfield,Newcastle United FC,Premier League
-270,Fabian,Schär,Centre-Back,Newcastle United FC,Premier League
+269,Bruno,Guimaraes,Defensive Midfield,Newcastle United FC,Premier League
+270,Fabian,Schar,Centre-Back,Newcastle United FC,Premier League
 271,Guglielmo,Vicario,Goalkeeper,Tottenham Hotspur FC,Premier League
 272,Alfie,Whiteman,Goalkeeper,Tottenham Hotspur FC,Premier League
 273,Fraser,Forster,Goalkeeper,Tottenham Hotspur FC,Premier League
@@ -280,7 +280,7 @@
 278,Brennan,Johnson,Right Winger,Tottenham Hotspur FC,Premier League
 279,Pedro,Porro,Right-Back,Tottenham Hotspur FC,Premier League
 280,Djed,Spence,Right-Back,Tottenham Hotspur FC,Premier League
-281,Reguilón,,Left-Back,Tottenham Hotspur FC,Premier League
+281,Sergio,Reguilon,Left-Back,Tottenham Hotspur FC,Premier League
 282,Christian,Romero,Centre-Back,Tottenham Hotspur FC,Premier League
 283,Yves,Bissouma,Defensive Midfield,Tottenham Hotspur FC,Premier League
 284,Richarlison,,Centre-Forward,Tottenham Hotspur FC,Premier League
@@ -299,19 +299,19 @@
 297,Pape,Sarr,Central Midfield,Tottenham Hotspur FC,Premier League
 298,Destiny,Udogie,Left-Back,Tottenham Hotspur FC,Premier League
 299,Heung-min,Son,Left Winger,Tottenham Hotspur FC,Premier League
-300,Radu,Drăgușin,Centre-Back,Tottenham Hotspur FC,Premier League
+300,Radu,Dragușin,Centre-Back,Tottenham Hotspur FC,Premier League
 301,Mickey,van de Ven,Centre-Back,Tottenham Hotspur FC,Premier League
 302,Sam,Johnstone,Goalkeeper,Wolverhampton Wanderers FC,Premier League
 303,Daniel,Bentley,Goalkeeper,Wolverhampton Wanderers FC,Premier League
 304,Thomas,King,Goalkeeper,Wolverhampton Wanderers FC,Premier League
-305,José,Sá,Goalkeeper,Wolverhampton Wanderers FC,Premier League
+305,Jose,Sa,Goalkeeper,Wolverhampton Wanderers FC,Premier League
 306,Luke,Rawlings,Midfield,Wolverhampton Wanderers FC,Premier League
 307,Jørgen,Strand Larsen,Offence,Wolverhampton Wanderers FC,Premier League
 308,Santiago,Bueno,Centre-Back,Wolverhampton Wanderers FC,Premier League
 309,Matheus,Cunha,Centre-Forward,Wolverhampton Wanderers FC,Premier League
-310,Nélson,Semedo,Right-Back,Wolverhampton Wanderers FC,Premier League
-311,Saša,Kalajdžić,Centre-Forward,Wolverhampton Wanderers FC,Premier League
-312,Rayan,Aït Nouri,Left-Back,Wolverhampton Wanderers FC,Premier League
+310,Nelson,Semedo,Right-Back,Wolverhampton Wanderers FC,Premier League
+311,Sasa,Kalajdzic,Centre-Forward,Wolverhampton Wanderers FC,Premier League
+312,Rayan,Ait Nouri,Left-Back,Wolverhampton Wanderers FC,Premier League
 313,Mario,Lemina,Defensive Midfield,Wolverhampton Wanderers FC,Premier League
 314,Craig,Dawson,Centre-Back,Wolverhampton Wanderers FC,Premier League
 315,Matt,Doherty,Right-Back,Wolverhampton Wanderers FC,Premier League
@@ -321,16 +321,16 @@
 319,Pablo,Sarabia,Right Winger,Wolverhampton Wanderers FC,Premier League
 320,Pedro,Lima,Right-Back,Wolverhampton Wanderers FC,Premier League
 321,Bastien,Meupiyou Menadjou,Centre-Back,Wolverhampton Wanderers FC,Premier League
-322,Forbs,,Left Winger,Wolverhampton Wanderers FC,Premier League
+322,Carlos,Forbs,Left Winger,Wolverhampton Wanderers FC,Premier League
 323,Enso,Gonzalez,Left Winger,Wolverhampton Wanderers FC,Premier League
 324,Harvey,Griffiths,Defensive Midfield,Wolverhampton Wanderers FC,Premier League
 325,Tommy,Doyle,Central Midfield,Wolverhampton Wanderers FC,Premier League
 326,Yerson,Mosquera,Centre-Back,Wolverhampton Wanderers FC,Premier League
 327,Alfie,Pond,Centre-Back,Wolverhampton Wanderers FC,Premier League
 328,Rodrigo,Gomes,Right Midfield,Wolverhampton Wanderers FC,Premier League
-329,André,,Defensive Midfield,Wolverhampton Wanderers FC,Premier League
-330,João,Gomes,Central Midfield,Wolverhampton Wanderers FC,Premier League
-331,Boubacar,Traoré,Defensive Midfield,Wolverhampton Wanderers FC,Premier League
+329,Andre,,Defensive Midfield,Wolverhampton Wanderers FC,Premier League
+330,Joao,Gomes,Central Midfield,Wolverhampton Wanderers FC,Premier League
+331,Boubacar,Traore,Defensive Midfield,Wolverhampton Wanderers FC,Premier League
 332,Luke,Cundle,Central Midfield,Wolverhampton Wanderers FC,Premier League
 333,Toti,Gomes,Centre-Back,Wolverhampton Wanderers FC,Premier League
 334,Danny,Ward,Goalkeeper,Leicester City FC,Premier League
@@ -350,7 +350,7 @@
 348,Patson,Daka,Centre-Forward,Leicester City FC,Premier League
 349,Odsonne,Edouard,Centre-Forward,Leicester City FC,Premier League
 350,Ricardo,Pereira,Right-Back,Leicester City FC,Premier League
-351,Boubakary,Soumaré,Defensive Midfield,Leicester City FC,Premier League
+351,Boubakary,Soumare,Defensive Midfield,Leicester City FC,Premier League
 352,Hamza,Choudhury,Defensive Midfield,Leicester City FC,Premier League
 353,Harry,Winks,Defensive Midfield,Leicester City FC,Premier League
 354,Jordan,Ayew,Centre-Forward,Leicester City FC,Premier League
@@ -434,16 +434,16 @@
 432,Anthony,Elanga,Right Winger,Nottingham Forest FC,Premier League
 433,Andrew,Omobamidele,Centre-Back,Nottingham Forest FC,Premier League
 434,Danilo,dos Santos de Oliveira,Defensive Midfield,Nottingham Forest FC,Premier League
-435,Ramón,Sosa,Left Winger,Nottingham Forest FC,Premier League
+435,Ramon,Sosa,Left Winger,Nottingham Forest FC,Premier League
 436,Jota,Silva,Left Winger,Nottingham Forest FC,Premier League
 437,Neco,Williams,Right-Back,Nottingham Forest FC,Premier League
 438,Morato,,Centre-Back,Nottingham Forest FC,Premier League
 439,Elliot,Anderson,Central Midfield,Nottingham Forest FC,Premier League
-440,Nicolás,Domínguez,Central Midfield,Nottingham Forest FC,Premier League
+440,Nicolas,Dominguez,Central Midfield,Nottingham Forest FC,Premier League
 441,Alex,Moreno,Left-Back,Nottingham Forest FC,Premier League
 442,Taiwo,Awoniyi,Centre-Forward,Nottingham Forest FC,Premier League
 443,Emmanuel,Dennis,Centre-Forward,Nottingham Forest FC,Premier League
-444,Ibrahim,Sangaré,Defensive Midfield,Nottingham Forest FC,Premier League
+444,Ibrahim,Sangare,Defensive Midfield,Nottingham Forest FC,Premier League
 445,James,Ward-Prowse,Central Midfield,Nottingham Forest FC,Premier League
 446,Chris,Wood,Centre-Forward,Nottingham Forest FC,Premier League
 447,Callum,Hudson-Odoi,Left Winger,Nottingham Forest FC,Premier League
@@ -452,7 +452,7 @@
 450,Morgan,Gibbs-White,Attacking Midfield,Nottingham Forest FC,Premier League
 451,Willy,Boly,Centre-Back,Nottingham Forest FC,Premier League
 452,Ola,Aina,Right-Back,Nottingham Forest FC,Premier League
-453,Nikola,Milenković,Centre-Back,Nottingham Forest FC,Premier League
+453,Nikola,Milenkovic,Centre-Back,Nottingham Forest FC,Premier League
 454,Dean,Henderson,Goalkeeper,Crystal Palace FC,Premier League
 455,Remi,Matthews,Goalkeeper,Crystal Palace FC,Premier League
 456,Matt,Turner,Goalkeeper,Crystal Palace FC,Premier League
@@ -466,11 +466,11 @@
 464,Matheus,Franca,Attacking Midfield,Crystal Palace FC,Premier League
 465,Chadi,Riad,Centre-Back,Crystal Palace FC,Premier League
 466,Tyrick,Mitchell,Left-Back,Crystal Palace FC,Premier League
-467,Marc,Guéhi,Centre-Back,Crystal Palace FC,Premier League
+467,Marc,Guehi,Centre-Back,Crystal Palace FC,Premier League
 468,Chris,Richards,Centre-Back,Crystal Palace FC,Premier League
 469,Maxence,Lacroix,Centre-Back,Crystal Palace FC,Premier League
-470,Cheick,Doucouré,Defensive Midfield,Crystal Palace FC,Premier League
-471,Daniel,Muñoz,Right-Back,Crystal Palace FC,Premier League
+470,Cheick,Doucoure,Defensive Midfield,Crystal Palace FC,Premier League
+471,Daniel,Munoz,Right-Back,Crystal Palace FC,Premier League
 472,Jeffrey,Schlupp,Left Midfield,Crystal Palace FC,Premier League
 473,Joel,Ward,Right-Back,Crystal Palace FC,Premier League
 474,Will,Hughes,Central Midfield,Crystal Palace FC,Premier League
@@ -481,22 +481,22 @@
 479,Daichi,Kamada,Attacking Midfield,Crystal Palace FC,Premier League
 480,Eberechi,Eze,Attacking Midfield,Crystal Palace FC,Premier League
 481,Jefferson,Lerma,Defensive Midfield,Crystal Palace FC,Premier League
-482,Ismaïla,Sarr,Right Winger,Crystal Palace FC,Premier League
+482,Ismaila,Sarr,Right Winger,Crystal Palace FC,Premier League
 483,Jean-Philippe,Mateta,Centre-Forward,Crystal Palace FC,Premier League
 484,Jason,Steele,Goalkeeper,Brighton & Hove Albion FC,Premier League
 485,Bart,Verbruggen,Goalkeeper,Brighton & Hove Albion FC,Premier League
 486,Adrian,Mazilu,Offence,Brighton & Hove Albion FC,Premier League
-487,João,Pedro,Centre-Forward,Brighton & Hove Albion FC,Premier League
+487,Joao,Pedro,Centre-Forward,Brighton & Hove Albion FC,Premier League
 488,Jakub,Moder,Central Midfield,Brighton & Hove Albion FC,Premier League
 489,Jan,Paul van Hecke,Centre-Back,Brighton & Hove Albion FC,Premier League
 490,Mats,Wieffer,Defensive Midfield,Brighton & Hove Albion FC,Premier League
 491,Georginio,Rutter,Centre-Forward,Brighton & Hove Albion FC,Premier League
-492,Pervis,Estupiñán,Left-Back,Brighton & Hove Albion FC,Premier League
+492,Pervis,Estupinan,Left-Back,Brighton & Hove Albion FC,Premier League
 493,Igor,,Centre-Back,Brighton & Hove Albion FC,Premier League
-494,Ferdi,Kadıoğlu,Left-Back,Brighton & Hove Albion FC,Premier League
+494,Ferdi,Kadioglu,Left-Back,Brighton & Hove Albion FC,Premier League
 495,Lewis,Dunk,Centre-Back,Brighton & Hove Albion FC,Premier League
 496,James,Milner,Central Midfield,Brighton & Hove Albion FC,Premier League
-497,Joël,Veltman,Right-Back,Brighton & Hove Albion FC,Premier League
+497,Joel,Veltman,Right-Back,Brighton & Hove Albion FC,Premier League
 498,Adam,Webster,Centre-Back,Brighton & Hove Albion FC,Premier League
 499,Matt,O'Riley,Central Midfield,Brighton & Hove Albion FC,Premier League
 500,Danny,Welbeck,Centre-Forward,Brighton & Hove Albion FC,Premier League
@@ -515,7 +515,7 @@
 513,Kaoru,Mitoma,Left Winger,Brighton & Hove Albion FC,Premier League
 514,Evan,Ferguson,Centre-Forward,Brighton & Hove Albion FC,Premier League
 515,Mark,Flekken,Goalkeeper,Brentford FC,Premier League
-516,Hákon,Rafn Valdimarsson,Goalkeeper,Brentford FC,Premier League
+516,Hakon,Rafn Valdimarsson,Goalkeeper,Brentford FC,Premier League
 517,Matthew,Cox,Goalkeeper,Brentford FC,Premier League
 518,Tony,Yogane,Midfield,Brentford FC,Premier League
 519,Thiago,Rodrigues,Offence,Brentford FC,Premier League
@@ -547,7 +547,7 @@
 545,Ethan,Brierley,Central Midfield,Brentford FC,Premier League
 546,Kevin,Schade,Left Winger,Brentford FC,Premier League
 547,Alphonse,Aréola,Goalkeeper,West Ham United FC,Premier League
-548,Łukasz,Fabiański,Goalkeeper,West Ham United FC,Premier League
+548,Lukasz,Fabianski,Goalkeeper,West Ham United FC,Premier League
 549,Wesley,Foderingham,Goalkeeper,West Ham United FC,Premier League
 550,Regan,Clayton,Defence,West Ham United FC,Premier League
 551,Kaelan,Casey,Centre-Back,West Ham United FC,Premier League
@@ -559,20 +559,20 @@
 557,Jean-Clair,Todibo,Centre-Back,West Ham United FC,Premier League
 558,Mohammed,Kudus,Attacking Midfield,West Ham United FC,Premier League
 559,Vladimir,Coufal,Right-Back,West Ham United FC,Premier League
-560,Guido,Rodríguez,Defensive Midfield,West Ham United FC,Premier League
+560,Guido,Rodriguez,Defensive Midfield,West Ham United FC,Premier League
 561,Carlos,Soler,Central Midfield,West Ham United FC,Premier League
 562,Max,Kilman,Centre-Back,West Ham United FC,Premier League
-563,Tomáš,Souček,Defensive Midfield,West Ham United FC,Premier League
+563,Tomas,Soucek,Defensive Midfield,West Ham United FC,Premier League
 564,Jarrod,Bowen,Right Winger,West Ham United FC,Premier League
 565,Michail,Antonio,Centre-Forward,West Ham United FC,Premier League
 566,Aaron,Cresswell,Left-Back,West Ham United FC,Premier League
 567,Aaron,Wan-Bissaka,Right-Back,West Ham United FC,Premier League
 568,Danny,Ings,Centre-Forward,West Ham United FC,Premier League
-569,Emerson,,Left-Back,West Ham United FC,Premier League
+569,Emerson,Palmieri,Left-Back,West Ham United FC,Premier League
 570,Konstantinos,Mavropanos,Centre-Back,West Ham United FC,Premier League
-571,Edson,Álvarez,Defensive Midfield,West Ham United FC,Premier League
-572,Lucas,Paquetá,Attacking Midfield,West Ham United FC,Premier League
-573,Niclas,Füllkrug,Centre-Forward,West Ham United FC,Premier League
+571,Edson,Alvarez,Defensive Midfield,West Ham United FC,Premier League
+572,Lucas,Paqueta,Attacking Midfield,West Ham United FC,Premier League
+573,Niclas,Fullkrug,Centre-Forward,West Ham United FC,Premier League
 574,Kepa,Arrizabalaga,Goalkeeper,AFC Bournemouth,Premier League
 575,Mark,Travers,Goalkeeper,AFC Bournemouth,Premier League
 576,Will,Dennis,Goalkeeper,AFC Bournemouth,Premier League
@@ -588,7 +588,7 @@
 586,Tyler,Adams,Defensive Midfield,AFC Bournemouth,Premier League
 587,Marcos,Senesi,Centre-Back,AFC Bournemouth,Premier League
 588,Ryan,Christie,Central Midfield,AFC Bournemouth,Premier League
-589,Enes,Ünal,Centre-Forward,AFC Bournemouth,Premier League
+589,Enes,Unal,Centre-Forward,AFC Bournemouth,Premier League
 590,Luis,Sinisterra,Left Winger,AFC Bournemouth,Premier League
 591,Adam,Smith,Right-Back,AFC Bournemouth,Premier League
 592,Philip,Billing,Central Midfield,AFC Bournemouth,Premier League
@@ -597,16 +597,16 @@
 595,Antoine,Semenyo,Right Winger,AFC Bournemouth,Premier League
 596,David,Brooks,Right Winger,AFC Bournemouth,Premier League
 597,Lewis,Cook,Central Midfield,AFC Bournemouth,Premier League
-598,Unai,Simón,Goalkeeper,Athletic Club,La Liga
+598,Unai,Simon,Goalkeeper,Athletic Club,La Liga
 599,Julen,Agirrezabala,Goalkeeper,Athletic Club,La Liga
-600,Álex,Padilla,Goalkeeper,Athletic Club,La Liga
+600,Alex,Padilla,Goalkeeper,Athletic Club,La Liga
 601,Oier,Gastesi,Goalkeeper,Athletic Club,La Liga
 602,Peio,Canales,Midfield,Athletic Club,La Liga
 603,Adama,Boiro,Left-Back,Athletic Club,La Liga
 604,Mikel,Jauregizar,Central Midfield,Athletic Club,La Liga
 605,Unai,Gomez,Attacking Midfield,Athletic Club,La Liga
-606,Álvaro,Djaló,Left Winger,Athletic Club,La Liga
-607,Javi,Martón,Centre-Forward,Athletic Club,La Liga
+606,Alvaro,Djalo,Left Winger,Athletic Club,La Liga
+607,Javi,Marton,Centre-Forward,Athletic Club,La Liga
 608,Nico,Serrano,Left Winger,Athletic Club,La Liga
 609,Benat,Prados,Central Midfield,Athletic Club,La Liga
 610,Nico,Williams,Left Winger,Athletic Club,La Liga
@@ -615,39 +615,39 @@
 613,Mikel,Vesga,Defensive Midfield,Athletic Club,La Liga
 614,Gorka,Guruzeta,Centre-Forward,Athletic Club,La Liga
 615,Andoni,Gorosabel,Right-Back,Athletic Club,La Liga
-616,Iñaki,Williams,Right Winger,Athletic Club,La Liga
+616,Inaki,Williams,Right Winger,Athletic Club,La Liga
 617,Daniel,Vivian,Centre-Back,Athletic Club,La Liga
 618,De,Marcos,Right-Back,Athletic Club,La Liga
-619,Unai,Núñez,Centre-Back,Athletic Club,La Liga
-620,Iñigo,Lekue,Right-Back,Athletic Club,La Liga
-621,Yeray,Álvarez,Centre-Back,Athletic Club,La Liga
+619,Unai,Nunez,Centre-Back,Athletic Club,La Liga
+620,Inigo,Lekue,Right-Back,Athletic Club,La Liga
+621,Yeray,Alvarez,Centre-Back,Athletic Club,La Liga
 622,Ruiz,de Galarreta,Central Midfield,Athletic Club,La Liga
 623,Yuri,Berchiche,Left-Back,Athletic Club,La Liga
 624,Ander,Herrera,Central Midfield,Athletic Club,La Liga
-625,Álex,Berenguer,Left Winger,Athletic Club,La Liga
+625,Alex,Berenguer,Left Winger,Athletic Club,La Liga
 626,Jan,Oblak,Goalkeeper,Club Atlético de Madrid,La Liga
 627,Juan,Musso,Goalkeeper,Club Atlético de Madrid,La Liga
 628,Alejandro,Iturbe,Goalkeeper,Club Atlético de Madrid,La Liga
-629,Gomis,,Goalkeeper,Club Atlético de Madrid,La Liga
+629,Antonio,Gomis,Goalkeeper,Club Atlético de Madrid,La Liga
 630,Sergio,Mestre,Goalkeeper,Club Atlético de Madrid,La Liga
-631,Javi,Galán,Defence,Club Atlético de Madrid,La Liga
-632,José,Giménez,Defence,Club Atlético de Madrid,La Liga
-633,Gerónimo,Spina,Defence,Club Atlético de Madrid,La Liga
+631,Javi,Galan,Defence,Club Atlético de Madrid,La Liga
+632,Jose,Gimenez,Defence,Club Atlético de Madrid,La Liga
+633,Geronimo,Spina,Defence,Club Atlético de Madrid,La Liga
 634,Javier,Serrano,Midfield,Club Atlético de Madrid,La Liga
 635,Pablo,Barrios,Midfield,Club Atlético de Madrid,La Liga
-636,Ángel,Correa,Offence,Club Atlético de Madrid,La Liga
-637,Borja,Garcés,Centre-Forward,Club Atlético de Madrid,La Liga
+636,Angel,Correa,Offence,Club Atlético de Madrid,La Liga
+637,Borja,Garces,Centre-Forward,Club Atlético de Madrid,La Liga
 638,Nahuel,Molina,Right-Back,Club Atlético de Madrid,La Liga
-639,Reinildo,,Left-Back,Club Atlético de Madrid,La Liga
+639,Reinildo,Mandava,Left-Back,Club Atlético de Madrid,La Liga
 640,Alexander,Sørloth,Centre-Forward,Club Atlético de Madrid,La Liga
 641,Axel,Witsel,Centre-Back,Club Atlético de Madrid,La Liga
 642,Thomas,Lemar,Attacking Midfield,Club Atlético de Madrid,La Liga
-643,Azpilicueta,,Centre-Back,Club Atlético de Madrid,La Liga
+643,Cesar,Azpilicueta,Centre-Back,Club Atlético de Madrid,La Liga
 644,Rodrigo,de Paul,Central Midfield,Club Atlético de Madrid,La Liga
 645,Antoine,Griezmann,Centre-Forward,Club Atlético de Madrid,La Liga
 646,Koke,,Central Midfield,Club Atlético de Madrid,La Liga
 647,Marcos,Llorente,Right Midfield,Club Atlético de Madrid,La Liga
-648,Clément,Lenglet,Centre-Back,Club Atlético de Madrid,La Liga
+648,Clement,Lenglet,Centre-Back,Club Atlético de Madrid,La Liga
 649,El,Jebari,Left Winger,Club Atlético de Madrid,La Liga
 650,Ilias,Kostis,Centre-Back,Club Atlético de Madrid,La Liga
 651,Samuel,Lino,Left Midfield,Club Atlético de Madrid,La Liga
@@ -655,105 +655,105 @@
 653,Rodrigo,Riquelme,Left Winger,Club Atlético de Madrid,La Liga
 654,Conor,Gallagher,Central Midfield,Club Atlético de Madrid,La Liga
 655,Robin,Le Normand,Centre-Back,Club Atlético de Madrid,La Liga
-656,Julián,Álvarez,Centre-Forward,Club Atlético de Madrid,La Liga
+656,Julian,Alvarez,Centre-Forward,Club Atlético de Madrid,La Liga
 657,Sergio,Herrera,Goalkeeper,CA Osasuna,La Liga
-658,Aitor,Fernández,Goalkeeper,CA Osasuna,La Liga
+658,Aitor,Fernandez,Goalkeeper,CA Osasuna,La Liga
 659,Pablo,Valencia,Goalkeeper,CA Osasuna,La Liga
 660,Dimitrios,Stamatakis,Goalkeeper,CA Osasuna,La Liga
 661,Bryan,Zaragoza,Offence,CA Osasuna,La Liga
-662,Iñigo,Arguibide,Right Winger,CA Osasuna,La Liga
+662,Inigo,Arguibide,Right Winger,CA Osasuna,La Liga
 663,Iker,Munoz,Defensive Midfield,CA Osasuna,La Liga
 664,Diego,Moreno,Right-Back,CA Osasuna,La Liga
 665,Abel,Bretones,Left-Back,CA Osasuna,La Liga
 666,Iker,Benito,Right Winger,CA Osasuna,La Liga
-667,Pablo,Ibáñez Tébar,Central Midfield,CA Osasuna,La Liga
+667,Pablo,Ibanez Tebar,Central Midfield,CA Osasuna,La Liga
 668,Jorge,Herrando,Centre-Back,CA Osasuna,La Liga
 669,Flavien,Boyomo,Centre-Back,CA Osasuna,La Liga
-670,Jesús,Areso,Right-Back,CA Osasuna,La Liga
-671,Raúl,,Centre-Forward,CA Osasuna,La Liga
+670,Jesus,Areso,Right-Back,CA Osasuna,La Liga
+671,Raul,,Centre-Forward,CA Osasuna,La Liga
 672,Aimar,Oroz,Attacking Midfield,CA Osasuna,La Liga
 673,Jon,Moncayola,Central Midfield,CA Osasuna,La Liga
-674,Javi,Martínez,Attacking Midfield,CA Osasuna,La Liga
+674,Javi,Martinez,Attacking Midfield,CA Osasuna,La Liga
 675,Juan,Cruz,Left-Back,CA Osasuna,La Liga
 676,Catena,,Centre-Back,CA Osasuna,La Liga
-677,Rubén,Peña,Right-Back,CA Osasuna,La Liga
+677,Ruben,Pena,Right-Back,CA Osasuna,La Liga
 678,Nacho,Vidal,Right-Back,CA Osasuna,La Liga
-679,Moi,Gómez,Left Winger,CA Osasuna,La Liga
-680,Rubén,García,Right Winger,CA Osasuna,La Liga
+679,Moi,Gomez,Left Winger,CA Osasuna,La Liga
+680,Ruben,Garcia,Right Winger,CA Osasuna,La Liga
 681,Kike,Barja,Right Winger,CA Osasuna,La Liga
-682,Lucas,Torró,Defensive Midfield,CA Osasuna,La Liga
-683,Unai,García,Centre-Back,CA Osasuna,La Liga
-684,José,Arnáiz,Left Winger,CA Osasuna,La Liga
+682,Lucas,Torro,Defensive Midfield,CA Osasuna,La Liga
+683,Unai,Garcia,Centre-Back,CA Osasuna,La Liga
+684,Jose,Arnaiz,Left Winger,CA Osasuna,La Liga
 685,Ante,Budimir,Centre-Forward,CA Osasuna,La Liga
-686,Pacheco,,Goalkeeper,RCD Espanyol de Barcelona,La Liga
-687,Ángel,Fortuño Viñas,Goalkeeper,RCD Espanyol de Barcelona,La Liga
-688,Joan,García,Goalkeeper,RCD Espanyol de Barcelona,La Liga
+686,Fernando,Pacheco,Goalkeeper,RCD Espanyol de Barcelona,La Liga
+687,Angel,Fortuno Vinas,Goalkeeper,RCD Espanyol de Barcelona,La Liga
+688,Joan,Garcia,Goalkeeper,RCD Espanyol de Barcelona,La Liga
 689,Omar,El Hilali,Midfield,RCD Espanyol de Barcelona,La Liga
 690,Salvi,,Midfield,RCD Espanyol de Barcelona,La Liga
-691,Rafael,Bauzà,Midfield,RCD Espanyol de Barcelona,La Liga
-692,José,Luis Catalá,Centre-Back,RCD Espanyol de Barcelona,La Liga
+691,Rafael,Bauza,Midfield,RCD Espanyol de Barcelona,La Liga
+692,Jose,Luis Catala,Centre-Back,RCD Espanyol de Barcelona,La Liga
 693,Omar,Sadik,Centre-Forward,RCD Espanyol de Barcelona,La Liga
 694,Antoniu,Roca,Right Winger,RCD Espanyol de Barcelona,La Liga
 695,Carlos,Romero,Left-Back,RCD Espanyol de Barcelona,La Liga
 696,Alejo,Veliz,Centre-Forward,RCD Espanyol de Barcelona,La Liga
-697,Jofre,Carreras Pagès,Right Winger,RCD Espanyol de Barcelona,La Liga
-698,Naci,Ünüvar,Left Winger,RCD Espanyol de Barcelona,La Liga
+697,Jofre,Carreras Pages,Right Winger,RCD Espanyol de Barcelona,La Liga
+698,Naci,Unuvar,Left Winger,RCD Espanyol de Barcelona,La Liga
 699,Walid,Cheddira,Centre-Forward,RCD Espanyol de Barcelona,La Liga
 700,Pol,Lozano,Central Midfield,RCD Espanyol de Barcelona,La Liga
-701,José,Gragera,Central Midfield,RCD Espanyol de Barcelona,La Liga
+701,Jose,Gragera,Central Midfield,RCD Espanyol de Barcelona,La Liga
 702,Javi,Puado,Left Winger,RCD Espanyol de Barcelona,La Liga
-703,Alex,Král,Defensive Midfield,RCD Espanyol de Barcelona,La Liga
-704,Edu,Expósito,Central Midfield,RCD Espanyol de Barcelona,La Liga
-705,Sergi,Gómez,Centre-Back,RCD Espanyol de Barcelona,La Liga
-706,Aguado,,Central Midfield,RCD Espanyol de Barcelona,La Liga
-707,Brian,Oliván,Left-Back,RCD Espanyol de Barcelona,La Liga
+703,Alex,Kral,Defensive Midfield,RCD Espanyol de Barcelona,La Liga
+704,Edu,Exposito,Central Midfield,RCD Espanyol de Barcelona,La Liga
+705,Sergi,Gomez,Centre-Back,RCD Espanyol de Barcelona,La Liga
+706,Alvaro,Aguado,Central Midfield,RCD Espanyol de Barcelona,La Liga
+707,Brian,Olivan,Left-Back,RCD Espanyol de Barcelona,La Liga
 708,Pere,Milla,Left Winger,RCD Espanyol de Barcelona,La Liga
 709,Fernando,Calero,Centre-Back,RCD Espanyol de Barcelona,La Liga
 710,Irvin,Cardona,Centre-Forward,RCD Espanyol de Barcelona,La Liga
 711,Leandro,Cabrera,Centre-Back,RCD Espanyol de Barcelona,La Liga
-712,Álvaro,Tejero,Right-Back,RCD Espanyol de Barcelona,La Liga
+712,Alvaro,Tejero,Right-Back,RCD Espanyol de Barcelona,La Liga
 713,Marash,Kumbulla,Centre-Back,RCD Espanyol de Barcelona,La Liga
-714,Wojciech,Szczęsny,Goalkeeper,FC Barcelona,La Liga
+714,Wojciech,Szczesny,Goalkeeper,FC Barcelona,La Liga
 715,Marc-André,ter Stegen,Goalkeeper,FC Barcelona,La Liga
-716,Iñaki,Peña,Goalkeeper,FC Barcelona,La Liga
+716,Inaki,Pena,Goalkeeper,FC Barcelona,La Liga
 717,Ander,Astralaga,Goalkeeper,FC Barcelona,La Liga
 718,Diego,Kochen,Goalkeeper,FC Barcelona,La Liga
-719,Áron,Yaakobishvili,Goalkeeper,FC Barcelona,La Liga
-720,Gerard,Martín,Defence,FC Barcelona,La Liga
-721,Sergi,Domínguez,Defence,FC Barcelona,La Liga
-722,Andrés,Cuenca,Defence,FC Barcelona,La Liga
-723,Guille,Fernández,Midfield,FC Barcelona,La Liga
-724,Toni,Fernández,Offence,FC Barcelona,La Liga
+719,Aron,Yaakobishvili,Goalkeeper,FC Barcelona,La Liga
+720,Gerard,Martin,Defence,FC Barcelona,La Liga
+721,Sergi,Dominguez,Defence,FC Barcelona,La Liga
+722,Andres,Cuenca,Defence,FC Barcelona,La Liga
+723,Guille,Fernandez,Midfield,FC Barcelona,La Liga
+724,Toni,Fernandez,Offence,FC Barcelona,La Liga
 725,Pablo,Gavira,Central Midfield,FC Barcelona,La Liga
 726,Pablo,Torre,Attacking Midfield,FC Barcelona,La Liga
 727,Pau,Victor Delgado,Centre-Forward,FC Barcelona,La Liga
 728,Pedri,,Central Midfield,FC Barcelona,La Liga
 729,Ansu,Fati,Left Winger,FC Barcelona,La Liga
-730,Eric,García,Centre-Back,FC Barcelona,La Liga
+730,Eric,Garcia,Centre-Back,FC Barcelona,La Liga
 731,Raphinha,,Right Winger,FC Barcelona,La Liga
-732,Ferrán,Torres,Left Winger,FC Barcelona,La Liga
-733,Íñigo,Martínez,Centre-Back,FC Barcelona,La Liga
-734,Ronald,Araújo,Centre-Back,FC Barcelona,La Liga
+732,Ferran,Torres,Left Winger,FC Barcelona,La Liga
+733,Inigo,Martinez,Centre-Back,FC Barcelona,La Liga
+734,Ronald,Araujo,Centre-Back,FC Barcelona,La Liga
 735,Dani,Olmo,Attacking Midfield,FC Barcelona,La Liga
-736,Jules,Koundé,Right-Back,FC Barcelona,La Liga
+736,Jules,Kounde,Right-Back,FC Barcelona,La Liga
 737,Frenkie,de Jong,Central Midfield,FC Barcelona,La Liga
 738,Andreas,Christensen,Centre-Back,FC Barcelona,La Liga
 739,Robert,Lewandowski,Centre-Forward,FC Barcelona,La Liga
 740,Marc,Bernal,Defensive Midfield,FC Barcelona,La Liga
-741,Héctor,Fort,Right-Back,FC Barcelona,La Liga
-742,Pau,Cubarsí,Centre-Back,FC Barcelona,La Liga
-743,Fermín,López,Central Midfield,FC Barcelona,La Liga
+741,Hector,Fort,Right-Back,FC Barcelona,La Liga
+742,Pau,Cubarsi,Centre-Back,FC Barcelona,La Liga
+743,Fermin,Lopez,Central Midfield,FC Barcelona,La Liga
 744,Lamine,Yamal,Right Winger,FC Barcelona,La Liga
 745,Marc,Casado,Defensive Midfield,FC Barcelona,La Liga
-746,Álex,Balde,Left-Back,FC Barcelona,La Liga
+746,Alex,Balde,Left-Back,FC Barcelona,La Liga
 747,David,Soria,Goalkeeper,Getafe CF,La Liga
-748,Jiří,Letáček,Goalkeeper,Getafe CF,La Liga
+748,Jiri,Letacek,Goalkeeper,Getafe CF,La Liga
 749,Djordjije,Medenica,Goalkeeper,Getafe CF,La Liga
 750,Diego,Ferrer,Goalkeeper,Getafe CF,La Liga
-751,David,Argüelles,Defence,Getafe CF,La Liga
+751,David,Arguelles,Defence,Getafe CF,La Liga
 752,Guillem,Trilla,Defence,Getafe CF,La Liga
 753,John,Patrick,Midfield,Getafe CF,La Liga
-754,Carles,Aleñá,Midfield,Getafe CF,La Liga
+754,Carles,Alena,Midfield,Getafe CF,La Liga
 755,Coba,da Costa,Offence,Getafe CF,La Liga
 756,Abdoulaye,Keita,Offence,Getafe CF,La Liga
 757,Alex,Sola,Right Winger,Getafe CF,La Liga
@@ -763,15 +763,15 @@
 761,Domingos,Duarte,Centre-Back,Getafe CF,La Liga
 762,Juan,Berrocal,Centre-Back,Getafe CF,La Liga
 763,Mauro,Arambarri,Central Midfield,Getafe CF,La Liga
-764,Carles,Pérez,Right Winger,Getafe CF,La Liga
+764,Carles,Perez,Right Winger,Getafe CF,La Liga
 765,Luis,Milla,Central Midfield,Getafe CF,La Liga
 766,Allan,Nyom,Right-Back,Getafe CF,La Liga
-767,Dakonam,Djené,Centre-Back,Getafe CF,La Liga
+767,Dakonam,Djene,Centre-Back,Getafe CF,La Liga
 768,Diego,Rico,Left-Back,Getafe CF,La Liga
 769,Borja,Mayoral,Centre-Forward,Getafe CF,La Liga
-770,Chrisantus,,Defensive Midfield,Getafe CF,La Liga
+770,Chrisantus,Uche,Defensive Midfield,Getafe CF,La Liga
 771,Alberto,Risco,Attacking Midfield,Getafe CF,La Liga
-772,Nabil,Aberdín,Centre-Back,Getafe CF,La Liga
+772,Nabil,Aberdin,Centre-Back,Getafe CF,La Liga
 773,Yellu,,Central Midfield,Getafe CF,La Liga
 774,Alvaro,Rodriguez,Centre-Forward,Getafe CF,La Liga
 775,Gorka,Rivera,Left-Back,Getafe CF,La Liga
@@ -781,65 +781,65 @@
 779,Andriy,Lunin,Goalkeeper,Real Madrid CF,La Liga
 780,Sergio,Mestre,Goalkeeper,Real Madrid CF,La Liga
 781,Fran,Gonzalez,Goalkeeper,Real Madrid CF,La Liga
-782,Fran,García,Defence,Real Madrid CF,La Liga
-783,David,Jiménez,Defence,Real Madrid CF,La Liga
-784,Chema,Andrés,Midfield,Real Madrid CF,La Liga
-785,Jacobo,Ramón,Centre-Back,Real Madrid CF,La Liga
+782,Fran,Garcia,Defence,Real Madrid CF,La Liga
+783,David,Jimenez,Defence,Real Madrid CF,La Liga
+784,Chema,Andres,Midfield,Real Madrid CF,La Liga
+785,Jacobo,Ramon,Centre-Back,Real Madrid CF,La Liga
 786,Endrick,,Centre-Forward,Real Madrid CF,La Liga
 787,Arda,Guler,Right Winger,Real Madrid CF,La Liga
 788,Jude,Bellingham,Attacking Midfield,Real Madrid CF,La Liga
 789,Eduardo,Camavinga,Central Midfield,Real Madrid CF,La Liga
-790,Aurélien,Tchouameni,Defensive Midfield,Real Madrid CF,La Liga
+790,Aurelien,Tchouameni,Defensive Midfield,Real Madrid CF,La Liga
 791,Ferland,Mendy,Left-Back,Real Madrid CF,La Liga
 792,Brahim,Diaz,Attacking Midfield,Real Madrid CF,La Liga
-793,Kylian,Mbappé,Centre-Forward,Real Madrid CF,La Liga
+793,Kylian,Mbappe,Centre-Forward,Real Madrid CF,La Liga
 794,Dani,Carvajal,Right-Back,Real Madrid CF,La Liga
-795,Antonio,Rüdiger,Centre-Back,Real Madrid CF,La Liga
+795,Antonio,Rudiger,Centre-Back,Real Madrid CF,La Liga
 796,Vinicius,Junior,Left Winger,Real Madrid CF,La Liga
-797,Éder,Militão,Centre-Back,Real Madrid CF,La Liga
+797,Eder,Militao,Centre-Back,Real Madrid CF,La Liga
 798,Rodrygo,,Right Winger,Real Madrid CF,La Liga
 799,David,Alaba,Centre-Back,Real Madrid CF,La Liga
 800,Federico,Valverde,Central Midfield,Real Madrid CF,La Liga
 801,Dani,Ceballos,Central Midfield,Real Madrid CF,La Liga
-802,Jesús,Vallejo,Centre-Back,Real Madrid CF,La Liga
-803,Lucas,Vázquez,Right-Back,Real Madrid CF,La Liga
-804,Luka,Modrić,Central Midfield,Real Madrid CF,La Liga
+802,Jesus,Vallejo,Centre-Back,Real Madrid CF,La Liga
+803,Lucas,Vazquez,Right-Back,Real Madrid CF,La Liga
+804,Luka,Modric,Central Midfield,Real Madrid CF,La Liga
 805,Augusto,Batalla,Goalkeeper,Rayo Vallecano de Madrid,La Liga
-806,Dani,Cárdenas,Goalkeeper,Rayo Vallecano de Madrid,La Liga
-807,Marco,de las Sías,Defence,Rayo Vallecano de Madrid,La Liga
+806,Dani,Cardenas,Goalkeeper,Rayo Vallecano de Madrid,La Liga
+807,Marco,de las Sias,Defence,Rayo Vallecano de Madrid,La Liga
 808,Joni,Montiel,Midfield,Rayo Vallecano de Madrid,La Liga
 809,Sergi,Guardiola,Offence,Rayo Vallecano de Madrid,La Liga
-810,Etienne,,Offence,Rayo Vallecano de Madrid,La Liga
-811,Pelayo,Fernández,Centre-Back,Rayo Vallecano de Madrid,La Liga
+810,Etienne,Eto’o,Offence,Rayo Vallecano de Madrid,La Liga
+811,Pelayo,Fernandez,Centre-Back,Rayo Vallecano de Madrid,La Liga
 812,Diego,Mendez,Central Midfield,Rayo Vallecano de Madrid,La Liga
-813,Pep,Chavarría,Left-Back,Rayo Vallecano de Madrid,La Liga
+813,Pep,Chavarria,Left-Back,Rayo Vallecano de Madrid,La Liga
 814,Jorge,de Frutos,Right Winger,Rayo Vallecano de Madrid,La Liga
 815,Sergio,Camello,Centre-Forward,Rayo Vallecano de Madrid,La Liga
 816,Andrei,Rațiu,Right-Back,Rayo Vallecano de Madrid,La Liga
 817,Randy,Ntekja,Attacking Midfield,Rayo Vallecano de Madrid,La Liga
-818,Pathé,Ciss,Central Midfield,Rayo Vallecano de Madrid,La Liga
+818,Pathe,Ciss,Central Midfield,Rayo Vallecano de Madrid,La Liga
 819,Gerard,Gumbau,Defensive Midfield,Rayo Vallecano de Madrid,La Liga
-820,Isi,Palazón,Right Winger,Rayo Vallecano de Madrid,La Liga
-821,Álvaro,García,Left Winger,Rayo Vallecano de Madrid,La Liga
-822,Pedro,Díaz,Central Midfield,Rayo Vallecano de Madrid,La Liga
-823,Raúl,de Tomás,Centre-Forward,Rayo Vallecano de Madrid,La Liga
-824,Unai,López,Central Midfield,Rayo Vallecano de Madrid,La Liga
-825,Óscar,Trejo,Attacking Midfield,Rayo Vallecano de Madrid,La Liga
-826,Óscar,Valentín,Central Midfield,Rayo Vallecano de Madrid,La Liga
+820,Isi,Palazon,Right Winger,Rayo Vallecano de Madrid,La Liga
+821,Alvaro,Garcia,Left Winger,Rayo Vallecano de Madrid,La Liga
+822,Pedro,Diaz,Central Midfield,Rayo Vallecano de Madrid,La Liga
+823,Raul,de Tomas,Centre-Forward,Rayo Vallecano de Madrid,La Liga
+824,Unai,Lopez,Central Midfield,Rayo Vallecano de Madrid,La Liga
+825,Oscar,Trejo,Attacking Midfield,Rayo Vallecano de Madrid,La Liga
+826,Oscar,Valentín,Central Midfield,Rayo Vallecano de Madrid,La Liga
 827,Adri,Embarba,Right Winger,Rayo Vallecano de Madrid,La Liga
-828,Aridane,Hernández,Centre-Back,Rayo Vallecano de Madrid,La Liga
+828,Aridane,Hernandez,Centre-Back,Rayo Vallecano de Madrid,La Liga
 829,Alfonso,Espino,Left-Back,Rayo Vallecano de Madrid,La Liga
 830,Abdul,Mumin,Centre-Back,Rayo Vallecano de Madrid,La Liga
-831,Iván,Balliu,Right-Back,Rayo Vallecano de Madrid,La Liga
+831,Ivan,Balliu,Right-Back,Rayo Vallecano de Madrid,La Liga
 832,Florian,Lejeune,Centre-Back,Rayo Vallecano de Madrid,La Liga
-833,James,Rodríguez,Attacking Midfield,Rayo Vallecano de Madrid,La Liga
-834,Cuéllar,,Goalkeeper,RCD Mallorca,La Liga
+833,James,Rodriguez,Attacking Midfield,Rayo Vallecano de Madrid,La Liga
+834,Ivan,Cuellar,Goalkeeper,RCD Mallorca,La Liga
 835,Dominik,Greif,Goalkeeper,RCD Mallorca,La Liga
-836,Leo,Román,Goalkeeper,RCD Mallorca,La Liga
+836,Leo,Roman,Goalkeeper,RCD Mallorca,La Liga
 837,Sebastian,Wade,Defence,RCD Mallorca,La Liga
-838,Antonio,Sánchez,Midfield,RCD Mallorca,La Liga
+838,Antonio,Sanchez,Midfield,RCD Mallorca,La Liga
 839,Miquel,Salas,Midfield,RCD Mallorca,La Liga
-840,Marc,Domènech,Offence,RCD Mallorca,La Liga
+840,Marc,Domenech,Offence,RCD Mallorca,La Liga
 841,Javier,Llabres,Left Winger,RCD Mallorca,La Liga
 842,Copete,,Centre-Back,RCD Mallorca,La Liga
 843,Daniel,Luna,Attacking Midfield,RCD Mallorca,La Liga
@@ -848,13 +848,13 @@
 846,Mateu,Morey,Right-Back,RCD Mallorca,La Liga
 847,Roberto,Navarro,Attacking Midfield,RCD Mallorca,La Liga
 848,Valery,,Right Winger,RCD Mallorca,La Liga
-849,Abdón,Prats,Centre-Forward,RCD Mallorca,La Liga
+849,Abdon,Prats,Centre-Forward,RCD Mallorca,La Liga
 850,Pablo,Maffeo,Right-Back,RCD Mallorca,La Liga
 851,Toni,Lato,Left-Back,RCD Mallorca,La Liga
 852,Manu,Morlanes,Central Midfield,RCD Mallorca,La Liga
-853,Antonio,Raíllo,Centre-Back,RCD Mallorca,La Liga
+853,Antonio,Raillo,Centre-Back,RCD Mallorca,La Liga
 854,Sergi,Darder,Central Midfield,RCD Mallorca,La Liga
-855,Dani,Rodríguez,Attacking Midfield,RCD Mallorca,La Liga
+855,Dani,Rodriguez,Attacking Midfield,RCD Mallorca,La Liga
 856,Vedat,Muriqi,Centre-Forward,RCD Mallorca,La Liga
 857,Cyle,Larin,Centre-Forward,RCD Mallorca,La Liga
 858,Takuma,Asano,Right Winger,RCD Mallorca,La Liga
@@ -862,27 +862,27 @@
 860,Omar,Mascarell,Defensive Midfield,RCD Mallorca,La Liga
 861,Johan,Mojica,Left-Back,RCD Mallorca,La Liga
 862,Martin,Valjent,Centre-Back,RCD Mallorca,La Liga
-863,Adrián,,Goalkeeper,Real Betis Balompié,La Liga
+863,Adrian,,Goalkeeper,Real Betis Balompié,La Liga
 864,Rui,Silva,Goalkeeper,Real Betis Balompié,La Liga
 865,Fran,Vieites,Goalkeeper,Real Betis Balompié,La Liga
-866,Germán,García,Goalkeeper,Real Betis Balompié,La Liga
+866,German,Garcia,Goalkeeper,Real Betis Balompié,La Liga
 867,Guilherme,Fernandes,Goalkeeper,Real Betis Balompié,La Liga
-868,Manu,González,Goalkeeper,Real Betis Balompié,La Liga
-869,Félix,Martí,Defence,Real Betis Balompié,La Liga
-870,Lucas,Alcázar,Defence,Real Betis Balompié,La Liga
-871,Jesús,Rodríguez,Midfield,Real Betis Balompié,La Liga
+868,Manu,Gonzalez,Goalkeeper,Real Betis Balompié,La Liga
+869,Felix,Martin,Defence,Real Betis Balompié,La Liga
+870,Lucas,Alcazar,Defence,Real Betis Balompié,La Liga
+871,Jesus,Rodriguez,Midfield,Real Betis Balompié,La Liga
 872,Mateo,Flores,Midfield,Real Betis Balompié,La Liga
 873,Iker,Losada,Offence,Real Betis Balompié,La Liga
 874,Abdessamad,Ezzalzouli,Offence,Real Betis Balompié,La Liga
-875,Ezequiel,Ávila,Offence,Real Betis Balompié,La Liga
-876,Johnny,,Defensive Midfield,Real Betis Balompié,La Liga
+875,Ezequiel,Avila,Offence,Real Betis Balompié,La Liga
+876,Johnny,Cardoso,Defensive Midfield,Real Betis Balompié,La Liga
 877,Pablo,Fornals,Attacking Midfield,Real Betis Balompié,La Liga
 878,Aitor,Ruibal,Right Winger,Real Betis Balompié,La Liga
-879,Bartra,,Centre-Back,Real Betis Balompié,La Liga
+879,Marc,Bartra,Centre-Back,Real Betis Balompié,La Liga
 880,Marc,Roca,Defensive Midfield,Real Betis Balompié,La Liga
-881,Cédric,Bakambu,Centre-Forward,Real Betis Balompié,La Liga
+881,Cedric,Bakambu,Centre-Forward,Real Betis Balompié,La Liga
 882,Romain,Perraud,Left-Back,Real Betis Balompié,La Liga
-883,Héctor,Bellerín,Right-Back,Real Betis Balompié,La Liga
+883,Hector,Bellerin,Right-Back,Real Betis Balompié,La Liga
 884,Youssouf,Sabaly,Right-Back,Real Betis Balompié,La Liga
 885,William,Carvalho,Defensive Midfield,Real Betis Balompié,La Liga
 886,Giovani,Lo Celso,Central Midfield,Real Betis Balompié,La Liga
@@ -894,58 +894,58 @@
 892,Sergi,Altimira,Central Midfield,Real Betis Balompié,La Liga
 893,Nobel,Mendy,Centre-Back,Real Betis Balompié,La Liga
 894,Dani,Perez,Attacking Midfield,Real Betis Balompié,La Liga
-895,Vítor,Roque,Centre-Forward,Real Betis Balompié,La Liga
+895,Vitor,Roque,Centre-Forward,Real Betis Balompié,La Liga
 896,Natan,,Centre-Back,Real Betis Balompié,La Liga
-897,Álex,Remiro,Goalkeeper,Real Sociedad de Fútbol,La Liga
+897,Alex,Remiro,Goalkeeper,Real Sociedad de Fútbol,La Liga
 898,Unai,Marrero,Goalkeeper,Real Sociedad de Fútbol,La Liga
 899,Egoitz,Arana,Goalkeeper,Real Sociedad de Fútbol,La Liga
 900,Aitor,Fraga,Goalkeeper,Real Sociedad de Fútbol,La Liga
-901,Javi,López,Defence,Real Sociedad de Fútbol,La Liga
+901,Javi,Lopez,Defence,Real Sociedad de Fútbol,La Liga
 902,Orri,Oskarsson,Offence,Real Sociedad de Fútbol,La Liga
-903,Jon,Martín,Centre-Back,Real Sociedad de Fútbol,La Liga
+903,Jon,Martin,Centre-Back,Real Sociedad de Fútbol,La Liga
 904,Mikel,Oyarzabal,Centre-Forward,Real Sociedad de Fútbol,La Liga
 905,Pablo,Marin,Attacking Midfield,Real Sociedad de Fútbol,La Liga
 906,Jon,Magunazelaia,Attacking Midfield,Real Sociedad de Fútbol,La Liga
 907,Arsen,Zakharyan,Attacking Midfield,Real Sociedad de Fútbol,La Liga
 908,Jon,Olasagasti,Central Midfield,Real Sociedad de Fútbol,La Liga
-909,Beñat,Turrientes,Central Midfield,Real Sociedad de Fútbol,La Liga
-910,Urko,González,Defensive Midfield,Real Sociedad de Fútbol,La Liga
+909,Benat,Turrientes,Central Midfield,Real Sociedad de Fútbol,La Liga
+910,Urko,Gonzalez,Defensive Midfield,Real Sociedad de Fútbol,La Liga
 911,Jon,Pacheco,Centre-Back,Real Sociedad de Fútbol,La Liga
 912,Jon,Aramburu,Right-Back,Real Sociedad de Fútbol,La Liga
-913,Martín,Zubimendi,Defensive Midfield,Real Sociedad de Fútbol,La Liga
+913,Martin,Zubimendi,Defensive Midfield,Real Sociedad de Fútbol,La Liga
 914,Ander,Barrenetxea,Left Winger,Real Sociedad de Fútbol,La Liga
-915,Aihen,Muñoz,Left-Back,Real Sociedad de Fútbol,La Liga
-916,Luka,Sučić,Central Midfield,Real Sociedad de Fútbol,La Liga
+915,Aihen,Munoz,Left-Back,Real Sociedad de Fútbol,La Liga
+916,Luka,Sucic,Central Midfield,Real Sociedad de Fútbol,La Liga
 917,Nayef,Aguerd,Centre-Back,Real Sociedad de Fútbol,La Liga
 918,Takefusa,Kubo,Right Winger,Real Sociedad de Fútbol,La Liga
-919,Brais,Méndez,Attacking Midfield,Real Sociedad de Fútbol,La Liga
-920,Hamari,Traoré,Right-Back,Real Sociedad de Fútbol,La Liga
+919,Brais,Mendez,Attacking Midfield,Real Sociedad de Fútbol,La Liga
+920,Hamari,Traore,Right-Back,Real Sociedad de Fútbol,La Liga
 921,Umar,Sadiq,Centre-Forward,Real Sociedad de Fútbol,La Liga
 922,Sheraldo,Becker,Centre-Forward,Real Sociedad de Fútbol,La Liga
-923,Sergio,Gómez,Right Winger,Real Sociedad de Fútbol,La Liga
-924,Igor,Zubeldía,Centre-Back,Real Sociedad de Fútbol,La Liga
+923,Sergio,Gomez,Right Winger,Real Sociedad de Fútbol,La Liga
+924,Igor,Zubeldia,Centre-Back,Real Sociedad de Fútbol,La Liga
 925,Aritz,Elustondo,Centre-Back,Real Sociedad de Fútbol,La Liga
-926,Álvaro,Odriozola,Right-Back,Real Sociedad de Fútbol,La Liga
-927,Iker,Álvarez,Goalkeeper,Villarreal CF,La Liga
+926,Alvaro,Odriozola,Right-Back,Real Sociedad de Fútbol,La Liga
+927,Iker,Alvarez,Goalkeeper,Villarreal CF,La Liga
 928,Diego,Conde,Goalkeeper,Villarreal CF,La Liga
 929,Luiz,Junior,Goalkeeper,Villarreal CF,La Liga
 930,Alex,Quevedo,Goalkeeper,Villarreal CF,La Liga
-931,Arnau,Solà,Defence,Villarreal CF,La Liga
-932,Raúl,Albiol,Defence,Villarreal CF,La Liga
-933,Kiko,Femenía,Defence,Villarreal CF,La Liga
+931,Arnau,Sola,Defence,Villarreal CF,La Liga
+932,Raul,Albiol,Defence,Villarreal CF,La Liga
+933,Kiko,Femenia,Defence,Villarreal CF,La Liga
 934,Pau,Navarro,Defence,Villarreal CF,La Liga
-935,Santi,Comesaña,Midfield,Villarreal CF,La Liga
+935,Santi,Comesana,Midfield,Villarreal CF,La Liga
 936,Yeremy,,Offence,Villarreal CF,La Liga
 937,Karl,Etta Eyong,Offence,Villarreal CF,La Liga
-938,Álex,Baena,Offence,Villarreal CF,La Liga
+938,Alex,Baena,Offence,Villarreal CF,La Liga
 939,Pau,Cabanes,Offence,Villarreal CF,La Liga
 940,Thierno,Barry,Centre-Forward,Villarreal CF,La Liga
-941,RamónTerrats,Espacio,Defensive Midfield,Villarreal CF,La Liga
+941,RamonTerrats,Espacio,Defensive Midfield,Villarreal CF,La Liga
 942,Gerard,Moreno,Centre-Forward,Villarreal CF,La Liga
-943,Denís,Suárez,Attacking Midfield,Villarreal CF,La Liga
-944,Nicolas,Pépé,Right Winger,Villarreal CF,La Liga
+943,Denis,Suarez,Attacking Midfield,Villarreal CF,La Liga
+944,Nicolas,Pepe,Right Winger,Villarreal CF,La Liga
 945,Juan,Foyth,Right-Back,Villarreal CF,La Liga
-946,Ayoze,Pérez,Left Winger,Villarreal CF,La Liga
+946,Ayoze,Perez,Left Winger,Villarreal CF,La Liga
 947,Eric,Bailly,Centre-Back,Villarreal CF,La Liga
 948,Dani,Parejo,Central Midfield,Villarreal CF,La Liga
 949,Logan,Costa,Centre-Back,Villarreal CF,La Liga
@@ -957,20 +957,20 @@
 955,Dani,Requena,Central Midfield,Villarreal CF,La Liga
 956,Sergi,Cardona,Left-Back,Villarreal CF,La Liga
 957,Ilias,Akhomach,Right Winger,Villarreal CF,La Liga
-958,Jaume,Doménech,Goalkeeper,Valencia CF,La Liga
+958,Jaume,Domenech,Goalkeeper,Valencia CF,La Liga
 959,Stole,Dimitrievski,Goalkeeper,Valencia CF,La Liga
 960,Giorgi,Mamardashvili,Goalkeeper,Valencia CF,La Liga
-961,Raúl,Jiménez,Goalkeeper,Valencia CF,La Liga
+961,Raul,Jimenez,Goalkeeper,Valencia CF,La Liga
 962,Rodrigo,Abajas,Defence,Valencia CF,La Liga
-963,Álex,Serradell,Defence,Valencia CF,La Liga
-964,Iker,Córdoba,Defence,Valencia CF,La Liga
+963,Alex,Serradell,Defence,Valencia CF,La Liga
+964,Iker,Cordoba,Defence,Valencia CF,La Liga
 965,Warren,Madrigal,Offence,Valencia CF,La Liga
 966,Thierry,Correia,Right-Back,Valencia CF,La Liga
-967,Hugo,Guillamón,Defensive Midfield,Valencia CF,La Liga
+967,Hugo,Guillamon,Defensive Midfield,Valencia CF,La Liga
 968,Luis,Rioja,Left Winger,Valencia CF,La Liga
-969,André,Almeida,Central Midfield,Valencia CF,La Liga
+969,Andre,Almeida,Central Midfield,Valencia CF,La Liga
 970,Pepelu,,Defensive Midfield,Valencia CF,La Liga
-971,Gaya,,Left-Back,Valencia CF,La Liga
+971,Jose,Luis Gaya,Left-Back,Valencia CF,La Liga
 972,Samu,Castillejo,Right Winger,Valencia CF,La Liga
 973,Hugo,Duro,Centre-Forward,Valencia CF,La Liga
 974,Maximiliano,Caufriez,Centre-Back,Valencia CF,La Liga
@@ -980,56 +980,56 @@
 978,Rafael,Mir,Centre-Forward,Valencia CF,La Liga
 979,David,Otorbi,Right Winger,Valencia CF,La Liga
 980,Yarek,Gasiorowski,Centre-Back,Valencia CF,La Liga
-981,Martin,Tejón,Attacking Midfield,Valencia CF,La Liga
+981,Martin,Tejon,Attacking Midfield,Valencia CF,La Liga
 982,Fran,Perez,Right Winger,Valencia CF,La Liga
-983,Diego,López,Left Winger,Valencia CF,La Liga
+983,Diego,Lopez,Left Winger,Valencia CF,La Liga
 984,Javier,Guerra,Central Midfield,Valencia CF,La Liga
 985,Cesar,Tarrega,Centre-Back,Valencia CF,La Liga
 986,Cristhian,Mosquera,Centre-Back,Valencia CF,La Liga
 987,Enzo,Barrenechea,Defensive Midfield,Valencia CF,La Liga
 988,Jesus,Vazquez Alcalde,Left-Back,Valencia CF,La Liga
-989,Germán,Valera,Right Winger,Valencia CF,La Liga
+989,German,Valera,Right Winger,Valencia CF,La Liga
 990,Dani,Gómez,Centre-Forward,Valencia CF,La Liga
-991,André,Ferreira,Goalkeeper,Real Valladolid CF,La Liga
+991,Andre,Ferreira,Goalkeeper,Real Valladolid CF,La Liga
 992,Karl,Jakob Hein,Goalkeeper,Real Valladolid CF,La Liga
 993,Alvaro,Aceves,Goalkeeper,Real Valladolid CF,La Liga
-994,Arnau,Rafús,Goalkeeper,Real Valladolid CF,La Liga
+994,Arnau,Rafus,Goalkeeper,Real Valladolid CF,La Liga
 995,Koke,,Defence,Real Valladolid CF,La Liga
-996,Raúl,Chasco,Defence,Real Valladolid CF,La Liga
+996,Raul,Chasco,Defence,Real Valladolid CF,La Liga
 997,Abdulay,Bah,Midfield,Real Valladolid CF,La Liga
-998,Latasa,,Offence,Real Valladolid CF,La Liga
+998,Juanmi,Latasa,Offence,Real Valladolid CF,La Liga
 999,Chuki,,Attacking Midfield,Real Valladolid CF,La Liga
 1000,Mario,Maroto,Central Midfield,Real Valladolid CF,La Liga
 1001,Mario,Martin,Defensive Midfield,Real Valladolid CF,La Liga
 1002,Lucas,Rosa,Right-Back,Real Valladolid CF,La Liga
 1003,David,Torres,Centre-Back,Real Valladolid CF,La Liga
-1004,Víctor,Meseguer,Central Midfield,Real Valladolid CF,La Liga
-1005,Raúl,Moro,Left Winger,Real Valladolid CF,La Liga
-1006,Cenk,Özkacar,Centre-Back,Real Valladolid CF,La Liga
-1007,Javi,Sánchez,Centre-Back,Real Valladolid CF,La Liga
-1008,Stanko,Jurić,Defensive Midfield,Real Valladolid CF,La Liga
-1009,Maranhão,,Centre-Forward,Real Valladolid CF,La Liga
-1010,Iván,Sánchez Aguayo,Right Winger,Real Valladolid CF,La Liga
+1004,Victor,Meseguer,Central Midfield,Real Valladolid CF,La Liga
+1005,Raul,Moro,Left Winger,Real Valladolid CF,La Liga
+1006,Cenk,Ozkacar,Centre-Back,Real Valladolid CF,La Liga
+1007,Javi,Sanchez,Centre-Back,Real Valladolid CF,La Liga
+1008,Stanko,Juric,Defensive Midfield,Real Valladolid CF,La Liga
+1009,Maranhao,,Centre-Forward,Real Valladolid CF,La Liga
+1010,Ivan,Sanchez Aguayo,Right Winger,Real Valladolid CF,La Liga
 1011,Anuar,Tuhami,Attacking Midfield,Real Valladolid CF,La Liga
 1012,Cesar,de la Hoz,Defensive Midfield,Real Valladolid CF,La Liga
-1013,Kike,Pérez,Central Midfield,Real Valladolid CF,La Liga
-1014,Darwin,Machís,Left Winger,Real Valladolid CF,La Liga
-1015,Luis,Pérez,Right-Back,Real Valladolid CF,La Liga
-1016,Eray,Cömert,Centre-Back,Real Valladolid CF,La Liga
+1013,Kike,Perez,Central Midfield,Real Valladolid CF,La Liga
+1014,Darwin,Machis,Left Winger,Real Valladolid CF,La Liga
+1015,Luis,Perez,Right-Back,Real Valladolid CF,La Liga
+1016,Eray,Comert,Centre-Back,Real Valladolid CF,La Liga
 1017,Selim,Amallah,Attacking Midfield,Real Valladolid CF,La Liga
 1018,Mamadou,Sylla,Centre-Forward,Real Valladolid CF,La Liga
 1019,Kenedy,,Left Winger,Real Valladolid CF,La Liga
 1020,Amath,Ndiaye,Right Winger,Real Valladolid CF,La Liga
-1021,Sivera,,Goalkeeper,Deportivo Alavés,La Liga
-1022,Jesús,Owono,Goalkeeper,Deportivo Alavés,La Liga
+1021,Antonio,Sivera,Goalkeeper,Deportivo Alavés,La Liga
+1022,Jesus,Owono,Goalkeeper,Deportivo Alavés,La Liga
 1023,Adrian,Rodriguez,Goalkeeper,Deportivo Alavés,La Liga
-1024,Adrián,Pica,Defence,Deportivo Alavés,La Liga
-1025,Joan,Jordán,Midfield,Deportivo Alavés,La Liga
+1024,Adrian,Pica,Defence,Deportivo Alavés,La Liga
+1025,Joan,Jordan,Midfield,Deportivo Alavés,La Liga
 1026,Stoichkov,,Offence,Deportivo Alavés,La Liga
 1027,Julen,Lartitegi,Offence,Deportivo Alavés,La Liga
-1028,Ander,Sánchez,Attacking Midfield,Deportivo Alavés,La Liga
+1028,Ander,Sanchez,Attacking Midfield,Deportivo Alavés,La Liga
 1029,Carlos,Vicente,Right Winger,Deportivo Alavés,La Liga
-1030,Santiago,Mouriño,Centre-Back,Deportivo Alavés,La Liga
+1030,Santiago,Mourino,Centre-Back,Deportivo Alavés,La Liga
 1031,Abde,Rebbach,Left Winger,Deportivo Alavés,La Liga
 1032,Tomas,Mendes,Central Midfield,Deportivo Alavés,La Liga
 1033,Carlos,Martin,Centre-Forward,Deportivo Alavés,La Liga
@@ -1038,65 +1038,65 @@
 1036,Hugo,Novoa,Right-Back,Deportivo Alavés,La Liga
 1037,Luka,Romero,Right Winger,Deportivo Alavés,La Liga
 1038,Moussa,Diarra,Centre-Back,Deportivo Alavés,La Liga
-1039,Manuel,Sánchez,Left-Back,Deportivo Alavés,La Liga
+1039,Manuel,Sanchez,Left-Back,Deportivo Alavés,La Liga
 1040,Abdelkabir,Abqar,Centre-Back,Deportivo Alavés,La Liga
 1041,Aleksandar,Sedlar,Centre-Back,Deportivo Alavés,La Liga
 1042,Nahuel,Tenaglia,Right-Back,Deportivo Alavés,La Liga
 1043,Asier,Villalibre,Centre-Forward,Deportivo Alavés,La Liga
-1044,Kike,García,Centre-Forward,Deportivo Alavés,La Liga
+1044,Kike,Garcia,Centre-Forward,Deportivo Alavés,La Liga
 1045,Ander,Guevara,Central Midfield,Deportivo Alavés,La Liga
 1046,Jon,Guridi,Central Midfield,Deportivo Alavés,La Liga
 1047,Carlos,Benavidez,Defensive Midfield,Deportivo Alavés,La Liga
-1048,Toni,Martínez,Centre-Forward,Deportivo Alavés,La Liga
+1048,Toni,Martinez,Centre-Forward,Deportivo Alavés,La Liga
 1049,Jasper,Cillessen,Goalkeeper,UD Las Palmas,La Liga
-1050,Dinko,Horkaš,Goalkeeper,UD Las Palmas,La Liga
-1051,Álvaro,Vallés Rosa,Goalkeeper,UD Las Palmas,La Liga
-1052,Álvaro,Killane,Goalkeeper,UD Las Palmas,La Liga
-1053,Víctor,Puig,Goalkeeper,UD Las Palmas,La Liga
+1050,Dinko,Horkas,Goalkeeper,UD Las Palmas,La Liga
+1051,Alvaro,Valles Rosa,Goalkeeper,UD Las Palmas,La Liga
+1052,Alvaro,Killane,Goalkeeper,UD Las Palmas,La Liga
+1053,Victor,Puig,Goalkeeper,UD Las Palmas,La Liga
 1054,Juanma,Herzog,Defence,UD Las Palmas,La Liga
 1055,Marvin,Olawale Akinlabi Park,Midfield,UD Las Palmas,La Liga
-1056,Valentín,Pezzolesi,Offence,UD Las Palmas,La Liga
-1057,Fabio,González,Central Midfield,UD Las Palmas,La Liga
-1058,Benito,Ramírez,Left Winger,UD Las Palmas,La Liga
-1059,Pejiño,,Left Winger,UD Las Palmas,La Liga
+1056,Valentin,Pezzolesi,Offence,UD Las Palmas,La Liga
+1057,Fabio,Gonzalez,Central Midfield,UD Las Palmas,La Liga
+1058,Benito,Ramirez,Left Winger,UD Las Palmas,La Liga
+1059,Pejino,,Left Winger,UD Las Palmas,La Liga
 1060,Viti,,Right-Back,UD Las Palmas,La Liga
 1061,Mata,,Centre-Forward,UD Las Palmas,La Liga
-1062,Álex,Muñoz,Centre-Back,UD Las Palmas,La Liga
-1063,Javi,Muñoz,Central Midfield,UD Las Palmas,La Liga
+1062,Alex,Munoz,Centre-Back,UD Las Palmas,La Liga
+1063,Javi,Munoz,Central Midfield,UD Las Palmas,La Liga
 1064,Marc,Cardona,Centre-Forward,UD Las Palmas,La Liga
 1065,Sandro,,Centre-Forward,UD Las Palmas,La Liga
 1066,Adnan,Januzaj,Right Winger,UD Las Palmas,La Liga
 1067,Enzo,Loiodice,Central Midfield,UD Las Palmas,La Liga
 1068,Daley,Sinkgraven,Left-Back,UD Las Palmas,La Liga
 1069,Oliver,McBurnie,Centre-Forward,UD Las Palmas,La Liga
-1070,Iván,Gil,Attacking Midfield,UD Las Palmas,La Liga
+1070,Ivan,Gil,Attacking Midfield,UD Las Palmas,La Liga
 1071,Mika,Marmol,Centre-Back,UD Las Palmas,La Liga
-1072,José,Campaña,Central Midfield,UD Las Palmas,La Liga
+1072,Jose,Campana,Central Midfield,UD Las Palmas,La Liga
 1073,Dario,Essugo,Defensive Midfield,UD Las Palmas,La Liga
 1074,Alberto,Moleiro,Attacking Midfield,UD Las Palmas,La Liga
-1075,Álex,Suárez,Centre-Back,UD Las Palmas,La Liga
+1075,Alex,Suarez,Centre-Back,UD Las Palmas,La Liga
 1076,Manuel,Fuster,Left Winger,UD Las Palmas,La Liga
-1077,Fábio,Silva,Centre-Forward,UD Las Palmas,La Liga
-1078,Kirian,Rodríguez,Attacking Midfield,UD Las Palmas,La Liga
+1077,Fabio,Silva,Centre-Forward,UD Las Palmas,La Liga
+1078,Kirian,Rodriguez,Attacking Midfield,UD Las Palmas,La Liga
 1079,Scott,McKenna,Centre-Back,UD Las Palmas,La Liga
 1080,Paulo,Gazzaniga,Goalkeeper,Girona FC,La Liga
-1081,Pau,López,Goalkeeper,Girona FC,La Liga
+1081,Pau,Lopez,Goalkeeper,Girona FC,La Liga
 1082,Juan,Carlos,Goalkeeper,Girona FC,La Liga
-1083,Raúl,Martínez,Offence,Girona FC,La Liga
+1083,Raul,Martinez,Offence,Girona FC,La Liga
 1084,Jhon,Solis,Central Midfield,Girona FC,La Liga
 1085,Gabriel,Misehouy,Attacking Midfield,Girona FC,La Liga
 1086,Yaser,Asprilla,Right Winger,Girona FC,La Liga
 1087,Arnau,Martinez,Right-Back,Girona FC,La Liga
 1088,Bojan,Miovski,Centre-Forward,Girona FC,La Liga
-1089,Miguel,Gutiérrez,Left-Back,Girona FC,La Liga
-1090,Alejandro,Francés,Centre-Back,Girona FC,La Liga
-1091,Iván,Martín,Attacking Midfield,Girona FC,La Liga
+1089,Miguel,Gutierrez,Left-Back,Girona FC,La Liga
+1090,Alejandro,Frances,Centre-Back,Girona FC,La Liga
+1091,Ivan,Martin,Attacking Midfield,Girona FC,La Liga
 1092,Bryan,Gil,Left Winger,Girona FC,La Liga
 1093,Yangel,Herrera,Central Midfield,Girona FC,La Liga
-1094,Ladislav,Krejčí,Centre-Back,Girona FC,La Liga
+1094,Ladislav,Krejci,Centre-Back,Girona FC,La Liga
 1095,Portu,,Right Winger,Girona FC,La Liga
 1096,Juanpe,,Centre-Back,Girona FC,La Liga
-1097,David,López,Centre-Back,Girona FC,La Liga
+1097,David,Lopez,Centre-Back,Girona FC,La Liga
 1098,Abel,Ruiz,Centre-Forward,Girona FC,La Liga
 1099,Viktor,Tsyhankov,Right Winger,Girona FC,La Liga
 1100,Arnaut,Danjuma,Left Winger,Girona FC,La Liga
@@ -1105,10 +1105,10 @@
 1103,Donny,van de Beek,Central Midfield,Girona FC,La Liga
 1104,Cristhian,Stuani,Centre-Forward,Girona FC,La Liga
 1105,Vicente,Guaita,Goalkeeper,RC Celta de Vigo,La Liga
-1106,Iván,Villar,Goalkeeper,RC Celta de Vigo,La Liga
+1106,Ivan,Villar,Goalkeeper,RC Celta de Vigo,La Liga
 1107,Cesar,Fernandez,Goalkeeper,RC Celta de Vigo,La Liga
 1108,Marc,Vidal,Goalkeeper,RC Celta de Vigo,La Liga
-1109,Javi,Rodríguez,Right-Back,RC Celta de Vigo,La Liga
+1109,Javi,Rodriguez,Right-Back,RC Celta de Vigo,La Liga
 1110,Pablo,Duran,Centre-Forward,RC Celta de Vigo,La Liga
 1111,Damian,Rodriguez,Defensive Midfield,RC Celta de Vigo,La Liga
 1112,Hugo,Alvarez,Left Winger,RC Celta de Vigo,La Liga
@@ -1117,12 +1117,12 @@
 1115,Tadeo,Allende,Right Winger,RC Celta de Vigo,La Liga
 1116,Carlos,Dominguez,Centre-Back,RC Celta de Vigo,La Liga
 1117,Ilaix,Moriba,Central Midfield,RC Celta de Vigo,La Liga
-1118,Óscar,Mingueza,Right-Back,RC Celta de Vigo,La Liga
+1118,Oscar,Mingueza,Right-Back,RC Celta de Vigo,La Liga
 1119,Sergio,Carreira,Right-Back,RC Celta de Vigo,La Liga
-1120,Mihajlo,Ristić,Left-Back,RC Celta de Vigo,La Liga
+1120,Mihajlo,Ristic,Left-Back,RC Celta de Vigo,La Liga
 1121,Anastasios,Douvikas,Centre-Forward,RC Celta de Vigo,La Liga
-1122,Alfonso,González,Left Winger,RC Celta de Vigo,La Liga
-1123,Fran,Beltrán,Central Midfield,RC Celta de Vigo,La Liga
+1122,Alfonso,Gonzalez,Left Winger,RC Celta de Vigo,La Liga
+1123,Fran,Beltran,Central Midfield,RC Celta de Vigo,La Liga
 1124,Borja,Iglesias,Centre-Forward,RC Celta de Vigo,La Liga
 1125,Carl,Starfelt,Centre-Back,RC Celta de Vigo,La Liga
 1126,Franco,Cervi,Left Winger,RC Celta de Vigo,La Liga
@@ -1134,18 +1134,18 @@
 1132,Marcos,Alonso,Left-Back,RC Celta de Vigo,La Liga
 1133,Jailson,,Defensive Midfield,RC Celta de Vigo,La Liga
 1134,Ørjan,Nyland,Goalkeeper,Sevilla FC,La Liga
-1135,Álvaro,Fernández,Goalkeeper,Sevilla FC,La Liga
+1135,Alvaro,Fernandez,Goalkeeper,Sevilla FC,La Liga
 1136,Alberto,Flores,Goalkeeper,Sevilla FC,La Liga
 1137,Matias,Arbol,Goalkeeper,Sevilla FC,La Liga
-1138,Adrià,Pedrosa,Defence,Sevilla FC,La Liga
+1138,Adrian,Pedrosa,Defence,Sevilla FC,La Liga
 1139,Manuel,Bueno,Midfield,Sevilla FC,La Liga
 1140,Pablo,Rivera,Midfield,Sevilla FC,La Liga
 1141,Peque,,Offence,Sevilla FC,La Liga
 1142,Mateo,Mejía,Offence,Sevilla FC,La Liga
-1143,Loïc,Bade,Centre-Back,Sevilla FC,La Liga
+1143,Loic,Bade,Centre-Back,Sevilla FC,La Liga
 1144,Nianzou,Kouassi,Centre-Back,Sevilla FC,La Liga
 1145,Lucien,Agoume,Defensive Midfield,Sevilla FC,La Liga
-1146,Marcão,,Centre-Back,Sevilla FC,La Liga
+1146,Marcao,,Centre-Back,Sevilla FC,La Liga
 1147,Chidera,Ejuke,Left Winger,Sevilla FC,La Liga
 1148,Nemanja,Gudelj,Centre-Back,Sevilla FC,La Liga
 1149,Djibril,Sow,Central Midfield,Sevilla FC,La Liga
@@ -1154,43 +1154,43 @@
 1152,Dodi,Lukebakio,Right Winger,Sevilla FC,La Liga
 1153,Kelechi,Iheanacho,Centre-Forward,Sevilla FC,La Liga
 1154,Suso,,Right Winger,Sevilla FC,La Liga
-1155,Saúl,,Central Midfield,Sevilla FC,La Liga
-1156,Jesús,Navas,Right-Back,Sevilla FC,La Liga
+1155,Saul,Niguez,Central Midfield,Sevilla FC,La Liga
+1156,Jesus,Navas,Right-Back,Sevilla FC,La Liga
 1157,Alberto,Collado,Central Midfield,Sevilla FC,La Liga
 1158,Stanis,Idumbo-Muzambo,Attacking Midfield,Sevilla FC,La Liga
-1159,Isaac,,Centre-Forward,Sevilla FC,La Liga
+1159,Isaac,Romero,Centre-Forward,Sevilla FC,La Liga
 1160,Pedro,Ortiz,Central Midfield,Sevilla FC,La Liga
-1161,Juanlu,,Right-Back,Sevilla FC,La Liga
+1161,Juanlu,Sanchez,Right-Back,Sevilla FC,La Liga
 1162,Kike,Salas,Centre-Back,Sevilla FC,La Liga
 1163,Jose,Angel Carmona,Right-Back,Sevilla FC,La Liga
 1164,Valentin,Barco,Left-Back,Sevilla FC,La Liga
-1165,Marko,Dmitrović,Goalkeeper,CD Leganés,La Liga
+1165,Marko,Dmitrovic,Goalkeeper,CD Leganés,La Liga
 1166,Juan,Soriano,Goalkeeper,CD Leganés,La Liga
-1167,Álvaro,Abajas,Goalkeeper,CD Leganés,La Liga
-1168,Javi,Hernández,Defence,CD Leganés,La Liga
-1169,Sergio,Gónzalez,Defence,CD Leganés,La Liga
-1170,Joao,Urbáez,Defence,CD Leganés,La Liga
-1171,Álex,Masogo,Midfield,CD Leganés,La Liga
-1172,Diego,García,Centre-Forward,CD Leganés,La Liga
-1173,Adrià,Altimira,Right-Back,CD Leganés,La Liga
+1167,Alvaro,Abajas,Goalkeeper,CD Leganés,La Liga
+1168,Javi,Hernandez,Defence,CD Leganés,La Liga
+1169,Sergio,Gonzalez,Defence,CD Leganés,La Liga
+1170,Joao,Urbaez,Defence,CD Leganés,La Liga
+1171,Alex,Masogo,Midfield,CD Leganés,La Liga
+1172,Diego,Garcia,Centre-Forward,CD Leganés,La Liga
+1173,Adrian,Altimira,Right-Back,CD Leganés,La Liga
 1174,Seydouba,Cisse,Central Midfield,CD Leganés,La Liga
 1175,Naim,Garcia,Right Winger,CD Leganés,La Liga
 1176,Enric,Franquesa,Left-Back,CD Leganés,La Liga
 1177,Jackson,Porozo,Centre-Back,CD Leganés,La Liga
 1178,Yvan,Neyou,Defensive Midfield,CD Leganés,La Liga
-1179,Roberto,López,Attacking Midfield,CD Leganés,La Liga
+1179,Roberto,Lopez,Attacking Midfield,CD Leganés,La Liga
 1180,Miguel,,Centre-Forward,CD Leganés,La Liga
-1181,Darko,Brašanac,Central Midfield,CD Leganés,La Liga
+1181,Darko,Brasanac,Central Midfield,CD Leganés,La Liga
 1182,Munir,El Haddadi,Right Winger,CD Leganés,La Liga
 1183,Dani,Raba,Right Winger,CD Leganés,La Liga
 1184,Juan,Cruz,Right Winger,CD Leganés,La Liga
-1185,Jorge,Sáenz,Centre-Back,CD Leganés,La Liga
-1186,Julián,Chicco,Defensive Midfield,CD Leganés,La Liga
+1185,Jorge,Saenz,Centre-Back,CD Leganés,La Liga
+1186,Julian,Chicco,Defensive Midfield,CD Leganés,La Liga
 1187,Valentin,Rosier,Right-Back,CD Leganés,La Liga
-1188,Sébastien,Haller,Centre-Forward,CD Leganés,La Liga
-1189,Óscar,,Attacking Midfield,CD Leganés,La Liga
+1188,Sebastien,Haller,Centre-Forward,CD Leganés,La Liga
+1189,Oscar,Rodriguez Arnaiz,Attacking Midfield,CD Leganés,La Liga
 1190,Renato,Tapia,Defensive Midfield,CD Leganés,La Liga
-1191,Matija,Nastasić,Centre-Back,CD Leganés,La Liga
+1191,Matija,Nastasic,Centre-Back,CD Leganés,La Liga
 1192,Marco,Sportiello,Goalkeeper,AC Milan,Serie A
 1193,Mike,Maignan,Goalkeeper,AC Milan,Serie A
 1194,Lapo,Nava,Goalkeeper,AC Milan,Serie A
@@ -1201,17 +1201,17 @@
 1199,Antonio,Gala,Midfield,AC Milan,Serie A
 1200,Hugo,Cuenca,Midfield,AC Milan,Serie A
 1201,Bob,Murphy Omoregbe,Offence,AC Milan,Serie A
-1202,Nicolò,Turco,Offence,AC Milan,Serie A
+1202,Nicolo,Turco,Offence,AC Milan,Serie A
 1203,Samuel,Chukwueze,Right Winger,AC Milan,Serie A
 1204,Noah,Okafor,Left Winger,AC Milan,Serie A
-1205,Rafael,Leão,Left Winger,AC Milan,Serie A
+1205,Rafael,Leao,Left Winger,AC Milan,Serie A
 1206,Fikayo,Tomori,Centre-Back,AC Milan,Serie A
-1207,Fodé,Ballo-Touré,Left-Back,AC Milan,Serie A
+1207,Fode,Ballo-Toure,Left-Back,AC Milan,Serie A
 1208,Ruben,Loftus-Cheek,Central Midfield,AC Milan,Serie A
 1209,Tammy,Abraham,Centre-Forward,AC Milan,Serie A
-1210,Álvaro,Morata,Centre-Forward,AC Milan,Serie A
+1210,Alvaro,Morata,Centre-Forward,AC Milan,Serie A
 1211,Tijjani,Reijnders,Central Midfield,AC Milan,Serie A
-1212,Luka,Jović,Centre-Forward,AC Milan,Serie A
+1212,Luka,Jovic,Centre-Forward,AC Milan,Serie A
 1213,Divock,Origi,Centre-Forward,AC Milan,Serie A
 1214,Ismael,Bennacer,Defensive Midfield,AC Milan,Serie A
 1215,Alessandro,Florenzi,Right-Back,AC Milan,Serie A
@@ -1219,18 +1219,18 @@
 1217,Davide,Calabria,Right-Back,AC Milan,Serie A
 1218,Emerson,Royal,Right-Back,AC Milan,Serie A
 1219,Christian,Pulisic,Right Winger,AC Milan,Serie A
-1220,Theo,Hernández,Left-Back,AC Milan,Serie A
+1220,Theo,Hernandez,Left-Back,AC Milan,Serie A
 1221,Diego,Sia,Left Winger,AC Milan,Serie A
 1222,Victor,Eletu,Defensive Midfield,AC Milan,Serie A
 1223,Francesco,Camarda,Centre-Forward,AC Milan,Serie A
-1224,Álex,Jiménez,Left-Back,AC Milan,Serie A
+1224,Alex,Jimenez,Left-Back,AC Milan,Serie A
 1225,Kevin,Zeroli,Central Midfield,AC Milan,Serie A
 1226,Davide,Bartesaghi,Left-Back,AC Milan,Serie A
-1227,Chaka,Traorè,Left Winger,AC Milan,Serie A
+1227,Chaka,Traore,Left Winger,AC Milan,Serie A
 1228,Yunus,Musah,Central Midfield,AC Milan,Serie A
 1229,Filippo,Terracciano,Right-Back,AC Milan,Serie A
 1230,Malick,Thiaw,Centre-Back,AC Milan,Serie A
-1231,Strahinja,Pavlović,Centre-Back,AC Milan,Serie A
+1231,Strahinja,Pavlovic,Centre-Back,AC Milan,Serie A
 1232,Youssouf,Fofana,Defensive Midfield,AC Milan,Serie A
 1233,Pietro,Terracciano,Goalkeeper,ACF Fiorentina,Serie A
 1234,David,De Gea,Goalkeeper,ACF Fiorentina,Serie A
@@ -1241,13 +1241,13 @@
 1239,Leonardo,Baroncelli,Defence,ACF Fiorentina,Serie A
 1240,Eddy,Kouadio,Defence,ACF Fiorentina,Serie A
 1241,Vittorio,Agostinelli,Midfield,ACF Fiorentina,Serie A
-1242,Albert,Guðmundsson,Offence,ACF Fiorentina,Serie A
+1242,Albert,Guomundsson,Offence,ACF Fiorentina,Serie A
 1243,Filippo,Guidobaldi,Offence,ACF Fiorentina,Serie A
-1244,Dodô,,Right-Back,ACF Fiorentina,Serie A
-1245,Marin,Pongračić,Centre-Back,ACF Fiorentina,Serie A
+1244,Dodo,,Right-Back,ACF Fiorentina,Serie A
+1245,Marin,Pongracic,Centre-Back,ACF Fiorentina,Serie A
 1246,Yacine,Adli,Defensive Midfield,ACF Fiorentina,Serie A
-1247,Jonathan,Ikoné,Right Winger,ACF Fiorentina,Serie A
-1248,Christian,Kouamé,Left Winger,ACF Fiorentina,Serie A
+1247,Jonathan,Ikone,Right Winger,ACF Fiorentina,Serie A
+1248,Christian,Kouame,Left Winger,ACF Fiorentina,Serie A
 1249,Danilo,Cataldi,Defensive Midfield,ACF Fiorentina,Serie A
 1250,Rolando,Mandragora,Defensive Midfield,ACF Fiorentina,Serie A
 1251,Moise,Kean,Centre-Forward,ACF Fiorentina,Serie A
@@ -1259,11 +1259,11 @@
 1257,Pietro,Comuzzo,Centre-Back,ACF Fiorentina,Serie A
 1258,Matias,Moreno,Centre-Back,ACF Fiorentina,Serie A
 1259,Michael,Kayode,Right-Back,ACF Fiorentina,Serie A
-1260,Lucas,Martínez Quarta,Centre-Back,ACF Fiorentina,Serie A
+1260,Lucas,Martinez Quarta,Centre-Back,ACF Fiorentina,Serie A
 1261,Amir,Richardson,Central Midfield,ACF Fiorentina,Serie A
 1262,Edoardo,Bove,Central Midfield,ACF Fiorentina,Serie A
 1263,Fabiano,Parisi,Left-Back,ACF Fiorentina,Serie A
-1264,Lucas,Beltrán,Centre-Forward,ACF Fiorentina,Serie A
+1264,Lucas,Beltran,Centre-Forward,ACF Fiorentina,Serie A
 1265,Maty,Ryan,Goalkeeper,AS Roma,Serie A
 1266,Mile,Svilar,Goalkeeper,AS Roma,Serie A
 1267,Renato,Marin,Goalkeeper,AS Roma,Serie A
@@ -1277,14 +1277,14 @@
 1275,Tommaso,Baldanzi,Attacking Midfield,AS Roma,Serie A
 1276,Nicola,Zalewski,Left Midfield,AS Roma,Serie A
 1277,Saud,Abdulhamid,Right-Back,AS Roma,Serie A
-1278,Kouadio,Koné,Central Midfield,AS Roma,Serie A
-1279,Enzo,Le Fée,Central Midfield,AS Roma,Serie A
+1278,Kouadio,Kone,Central Midfield,AS Roma,Serie A
+1279,Enzo,Le Fee,Central Midfield,AS Roma,Serie A
 1280,Eldor,Shomurodov,Centre-Forward,AS Roma,Serie A
 1281,Mario,Hermoso,Centre-Back,AS Roma,Serie A
-1282,Zeki,Çelik,Right-Back,AS Roma,Serie A
+1282,Zeki,Celik,Right-Back,AS Roma,Serie A
 1283,Artem,Dovbyk,Centre-Forward,AS Roma,Serie A
 1284,Alexis,Saelemaekers,Right Winger,AS Roma,Serie A
-1285,Angeliño,,Left-Back,AS Roma,Serie A
+1285,Angelino,,Left-Back,AS Roma,Serie A
 1286,Leandro,Paredes,Defensive Midfield,AS Roma,Serie A
 1287,Bryan,Cristante,Defensive Midfield,AS Roma,Serie A
 1288,Gianluca,Mancini,Centre-Back,AS Roma,Serie A
@@ -1293,11 +1293,11 @@
 1291,Evan,N'Dicka,Centre-Back,AS Roma,Serie A
 1292,Mats,Hummels,Centre-Back,AS Roma,Serie A
 1293,Francesco,Rossi,Goalkeeper,Atalanta BC,Serie A
-1294,Rui,Patrício,Goalkeeper,Atalanta BC,Serie A
+1294,Rui,Patricio,Goalkeeper,Atalanta BC,Serie A
 1295,Marco,Carnesecchi,Goalkeeper,Atalanta BC,Serie A
 1296,Lorenzo,Bernasconi,Defence,Atalanta BC,Serie A
 1297,Pietro,Tornaghi,Defence,Atalanta BC,Serie A
-1298,Éderson,,Midfield,Atalanta BC,Serie A
+1298,Ederson,,Midfield,Atalanta BC,Serie A
 1299,Federico,Cassa,Midfield,Atalanta BC,Serie A
 1300,Lorenzo,Riccio,Midfield,Atalanta BC,Serie A
 1301,Ademola,Lookman,Offence,Atalanta BC,Serie A
@@ -1308,14 +1308,14 @@
 1306,Viktor,Kovalenko,Attacking Midfield,Atalanta BC,Serie A
 1307,Mateo,Retegui,Centre-Forward,Atalanta BC,Serie A
 1308,Davide,Zappacosta,Right Midfield,Atalanta BC,Serie A
-1309,Sead,Kolašinac,Centre-Back,Atalanta BC,Serie A
+1309,Sead,Kolasinac,Centre-Back,Atalanta BC,Serie A
 1310,Ben,Godfrey,Centre-Back,Atalanta BC,Serie A
-1311,Mario,Pašalić,Central Midfield,Atalanta BC,Serie A
+1311,Mario,Pasalic,Central Midfield,Atalanta BC,Serie A
 1312,Gianluca,Scamacca,Centre-Forward,Atalanta BC,Serie A
 1313,Juan,Cuadrado,Right Midfield,Atalanta BC,Serie A
-1314,Nicolò,Zaniolo,Attacking Midfield,Atalanta BC,Serie A
+1314,Nicolo,Zaniolo,Attacking Midfield,Atalanta BC,Serie A
 1315,Marten,de Roon,Defensive Midfield,Atalanta BC,Serie A
-1316,Rafael,Tolói,Centre-Back,Atalanta BC,Serie A
+1316,Rafael,Toloi,Centre-Back,Atalanta BC,Serie A
 1317,Raoul,Bellanova,Right-Back,Atalanta BC,Serie A
 1318,Pietro,Comi,Centre-Back,Atalanta BC,Serie A
 1319,Alberto,Manzoni,Central Midfield,Atalanta BC,Serie A
@@ -1330,22 +1330,22 @@
 1328,Matteo,Ruggeri,Left Midfield,Atalanta BC,Serie A
 1329,Brandon,Soppy,Right-Back,Atalanta BC,Serie A
 1330,Lazar,Samardzic,Central Midfield,Atalanta BC,Serie A
-1331,Łukasz,Skorupski,Goalkeeper,Bologna FC 1909,Serie A
+1331,Lukasz,Skorupski,Goalkeeper,Bologna FC 1909,Serie A
 1332,Federico,Ravaglia,Goalkeeper,Bologna FC 1909,Serie A
 1333,Nicola,Bagnolini,Goalkeeper,Bologna FC 1909,Serie A
 1334,Wisdom,Amey,Defence,Bologna FC 1909,Serie A
 1335,Lorenzo,Menegazzo,Midfield,Bologna FC 1909,Serie A
-1336,Nicolò,Cambiaghi,Offence,Bologna FC 1909,Serie A
+1336,Nicolo,Cambiaghi,Offence,Bologna FC 1909,Serie A
 1337,Samuel,Iling-Junior,Offence,Bologna FC 1909,Serie A
 1338,Andrea,Mazia,Offence,Bologna FC 1909,Serie A
 1339,Martin,Erlic,Centre-Back,Bologna FC 1909,Serie A
-1340,Nicolò,Casale,Centre-Back,Bologna FC 1909,Serie A
+1340,Nicolo,Casale,Centre-Back,Bologna FC 1909,Serie A
 1341,Sam,Beukema,Centre-Back,Bologna FC 1909,Serie A
 1342,Lewis,Ferguson,Attacking Midfield,Bologna FC 1909,Serie A
 1343,Juan,Miranda,Left-Back,Bologna FC 1909,Serie A
 1344,Jesper,Karlsson,Left Winger,Bologna FC 1909,Serie A
 1345,Nikola,Moro,Defensive Midfield,Bologna FC 1909,Serie A
-1346,Jhon,Lucumí,Centre-Back,Bologna FC 1909,Serie A
+1346,Jhon,Lucumi,Centre-Back,Bologna FC 1909,Serie A
 1347,Michel,Aebischer,Central Midfield,Bologna FC 1909,Serie A
 1348,Thijs,Dallinga,Centre-Forward,Bologna FC 1909,Serie A
 1349,Lorenzo,De Silvestri,Right-Back,Bologna FC 1909,Serie A
@@ -1358,12 +1358,12 @@
 1356,Naim,Byar,Central Midfield,Bologna FC 1909,Serie A
 1357,Tommaso,Ravaglioli,Centre-Forward,Bologna FC 1909,Serie A
 1358,Tommaso,Corazza,Left-Back,Bologna FC 1909,Serie A
-1359,Benjamín,Domínguez,Left Winger,Bologna FC 1909,Serie A
+1359,Benjamin,Dominguez,Left Winger,Bologna FC 1909,Serie A
 1360,Oussama,El Azzouzi,Defensive Midfield,Bologna FC 1909,Serie A
 1361,Giovanni,Fabbian,Central Midfield,Bologna FC 1909,Serie A
 1362,Santiago,Castro,Centre-Forward,Bologna FC 1909,Serie A
 1363,Kacper,Urbanski,Central Midfield,Bologna FC 1909,Serie A
-1364,Niklas,Pyyhtiä,Central Midfield,Bologna FC 1909,Serie A
+1364,Niklas,Pyyhtia,Central Midfield,Bologna FC 1909,Serie A
 1365,Emil,Holm,Right Midfield,Bologna FC 1909,Serie A
 1366,Tommaso,Pobega,Central Midfield,Bologna FC 1909,Serie A
 1367,Dan,Ndoye,Right Winger,Bologna FC 1909,Serie A
@@ -1371,7 +1371,7 @@
 1369,Giuseppe,Ciocci,Goalkeeper,Cagliari Calcio,Serie A
 1370,Alen,Sherri,Goalkeeper,Cagliari Calcio,Serie A
 1371,Velizar,Iliev,Goalkeeper,Cagliari Calcio,Serie A
-1372,José,Palomino,Defence,Cagliari Calcio,Serie A
+1372,Jose,Palomino,Defence,Cagliari Calcio,Serie A
 1373,Andrea,Cogoni,Defence,Cagliari Calcio,Serie A
 1374,Gianluca,Contini,Offence,Cagliari Calcio,Serie A
 1375,Zito,Luvumbo,Offence,Cagliari Calcio,Serie A
@@ -1380,8 +1380,8 @@
 1378,Paulo,Dentello,Left-Back,Cagliari Calcio,Serie A
 1379,Antoine,Makoumbou,Defensive Midfield,Cagliari Calcio,Serie A
 1380,Mateusz,Wieteska,Centre-Back,Cagliari Calcio,Serie A
-1381,Răzvan,Marin,Defensive Midfield,Cagliari Calcio,Serie A
-1382,Gastón,Pereiro,Attacking Midfield,Cagliari Calcio,Serie A
+1381,Razvan,Marin,Defensive Midfield,Cagliari Calcio,Serie A
+1382,Gaston,Pereiro,Attacking Midfield,Cagliari Calcio,Serie A
 1383,Yerry,Mina,Centre-Back,Cagliari Calcio,Serie A
 1384,Tommaso,Augello,Left-Back,Cagliari Calcio,Serie A
 1385,Sebastiano,Luperto,Centre-Back,Cagliari Calcio,Serie A
@@ -1407,9 +1407,9 @@
 1405,Lior,Kasa,Midfield,Genoa CFC,Serie A
 1406,Vitinha,,Offence,Genoa CFC,Serie A
 1407,Jeff,Ekhator,Offence,Genoa CFC,Serie A
-1408,Johan,Vásquez,Centre-Back,Genoa CFC,Serie A
+1408,Johan,Vasquez,Centre-Back,Genoa CFC,Serie A
 1409,Emil,Bohinen,Defensive Midfield,Genoa CFC,Serie A
-1410,Aaron,Martín,Left-Back,Genoa CFC,Serie A
+1410,Aaron,Martin,Left-Back,Genoa CFC,Serie A
 1411,Morten,Frendrup,Central Midfield,Genoa CFC,Serie A
 1412,Morten,Thorsby,Central Midfield,Genoa CFC,Serie A
 1413,Caleb,Ekuban,Centre-Forward,Genoa CFC,Serie A
@@ -1436,7 +1436,7 @@
 1434,Alessandro,Calligaris,Goalkeeper,FC Internazionale Milano,Serie A
 1435,Carlos,Augusto Lobaton,Defence,FC Internazionale Milano,Serie A
 1436,Jacopo,Gianelli,Midfield,FC Internazionale Milano,Serie A
-1437,Joaquín,Correa,Offence,FC Internazionale Milano,Serie A
+1437,Joaquin,Correa,Offence,FC Internazionale Milano,Serie A
 1438,Kristjan,Asllani,Defensive Midfield,FC Internazionale Milano,Serie A
 1439,Tiago,Palacios,Centre-Back,FC Internazionale Milano,Serie A
 1440,Tajon,Buchanan,Right Midfield,FC Internazionale Milano,Serie A
@@ -1448,34 +1448,34 @@
 1446,Denzel,Dumfries,Right Midfield,FC Internazionale Milano,Serie A
 1447,Mehdi,Taremi,Centre-Forward,FC Internazionale Milano,Serie A
 1448,Benjamin,Pavard,Centre-Back,FC Internazionale Milano,Serie A
-1449,Lautaro,Martínez,Centre-Forward,FC Internazionale Milano,Serie A
+1449,Lautaro,Martinez,Centre-Forward,FC Internazionale Milano,Serie A
 1450,Davide,Frattesi,Central Midfield,FC Internazionale Milano,Serie A
 1451,Francesco,Acerbi,Centre-Back,FC Internazionale Milano,Serie A
-1452,Piotr,Zieliński,Central Midfield,FC Internazionale Milano,Serie A
+1452,Piotr,Zielinski,Central Midfield,FC Internazionale Milano,Serie A
 1453,Stefan,de Vrij,Centre-Back,FC Internazionale Milano,Serie A
-1454,Nicolò,Barella,Central Midfield,FC Internazionale Milano,Serie A
+1454,Nicolo,Barella,Central Midfield,FC Internazionale Milano,Serie A
 1455,Alessandro,Bastoni,Centre-Back,FC Internazionale Milano,Serie A
-1456,Hakan,Çalhanoğlu,Defensive Midfield,FC Internazionale Milano,Serie A
+1456,Hakan,Calhanoglu,Defensive Midfield,FC Internazionale Milano,Serie A
 1457,Yann,Aurel Bisseck,Centre-Back,FC Internazionale Milano,Serie A
 1458,Mattia,Perin,Goalkeeper,Juventus FC,Serie A
 1459,Carlo,Pinsoglio,Goalkeeper,Juventus FC,Serie A
 1460,Michele,Di Gregorio,Goalkeeper,Juventus FC,Serie A
 1461,Vasilije,Adzic,Midfield,Juventus FC,Serie A
-1462,Nicolò,Ledonne,Midfield,Juventus FC,Serie A
-1463,Kenan,Yıldız,Offence,Juventus FC,Serie A
-1464,Lorenzo,Anghelè,Offence,Juventus FC,Serie A
+1462,Nicolo,Ledonne,Midfield,Juventus FC,Serie A
+1463,Kenan,Yildiz,Offence,Juventus FC,Serie A
+1464,Lorenzo,Anghele,Offence,Juventus FC,Serie A
 1465,Jonas,Rouhi,Left-Back,Juventus FC,Serie A
 1466,Samuel,Mbangula,Left Winger,Juventus FC,Serie A
-1467,Nicolò,Savona,Right-Back,Juventus FC,Serie A
+1467,Nicolo,Savona,Right-Back,Juventus FC,Serie A
 1468,Federico,Gatti,Centre-Back,Juventus FC,Serie A
-1469,Francisco,Conceição,Right Winger,Juventus FC,Serie A
+1469,Francisco,Conceicao,Right Winger,Juventus FC,Serie A
 1470,Pierre,Kalulu,Centre-Back,Juventus FC,Serie A
 1471,Andrea,Cambiaso,Left-Back,Juventus FC,Serie A
 1472,Juan,Cabal,Left-Back,Juventus FC,Serie A
-1473,Khéphren,Thuram-Ulie,Central Midfield,Juventus FC,Serie A
-1474,Nicolò,Fagioli,Central Midfield,Juventus FC,Serie A
-1475,Dušan,Vlahović,Centre-Forward,Juventus FC,Serie A
-1476,Nicolás,González,Right Winger,Juventus FC,Serie A
+1473,Khephren,Thuram-Ulie,Central Midfield,Juventus FC,Serie A
+1474,Nicolo,Fagioli,Central Midfield,Juventus FC,Serie A
+1475,Dusan,Vlahovic,Centre-Forward,Juventus FC,Serie A
+1476,Nicolas,Gonzalez,Right Winger,Juventus FC,Serie A
 1477,Douglas,Luiz,Central Midfield,Juventus FC,Serie A
 1478,Tim,Weah,Right Midfield,Juventus FC,Serie A
 1479,Danilo,,Centre-Back,Juventus FC,Serie A
@@ -1485,34 +1485,34 @@
 1483,Arkadiusz,Milik,Centre-Forward,Juventus FC,Serie A
 1484,Manuel,Locatelli,Defensive Midfield,Juventus FC,Serie A
 1485,Arthur,,Defensive Midfield,Juventus FC,Serie A
-1486,Bremer,,Centre-Back,Juventus FC,Serie A
+1486,Gleison,Bremer,Centre-Back,Juventus FC,Serie A
 1487,Ivan,Provedel,Goalkeeper,SS Lazio,Serie A
 1488,Christos,Mandas,Goalkeeper,SS Lazio,Serie A
 1489,Alessio,Furlanetto,Goalkeeper,SS Lazio,Serie A
 1490,Jean-Daniel,Akpa-Akpro,Midfield,SS Lazio,Serie A
-1491,Cristo,Muñoz,Midfield,SS Lazio,Serie A
-1492,Valentín,Castellanos,Centre-Forward,SS Lazio,Serie A
-1493,Toma,Bašić,Central Midfield,SS Lazio,Serie A
+1491,Cristo,Munoz,Midfield,SS Lazio,Serie A
+1492,Valentin,Castellanos,Centre-Forward,SS Lazio,Serie A
+1493,Toma,Basic,Central Midfield,SS Lazio,Serie A
 1494,Samuel,Gigot,Centre-Back,SS Lazio,Serie A
 1495,Pedro,,Right Winger,SS Lazio,Serie A
 1496,Gaetano,Castrovilli,Central Midfield,SS Lazio,Serie A
 1497,Manuel,Lazzari,Right Midfield,SS Lazio,Serie A
 1498,Mattia,Zaccagni,Left Winger,SS Lazio,Serie A
 1499,Elseid,Hysaj,Right-Back,SS Lazio,Serie A
-1500,Adam,Marušić,Right-Back,SS Lazio,Serie A
+1500,Adam,Marusic,Right-Back,SS Lazio,Serie A
 1501,Patric,,Centre-Back,SS Lazio,Serie A
-1502,Matías,Vecino,Central Midfield,SS Lazio,Serie A
+1502,Matias,Vecino,Central Midfield,SS Lazio,Serie A
 1503,Luca,Pellegrini,Left-Back,SS Lazio,Serie A
 1504,Alessio,Romagnoli,Centre-Back,SS Lazio,Serie A
 1505,Mattéo,Guendouzi,Central Midfield,SS Lazio,Serie A
 1506,Alessandro,Milani,Left-Back,SS Lazio,Serie A
-1507,Diego,González,Right Winger,SS Lazio,Serie A
+1507,Diego,Gonzalez,Right Winger,SS Lazio,Serie A
 1508,Gila,,Centre-Back,SS Lazio,Serie A
 1509,Tijjani,Noslin,Right Winger,SS Lazio,Serie A
 1510,Loum,Tchaouna,Right Winger,SS Lazio,Serie A
 1511,Fisayo,Dele-Bashiru,Attacking Midfield,SS Lazio,Serie A
 1512,Gustav,Isaksen,Right Winger,SS Lazio,Serie A
-1513,Nicolò,Rovella,Defensive Midfield,SS Lazio,Serie A
+1513,Nicolo,Rovella,Defensive Midfield,SS Lazio,Serie A
 1514,Boulaye,Dia,Centre-Forward,SS Lazio,Serie A
 1515,Anderson,Lima,Attacking Midfield,SS Lazio,Serie A
 1516,Nuno,Tavares,Left-Back,SS Lazio,Serie A
@@ -1526,8 +1526,8 @@
 1524,Simon,Sohm,Central Midfield,Parma Calcio 1913,Serie A
 1525,Lautaro,Valenti,Centre-Back,Parma Calcio 1913,Serie A
 1526,Drissa,Camara,Central Midfield,Parma Calcio 1913,Serie A
-1527,Adrián,Bernabé,Central Midfield,Parma Calcio 1913,Serie A
-1528,Nahuel,Estévez,Defensive Midfield,Parma Calcio 1913,Serie A
+1527,Adrian,Bernabe,Central Midfield,Parma Calcio 1913,Serie A
+1528,Nahuel,Estevez,Defensive Midfield,Parma Calcio 1913,Serie A
 1529,Emanuele,Valeri,Left-Back,Parma Calcio 1913,Serie A
 1530,Valentin,Mihaila,Left Winger,Parma Calcio 1913,Serie A
 1531,Pontus,Almqvist,Right Winger,Parma Calcio 1913,Serie A
@@ -1554,7 +1554,7 @@
 1552,Claudio,Turi,Goalkeeper,SSC Napoli,Serie A
 1553,Davide,Costanzo,Defence,SSC Napoli,Serie A
 1554,Giacomo,Raspadori,Offence,SSC Napoli,Serie A
-1555,Matija,Popović,Attacking Midfield,SSC Napoli,Serie A
+1555,Matija,Popovic,Attacking Midfield,SSC Napoli,Serie A
 1556,Francesco,Gioielli,Defensive Midfield,SSC Napoli,Serie A
 1557,Rafa,Marin,Centre-Back,SSC Napoli,Serie A
 1558,Juan,Jesus,Centre-Back,SSC Napoli,Serie A
@@ -1563,9 +1563,9 @@
 1561,Cyril,Ngonge,Right Winger,SSC Napoli,Serie A
 1562,Michael,Folorunsho,Central Midfield,SSC Napoli,Serie A
 1563,Stanislav,Lobotka,Defensive Midfield,SSC Napoli,Serie A
-1564,Mathías,Olivera,Left-Back,SSC Napoli,Serie A
+1564,Mathias,Olivera,Left-Back,SSC Napoli,Serie A
 1565,Amir,Rrahmani,Centre-Back,SSC Napoli,Serie A
-1566,André,Zambo Anguissa,Central Midfield,SSC Napoli,Serie A
+1566,Andre,Zambo Anguissa,Central Midfield,SSC Napoli,Serie A
 1567,Scott,McTominay,Central Midfield,SSC Napoli,Serie A
 1568,David,Neres,Right Winger,SSC Napoli,Serie A
 1569,Romelu,Lukaku,Centre-Forward,SSC Napoli,Serie A
@@ -1574,22 +1574,22 @@
 1572,Alessandro,Buongiorno,Centre-Back,SSC Napoli,Serie A
 1573,Matteo,Politano,Right Winger,SSC Napoli,Serie A
 1574,Alessio,Zerbin,Left Winger,SSC Napoli,Serie A
-1575,Mário,Rui,Left-Back,SSC Napoli,Serie A
+1575,Mario,Rui,Left-Back,SSC Napoli,Serie A
 1576,Leonardo,Spinazzola,Left-Back,SSC Napoli,Serie A
 1577,Giovanni,Simeone,Centre-Forward,SSC Napoli,Serie A
 1578,Daniele,Padelli,Goalkeeper,Udinese Calcio,Serie A
 1579,Maduka,Okoye,Goalkeeper,Udinese Calcio,Serie A
 1580,Razvan,Sava,Goalkeeper,Udinese Calcio,Serie A
 1581,Edoardo,Piana,Goalkeeper,Udinese Calcio,Serie A
-1582,Martín,Payero,Central Midfield,Udinese Calcio,Serie A
+1582,Martin,Payero,Central Midfield,Udinese Calcio,Serie A
 1583,Lorenzo,Lucca,Centre-Forward,Udinese Calcio,Serie A
 1584,Jesper,Karlström,Defensive Midfield,Udinese Calcio,Serie A
-1585,Filip,Benković,Centre-Back,Udinese Calcio,Serie A
+1585,Filip,Benkovic,Centre-Back,Udinese Calcio,Serie A
 1586,Isaac,Success,Centre-Forward,Udinese Calcio,Serie A
 1587,Sandi,Lovric,Central Midfield,Udinese Calcio,Serie A
 1588,Gerard,Deulofeu,Centre-Forward,Udinese Calcio,Serie A
 1589,Christian,Kabasele,Centre-Back,Udinese Calcio,Serie A
-1590,Alexis,Sánchez,Centre-Forward,Udinese Calcio,Serie A
+1590,Alexis,Sanchez,Centre-Forward,Udinese Calcio,Serie A
 1591,Kingsley,Ehizibue,Right-Back,Udinese Calcio,Serie A
 1592,Jurgen,Ekkelenkamp,Attacking Midfield,Udinese Calcio,Serie A
 1593,Keinan,Davis,Centre-Forward,Udinese Calcio,Serie A
@@ -1598,7 +1598,7 @@
 1596,Hassane,Kamara,Left-Back,Udinese Calcio,Serie A
 1597,Enzo,Ebosse,Centre-Back,Udinese Calcio,Serie A
 1598,Matteo,Palma,Centre-Back,Udinese Calcio,Serie A
-1599,David,Pejičić,Attacking Midfield,Udinese Calcio,Serie A
+1599,David,Pejicic,Attacking Midfield,Udinese Calcio,Serie A
 1600,Arthur,Atta,Defensive Midfield,Udinese Calcio,Serie A
 1601,James,Abankwah,Centre-Back,Udinese Calcio,Serie A
 1602,Damian,Pizarro,Centre-Forward,Udinese Calcio,Serie A
@@ -1614,7 +1614,7 @@
 1612,Federico,Brancolini,Goalkeeper,Empoli FC,Serie A
 1613,Samuele,Perisan,Goalkeeper,Empoli FC,Serie A
 1614,Valerio,Biagini,Goalkeeper,Empoli FC,Serie A
-1615,Devis,Vásquez,Goalkeeper,Empoli FC,Serie A
+1615,Devis,Vasquez,Goalkeeper,Empoli FC,Serie A
 1616,Jacopo,Seghetti,Goalkeeper,Empoli FC,Serie A
 1617,Matteo,Fuscaldo,Goalkeeper,Empoli FC,Serie A
 1618,Lorenzo,Tosto,Defence,Empoli FC,Serie A
@@ -1648,20 +1648,20 @@
 1646,Faustino,Anjorin,Attacking Midfield,Empoli FC,Serie A
 1647,Sebastiano,Esposito,Centre-Forward,Empoli FC,Serie A
 1648,Alessandro,Berardi,Goalkeeper,Hellas Verona FC,Serie A
-1649,Lorenzo,Montipò,Goalkeeper,Hellas Verona FC,Serie A
+1649,Lorenzo,Montipo,Goalkeeper,Hellas Verona FC,Serie A
 1650,Simone,Perilli,Goalkeeper,Hellas Verona FC,Serie A
 1651,Giacomo,Toniolo,Goalkeeper,Hellas Verona FC,Serie A
 1652,Federico,Magro,Goalkeeper,Hellas Verona FC,Serie A
-1653,Paweł,Dawidowicz,Defence,Hellas Verona FC,Serie A
+1653,Pawel,Dawidowicz,Defence,Hellas Verona FC,Serie A
 1654,Bruno,Conti,Midfield,Hellas Verona FC,Serie A
 1655,Juan,Cruz,Offence,Hellas Verona FC,Serie A
 1656,Jackson,Tchatchoua,Offence,Hellas Verona FC,Serie A
-1657,Tomáš,Suslov,Attacking Midfield,Hellas Verona FC,Serie A
+1657,Tomas,Suslov,Attacking Midfield,Hellas Verona FC,Serie A
 1658,Casper,Tengstedt,Centre-Forward,Hellas Verona FC,Serie A
 1659,Faride,Alidou,Left Winger,Hellas Verona FC,Serie A
 1660,Amin,Sarr,Centre-Forward,Hellas Verona FC,Serie A
 1661,Flavius,Daniliuc,Centre-Back,Hellas Verona FC,Serie A
-1662,Domagoj,Bradarić,Left-Back,Hellas Verona FC,Serie A
+1662,Domagoj,Bradaric,Left-Back,Hellas Verona FC,Serie A
 1663,Martin,Frese,Left-Back,Hellas Verona FC,Serie A
 1664,Grigoris,Kastanos,Attacking Midfield,Hellas Verona FC,Serie A
 1665,Abdou,Harroui,Central Midfield,Hellas Verona FC,Serie A
@@ -1669,7 +1669,7 @@
 1667,Ondrej,Duda,Central Midfield,Hellas Verona FC,Serie A
 1668,Giangiacomo,Magnani,Centre-Back,Hellas Verona FC,Serie A
 1669,Davide,Faraoni,Right-Back,Hellas Verona FC,Serie A
-1670,Darko,Lazović,Left Midfield,Hellas Verona FC,Serie A
+1670,Darko,Lazovic,Left Midfield,Hellas Verona FC,Serie A
 1671,Karlson,Nwanege,Centre-Back,Hellas Verona FC,Serie A
 1672,Junior,Ajayi,Centre-Forward,Hellas Verona FC,Serie A
 1673,Luca,Monticelli,Centre-Forward,Hellas Verona FC,Serie A
@@ -1690,7 +1690,7 @@
 1688,Filippo,Neri,Goalkeeper,Venezia FC,Serie A
 1689,Filip,Stankovic,Goalkeeper,Venezia FC,Serie A
 1690,Bruno,Bertinato,Goalkeeper,Venezia FC,Serie A
-1691,Gregor,Pürg,Goalkeeper,Venezia FC,Serie A
+1691,Gregor,Purg,Goalkeeper,Venezia FC,Serie A
 1692,Noah,Baudouin,Defence,Venezia FC,Serie A
 1693,Jack,De Vries,Midfield,Venezia FC,Serie A
 1694,Damiano,Pecile,Midfield,Venezia FC,Serie A
@@ -1701,10 +1701,10 @@
 1699,Christian,Gytkjær,Centre-Forward,Venezia FC,Serie A
 1700,Michael,Svoboda,Centre-Back,Venezia FC,Serie A
 1701,Jay,Idzes,Centre-Back,Venezia FC,Serie A
-1702,Domen,Črnigoj,Central Midfield,Venezia FC,Serie A
+1702,Domen,Crnigoj,Central Midfield,Venezia FC,Serie A
 1703,Magnus,Andersen,Central Midfield,Venezia FC,Serie A
 1704,Ridgeciano,Haps,Left-Back,Venezia FC,Serie A
-1705,Marin,Šverko,Centre-Back,Venezia FC,Serie A
+1705,Marin,Sverko,Centre-Back,Venezia FC,Serie A
 1706,Joel,Pohjanpalo,Centre-Forward,Venezia FC,Serie A
 1707,Antonio,Candela,Right-Back,Venezia FC,Serie A
 1708,Antonio,Fiordilino,Defensive Midfield,Venezia FC,Serie A
@@ -1723,24 +1723,24 @@
 1721,Bjarki,Bjarkason,Left Winger,Venezia FC,Serie A
 1722,John,Yeboah,Attacking Midfield,Venezia FC,Serie A
 1723,Antonio,Donnarumma,Goalkeeper,Torino FC,Serie A
-1724,Vanja,Milinković-Savić,Goalkeeper,Torino FC,Serie A
+1724,Vanja,Milinković-Savic,Goalkeeper,Torino FC,Serie A
 1725,Alberto,Paleari,Goalkeeper,Torino FC,Serie A
 1726,Francesco,Plaia,Goalkeeper,Torino FC,Serie A
-1727,Comè,Bianay Balcot,Midfield,Torino FC,Serie A
+1727,Come,Bianay Balcot,Midfield,Torino FC,Serie A
 1728,Marco,Dalla Vecchia,Midfield,Torino FC,Serie A
 1729,Perr,Schuurs,Centre-Back,Torino FC,Serie A
 1730,Marcus,Pedersen,Right-Back,Torino FC,Serie A
 1731,Borna,Sosa,Left-Back,Torino FC,Serie A
-1732,Mërgim,Vojvoda,Left Midfield,Torino FC,Serie A
+1732,Mergim,Vojvoda,Left Midfield,Torino FC,Serie A
 1733,Adrien,Tameze,Defensive Midfield,Torino FC,Serie A
-1734,Nikola,Vlašić,Attacking Midfield,Torino FC,Serie A
+1734,Nikola,Vlasic,Attacking Midfield,Torino FC,Serie A
 1735,Valentino,Lazaro,Left Midfield,Torino FC,Serie A
 1736,Che,Adams,Centre-Forward,Torino FC,Serie A
-1737,Duván,Zapata,Centre-Forward,Torino FC,Serie A
+1737,Duvan,Zapata,Centre-Forward,Torino FC,Serie A
 1738,Karol,Linetty,Central Midfield,Torino FC,Serie A
 1739,Yann,Karamoh,Left Winger,Torino FC,Serie A
 1740,Adam,Masina,Centre-Back,Torino FC,Serie A
-1741,Guillermo,Maripán,Centre-Back,Torino FC,Serie A
+1741,Guillermo,Maripan,Centre-Back,Torino FC,Serie A
 1742,Antonio,Sanabria,Centre-Forward,Torino FC,Serie A
 1743,Alieu,Njie,Left Winger,Torino FC,Serie A
 1744,Zannetos,Savva,Right Winger,Torino FC,Serie A
@@ -1749,34 +1749,34 @@
 1747,Ali,Dembele,Right-Back,Torino FC,Serie A
 1748,Emirhan,Ilkhan,Central Midfield,Torino FC,Serie A
 1749,Brian,Bayeye,Right-Back,Torino FC,Serie A
-1750,Saúl,Coco,Centre-Back,Torino FC,Serie A
+1750,Saul,Coco,Centre-Back,Torino FC,Serie A
 1751,Samuele,Ricci,Defensive Midfield,Torino FC,Serie A
 1752,Sebastian,Walukiewicz,Centre-Back,Torino FC,Serie A
-1753,Ivan,Ilić,Central Midfield,Torino FC,Serie A
-1754,Christian,Früchtl,Goalkeeper,US Lecce,Serie A
+1753,Ivan,Ilic,Central Midfield,Torino FC,Serie A
+1754,Christian,Fruchtl,Goalkeeper,US Lecce,Serie A
 1755,Wladimiro,Falcone,Goalkeeper,US Lecce,Serie A
 1756,Jasper,Samooja,Goalkeeper,US Lecce,Serie A
 1757,Alexandru,Borbei,Goalkeeper,US Lecce,Serie A
-1758,Vlad,Răfăilă,Goalkeeper,US Lecce,Serie A
+1758,Vlad,Rafaila,Goalkeeper,US Lecce,Serie A
 1759,Vernon,Addo,Defence,US Lecce,Serie A
 1760,Bram,van Driel,Midfield,US Lecce,Serie A
 1761,Lameck,Banda,Left Winger,US Lecce,Serie A
-1762,Nikola,Krstović,Centre-Forward,US Lecce,Serie A
+1762,Nikola,Krstovic,Centre-Forward,US Lecce,Serie A
 1763,Santiago,Pierotti,Right Winger,US Lecce,Serie A
 1764,Gaby,Jean,Centre-Back,US Lecce,Serie A
-1765,Filip,Marchwiński,Attacking Midfield,US Lecce,Serie A
+1765,Filip,Marchwinski,Attacking Midfield,US Lecce,Serie A
 1766,Federico,Baschirotto,Centre-Back,US Lecce,Serie A
 1767,Antonino,Gallo,Left-Back,US Lecce,Serie A
 1768,Ylber,Ramadani,Defensive Midfield,US Lecce,Serie A
 1769,Tete,Morente,Left Winger,US Lecce,Serie A
 1770,Nicola,Sansone,Left Winger,US Lecce,Serie A
-1771,Þórir,Jóhann Helgason,Central Midfield,US Lecce,Serie A
+1771,Þórir,Johann Helgason,Central Midfield,US Lecce,Serie A
 1772,Lassana,Coulibaly,Central Midfield,US Lecce,Serie A
 1773,Andy,Pelmard,Centre-Back,US Lecce,Serie A
-1774,Frédéric,Guilbert,Right-Back,US Lecce,Serie A
-1775,Ante,Rebić,Left Winger,US Lecce,Serie A
+1774,Frederic,Guilbert,Right-Back,US Lecce,Serie A
+1775,Ante,Rebic,Left Winger,US Lecce,Serie A
 1776,Kevin,Bonifazi,Centre-Back,US Lecce,Serie A
-1777,Rémi,Oudin,Attacking Midfield,US Lecce,Serie A
+1777,Remi,Oudin,Attacking Midfield,US Lecce,Serie A
 1778,Dario,Daka,Right Winger,US Lecce,Serie A
 1779,Luis,Hasa,Central Midfield,US Lecce,Serie A
 1780,Kialonda,Gaspar,Centre-Back,US Lecce,Serie A
@@ -1797,15 +1797,15 @@
 1795,Davide,Bifulco,Goalkeeper,AC Monza,Serie A
 1796,Andrea,Vailati,Goalkeeper,AC Monza,Serie A
 1797,Giorgos,Kyriakopoulos,Defence,AC Monza,Serie A
-1798,Nicolò,Postiglione,Defence,AC Monza,Serie A
+1798,Nicolo,Postiglione,Defence,AC Monza,Serie A
 1799,Endris,Scaramelli,Midfield,AC Monza,Serie A
 1800,Gianluca,Caprari,Offence,AC Monza,Serie A
 1801,Kevin,Martins,Offence,AC Monza,Serie A
 1802,Samuele,Birindelli,Right-Back,AC Monza,Serie A
-1803,Mirko,Marić,Centre-Forward,AC Monza,Serie A
+1803,Mirko,Maric,Centre-Forward,AC Monza,Serie A
 1804,Luca,Caldirola,Centre-Back,AC Monza,Serie A
-1805,Pablo,Marí,Centre-Back,AC Monza,Serie A
-1806,Milan,Đurić,Centre-Forward,AC Monza,Serie A
+1805,Pablo,Mari,Centre-Back,AC Monza,Serie A
+1806,Milan,Duric,Centre-Forward,AC Monza,Serie A
 1807,Davide,Diaw,Centre-Forward,AC Monza,Serie A
 1808,Dany,Mota Carvalho,Centre-Forward,AC Monza,Serie A
 1809,Matteo,Pessina,Central Midfield,AC Monza,Serie A
@@ -1848,7 +1848,7 @@
 1846,Alieu,Fadera,Left Winger,Como 1907,Serie A
 1847,Maximo,Perrone,Defensive Midfield,Como 1907,Serie A
 1848,Gabriel,Strefezza,Right Winger,Como 1907,Serie A
-1849,Matthias,Braunöder,Central Midfield,Como 1907,Serie A
+1849,Matthias,Braunoder,Central Midfield,Como 1907,Serie A
 1850,Ignace,Van Der Brempt,Right-Back,Como 1907,Serie A
 1851,Lucas,Da Cunha,Left Winger,Como 1907,Serie A
 1852,Yannik,Engelhardt,Defensive Midfield,Como 1907,Serie A
@@ -1866,21 +1866,21 @@
 1864,Alexander,Prass,Midfield,TSG 1899 Hoffenheim,Bundesliga
 1865,Umut,Tohumcu,Midfield,TSG 1899 Hoffenheim,Bundesliga
 1866,Florian,Micheler,Midfield,TSG 1899 Hoffenheim,Bundesliga
-1867,Haris,Tabaković,Offence,TSG 1899 Hoffenheim,Bundesliga
-1868,Adam,Hložek,Offence,TSG 1899 Hoffenheim,Bundesliga
+1867,Haris,Tabakovic,Offence,TSG 1899 Hoffenheim,Bundesliga
+1868,Adam,Hlozek,Offence,TSG 1899 Hoffenheim,Bundesliga
 1869,Simon,Kalambayi,Offence,TSG 1899 Hoffenheim,Bundesliga
 1870,Anton,Stach,Central Midfield,TSG 1899 Hoffenheim,Bundesliga
-1871,Marius,Bülter,Left Winger,TSG 1899 Hoffenheim,Bundesliga
+1871,Marius,Bulter,Left Winger,TSG 1899 Hoffenheim,Bundesliga
 1872,Attila,Szalai,Centre-Back,TSG 1899 Hoffenheim,Bundesliga
 1873,Ozan,Kabak,Centre-Back,TSG 1899 Hoffenheim,Bundesliga
-1874,Diadié,Samassékou,Defensive Midfield,TSG 1899 Hoffenheim,Bundesliga
-1875,Mërgim,Berisha,Centre-Forward,TSG 1899 Hoffenheim,Bundesliga
-1876,Grischa,Prömel,Central Midfield,TSG 1899 Hoffenheim,Bundesliga
+1874,Diadie,Samassekou,Defensive Midfield,TSG 1899 Hoffenheim,Bundesliga
+1875,Mergim,Berisha,Centre-Forward,TSG 1899 Hoffenheim,Bundesliga
+1876,Grischa,Promel,Central Midfield,TSG 1899 Hoffenheim,Bundesliga
 1877,Florian,Grillitsch,Defensive Midfield,TSG 1899 Hoffenheim,Bundesliga
 1878,Dennis,Geiger,Central Midfield,TSG 1899 Hoffenheim,Bundesliga
 1879,Ihlas,Bebou,Centre-Forward,TSG 1899 Hoffenheim,Bundesliga
-1880,Andrej,Kramarić,Centre-Forward,TSG 1899 Hoffenheim,Bundesliga
-1881,Pavel,Kadeřábek,Right-Back,TSG 1899 Hoffenheim,Bundesliga
+1880,Andrej,Kramaric,Centre-Forward,TSG 1899 Hoffenheim,Bundesliga
+1881,Pavel,Kaderabek,Right-Back,TSG 1899 Hoffenheim,Bundesliga
 1882,Kevin,Akpoguma,Centre-Back,TSG 1899 Hoffenheim,Bundesliga
 1883,Christopher,Lenz,Left-Back,TSG 1899 Hoffenheim,Bundesliga
 1884,Max,Moerstedt,Centre-Forward,TSG 1899 Hoffenheim,Bundesliga
@@ -1888,15 +1888,15 @@
 1886,Stanley,N'Soki,Centre-Back,TSG 1899 Hoffenheim,Bundesliga
 1887,Tom,Bischof,Attacking Midfield,TSG 1899 Hoffenheim,Bundesliga
 1888,Marco,John,Left-Back,TSG 1899 Hoffenheim,Bundesliga
-1889,David,Jurásek,Left-Back,TSG 1899 Hoffenheim,Bundesliga
+1889,David,Jurasek,Left-Back,TSG 1899 Hoffenheim,Bundesliga
 1890,Valentin,Gendrey,Right-Back,TSG 1899 Hoffenheim,Bundesliga
 1891,Finn,Ole Becker,Central Midfield,TSG 1899 Hoffenheim,Bundesliga
 1892,Niklas,Lomb,Goalkeeper,Bayer 04 Leverkusen,Bundesliga
-1893,Lukáš,Hrádecký,Goalkeeper,Bayer 04 Leverkusen,Bundesliga
+1893,Lukas,Hradecky,Goalkeeper,Bayer 04 Leverkusen,Bundesliga
 1894,Matej,Kovar,Goalkeeper,Bayer 04 Leverkusen,Bundesliga
 1895,Sadik,Fofana,Defence,Bayer 04 Leverkusen,Bundesliga
 1896,Othniel,Raterink,Midfield,Bayer 04 Leverkusen,Bundesliga
-1897,Matija,Marsenić,Midfield,Bayer 04 Leverkusen,Bundesliga
+1897,Matija,Marsenic,Midfield,Bayer 04 Leverkusen,Bundesliga
 1898,Artem,Stepanov,Offence,Bayer 04 Leverkusen,Bundesliga
 1899,Francis,Onyeka,Attacking Midfield,Bayer 04 Leverkusen,Bundesliga
 1900,Ken,Izekor,Centre-Forward,Bayer 04 Leverkusen,Bundesliga
@@ -1906,10 +1906,10 @@
 1904,Amine,Adli,Left Winger,Bayer 04 Leverkusen,Bundesliga
 1905,Victor,Boniface,Centre-Forward,Bayer 04 Leverkusen,Bundesliga
 1906,Jeremie,Frimpong,Right Midfield,Bayer 04 Leverkusen,Bundesliga
-1907,Piero,Hincapié,Centre-Back,Bayer 04 Leverkusen,Bundesliga
+1907,Piero,Hincapie,Centre-Back,Bayer 04 Leverkusen,Bundesliga
 1908,Edmond,Tapsoba,Centre-Back,Bayer 04 Leverkusen,Bundesliga
 1909,Robert,Andrich,Defensive Midfield,Bayer 04 Leverkusen,Bundesliga
-1910,Aleix,García,Central Midfield,Bayer 04 Leverkusen,Bundesliga
+1910,Aleix,Garcia,Central Midfield,Bayer 04 Leverkusen,Bundesliga
 1911,Florian,Wirtz,Attacking Midfield,Bayer 04 Leverkusen,Bundesliga
 1912,Alejandro,Grimaldo,Left-Back,Bayer 04 Leverkusen,Bundesliga
 1913,Exequiel,Palacios,Central Midfield,Bayer 04 Leverkusen,Bundesliga
@@ -1922,11 +1922,11 @@
 1920,Gregor,Kobel,Goalkeeper,Borussia Dortmund,Bundesliga
 1921,Alexander,Meyer,Goalkeeper,Borussia Dortmund,Bundesliga
 1922,Marcel,Lotka,Goalkeeper,Borussia Dortmund,Bundesliga
-1923,Filippo,Mané,Defence,Borussia Dortmund,Bundesliga
+1923,Filippo,Mane,Defence,Borussia Dortmund,Bundesliga
 1924,Almugera,Kabar,Defence,Borussia Dortmund,Bundesliga
 1925,Ayman,Azhil,Midfield,Borussia Dortmund,Bundesliga
 1926,Cole,Campbell,Midfield,Borussia Dortmund,Bundesliga
-1927,Kjell,Wätjen,Central Midfield,Borussia Dortmund,Bundesliga
+1927,Kjell,Watjen,Central Midfield,Borussia Dortmund,Bundesliga
 1928,Julien,Duranville,Right Winger,Borussia Dortmund,Bundesliga
 1929,Jamie,Bynoe-Gittens,Left Winger,Borussia Dortmund,Bundesliga
 1930,Yan,Couto,Right-Back,Borussia Dortmund,Bundesliga
@@ -1938,46 +1938,46 @@
 1936,Julian,Ryerson,Right-Back,Borussia Dortmund,Bundesliga
 1937,Marcel,Sabitzer,Central Midfield,Borussia Dortmund,Bundesliga
 1938,Ramy,Bensebaini,Left-Back,Borussia Dortmund,Bundesliga
-1939,Pascal,Groß,Central Midfield,Borussia Dortmund,Bundesliga
+1939,Pascal,Gross,Central Midfield,Borussia Dortmund,Bundesliga
 1940,Donyell,Malen,Right Winger,Borussia Dortmund,Bundesliga
 1941,Emre,Can,Defensive Midfield,Borussia Dortmund,Bundesliga
 1942,Waldemar,Anton,Centre-Back,Borussia Dortmund,Bundesliga
-1943,Niklas,Süle,Centre-Back,Borussia Dortmund,Bundesliga
+1943,Niklas,Sule,Centre-Back,Borussia Dortmund,Bundesliga
 1944,Sehrou,Guirassy,Centre-Forward,Borussia Dortmund,Bundesliga
 1945,Julian,Brandt,Attacking Midfield,Borussia Dortmund,Bundesliga
 1946,Manuel,Neuer,Goalkeeper,FC Bayern München,Bundesliga
 1947,Sven,Ulreich,Goalkeeper,FC Bayern München,Bundesliga
 1948,Daniel,Peretz,Goalkeeper,FC Bayern München,Bundesliga
 1949,Max,Schmitt,Goalkeeper,FC Bayern München,Bundesliga
-1950,Thomas,Müller,Offence,FC Bayern München,Bundesliga
+1950,Thomas,Muller,Offence,FC Bayern München,Bundesliga
 1951,Nestor,Irankunda,Offence,FC Bayern München,Bundesliga
 1952,Adam,Aznou,Left-Back,FC Bayern München,Bundesliga
 1953,Tarek,Buchmann,Centre-Back,FC Bayern München,Bundesliga
-1954,Aleksandar,Pavlović,Defensive Midfield,FC Bayern München,Bundesliga
+1954,Aleksandar,Pavlovic,Defensive Midfield,FC Bayern München,Bundesliga
 1955,Noel,Aseko Nkili,Defensive Midfield,FC Bayern München,Bundesliga
 1956,Arijon,Ibrahimovic,Left Winger,FC Bayern München,Bundesliga
 1957,Mathys,Tel,Left Winger,FC Bayern München,Bundesliga
 1958,Min-Jae,Kim,Centre-Back,FC Bayern München,Bundesliga
 1959,Jamal,Musiala,Attacking Midfield,FC Bayern München,Bundesliga
-1960,Josip,Stanišić,Right-Back,FC Bayern München,Bundesliga
+1960,Josip,Stanisic,Right-Back,FC Bayern München,Bundesliga
 1961,Sacha,Boey,Right-Back,FC Bayern München,Bundesliga
 1962,Michael,Olise,Right Winger,FC Bayern München,Bundesliga
 1963,Hiroki,Ito,Centre-Back,FC Bayern München,Bundesliga
 1964,Alphonso,Davies,Left-Back,FC Bayern München,Bundesliga
-1965,João,Palhinha,Defensive Midfield,FC Bayern München,Bundesliga
+1965,Joao,Palhinha,Defensive Midfield,FC Bayern München,Bundesliga
 1966,Konrad,Laimer,Central Midfield,FC Bayern München,Bundesliga
 1967,Dayot,Upamecano,Centre-Back,FC Bayern München,Bundesliga
 1968,Harry,Kane,Centre-Forward,FC Bayern München,Bundesliga
 1969,Eric,Dier,Centre-Back,FC Bayern München,Bundesliga
-1970,Raphaël,Guerreiro,Left-Back,FC Bayern München,Bundesliga
-1971,Leroy,Sané,Right Winger,FC Bayern München,Bundesliga
+1970,Raphael,Guerreiro,Left-Back,FC Bayern München,Bundesliga
+1971,Leroy,Sane,Right Winger,FC Bayern München,Bundesliga
 1972,Leon,Goretzka,Central Midfield,FC Bayern München,Bundesliga
 1973,Kingsley,Coman,Left Winger,FC Bayern München,Bundesliga
 1974,Joshua,Kimmich,Right-Back,FC Bayern München,Bundesliga
 1975,Serge,Gnabry,Right Winger,FC Bayern München,Bundesliga
-1976,Alexander,Nübel,Goalkeeper,VfB Stuttgart,Bundesliga
+1976,Alexander,Nubel,Goalkeeper,VfB Stuttgart,Bundesliga
 1977,Fabian,Bredlow,Goalkeeper,VfB Stuttgart,Bundesliga
-1978,Stefan,Drljača,Goalkeeper,VfB Stuttgart,Bundesliga
+1978,Stefan,Drljaca,Goalkeeper,VfB Stuttgart,Bundesliga
 1979,Dennis,Seimen,Goalkeeper,VfB Stuttgart,Bundesliga
 1980,Julian,Chabot,Defence,VfB Stuttgart,Bundesliga
 1981,Ramon,Hendriks,Defence,VfB Stuttgart,Bundesliga
@@ -1993,64 +1993,64 @@
 1991,Pascal,Stenzel,Right-Back,VfB Stuttgart,Bundesliga
 1992,Atakan,Karazor,Defensive Midfield,VfB Stuttgart,Bundesliga
 1993,Deniz,Undav,Centre-Forward,VfB Stuttgart,Bundesliga
-1994,Maximilian,Mittelstädt,Left-Back,VfB Stuttgart,Bundesliga
+1994,Maximilian,Mittelstadt,Left-Back,VfB Stuttgart,Bundesliga
 1995,Josha,Vagnoman,Right-Back,VfB Stuttgart,Bundesliga
 1996,Dan-Axel,Zagadou,Centre-Back,VfB Stuttgart,Bundesliga
-1997,Chris,Führich,Left Winger,VfB Stuttgart,Bundesliga
+1997,Chris,Fuhrich,Left Winger,VfB Stuttgart,Bundesliga
 1998,Nikolas,Nartey,Central Midfield,VfB Stuttgart,Bundesliga
 1999,Luca,Raimund,Right Winger,VfB Stuttgart,Bundesliga
 2000,Anrie,Chase,Centre-Back,VfB Stuttgart,Bundesliga
 2001,Thomas,Kastanaras,Centre-Forward,VfB Stuttgart,Bundesliga
-2002,Frans,Krätzig,Left-Back,VfB Stuttgart,Bundesliga
+2002,Frans,Kratzig,Left-Back,VfB Stuttgart,Bundesliga
 2003,Fabian,Rieder,Attacking Midfield,VfB Stuttgart,Bundesliga
 2004,Anthony,Rouault,Centre-Back,VfB Stuttgart,Bundesliga
 2005,Enzo,Millot,Attacking Midfield,VfB Stuttgart,Bundesliga
-2006,El,Bilal Touré,Centre-Forward,VfB Stuttgart,Bundesliga
+2006,El,Bilal Toure,Centre-Forward,VfB Stuttgart,Bundesliga
 2007,Angelo,Stiller,Defensive Midfield,VfB Stuttgart,Bundesliga
-2008,Marius,Müller,Goalkeeper,VfL Wolfsburg,Bundesliga
+2008,Marius,Muller,Goalkeeper,VfL Wolfsburg,Bundesliga
 2009,Pavao,Pervan,Goalkeeper,VfL Wolfsburg,Bundesliga
 2010,Niklas,Klinger,Goalkeeper,VfL Wolfsburg,Bundesliga
 2011,Kamil,Grabara,Goalkeeper,VfL Wolfsburg,Bundesliga
 2012,Denis,Vavro,Defence,VfL Wolfsburg,Bundesliga
 2013,David,Odogu,Defence,VfL Wolfsburg,Bundesliga
-2014,Mathys,Angély,Defence,VfL Wolfsburg,Bundesliga
+2014,Mathys,Angely,Defence,VfL Wolfsburg,Bundesliga
 2015,Till,Neininger,Defence,VfL Wolfsburg,Bundesliga
-2016,Bence,Dárdai,Midfield,VfL Wolfsburg,Bundesliga
+2016,Bence,Dardai,Midfield,VfL Wolfsburg,Bundesliga
 2017,Bartosz,Bialek,Offence,VfL Wolfsburg,Bundesliga
 2018,Konstantinos,Koulierakis,Offence,VfL Wolfsburg,Bundesliga
 2019,Mohammed,Amoura,Offence,VfL Wolfsburg,Bundesliga
 2020,Jonathan,Akaegbobi,Offence,VfL Wolfsburg,Bundesliga
-2021,Cédric,Zesiger,Centre-Back,VfL Wolfsburg,Bundesliga
+2021,Cedric,Zesiger,Centre-Back,VfL Wolfsburg,Bundesliga
 2022,Lovro,Majer,Attacking Midfield,VfL Wolfsburg,Bundesliga
 2023,Jonas,Wind,Centre-Forward,VfL Wolfsburg,Bundesliga
 2024,Mattias,Svanberg,Central Midfield,VfL Wolfsburg,Bundesliga
 2025,Yannick,Gerhardt,Central Midfield,VfL Wolfsburg,Bundesliga
 2026,Maximilian,Arnold,Central Midfield,VfL Wolfsburg,Bundesliga
-2027,Joakim,Mæhle,Right-Back,VfL Wolfsburg,Bundesliga
+2027,Joakim,Maehle,Right-Back,VfL Wolfsburg,Bundesliga
 2028,Sebastiaan,Bornauw,Centre-Back,VfL Wolfsburg,Bundesliga
 2029,Lukas,Nmecha,Centre-Forward,VfL Wolfsburg,Bundesliga
 2030,Kevin,Behrens,Centre-Forward,VfL Wolfsburg,Bundesliga
 2031,Ridle,Baku,Right-Back,VfL Wolfsburg,Bundesliga
-2032,Rogério,,Left-Back,VfL Wolfsburg,Bundesliga
-2033,Salih,Özcan,Defensive Midfield,VfL Wolfsburg,Bundesliga
-2034,Bennit,Bröger,Attacking Midfield,VfL Wolfsburg,Bundesliga
-2035,Tiago,Tomás,Centre-Forward,VfL Wolfsburg,Bundesliga
+2032,Rogerio,,Left-Back,VfL Wolfsburg,Bundesliga
+2033,Salih,Ozcan,Defensive Midfield,VfL Wolfsburg,Bundesliga
+2034,Bennit,Broger,Attacking Midfield,VfL Wolfsburg,Bundesliga
+2035,Tiago,Tomas,Centre-Forward,VfL Wolfsburg,Bundesliga
 2036,Kevin,Paredes,Left Midfield,VfL Wolfsburg,Bundesliga
-2037,Jakub,Kamiński,Left Winger,VfL Wolfsburg,Bundesliga
+2037,Jakub,Kaminski,Left Winger,VfL Wolfsburg,Bundesliga
 2038,Patrick,Wimmer,Right Winger,VfL Wolfsburg,Bundesliga
 2039,Aster,Vranckx,Central Midfield,VfL Wolfsburg,Bundesliga
 2040,Kilian,Fischer,Right-Back,VfL Wolfsburg,Bundesliga
 2041,Michael,Zetterer,Goalkeeper,SV Werder Bremen,Bundesliga
 2042,Markus,Kolke,Goalkeeper,SV Werder Bremen,Bundesliga
 2043,Mio,Backhaus,Goalkeeper,SV Werder Bremen,Bundesliga
-2044,Derrick,Köhn,Defence,SV Werder Bremen,Bundesliga
+2044,Derrick,Kohn,Defence,SV Werder Bremen,Bundesliga
 2045,Mats,Heitmann,Defence,SV Werder Bremen,Bundesliga
-2046,Marco,Grüll,Midfield,SV Werder Bremen,Bundesliga
+2046,Marco,Grull,Midfield,SV Werder Bremen,Bundesliga
 2047,Abdenego,Nankishi,Offence,SV Werder Bremen,Bundesliga
 2048,Keke,Topp,Offence,SV Werder Bremen,Bundesliga
 2049,Leon,Opitz,Left Midfield,SV Werder Bremen,Bundesliga
 2050,Skelly,Alvero,Central Midfield,SV Werder Bremen,Bundesliga
-2051,Julián,Malatini,Centre-Back,SV Werder Bremen,Bundesliga
+2051,Julian,Malatini,Centre-Back,SV Werder Bremen,Bundesliga
 2052,Isak,Hansen-Aarøen,Attacking Midfield,SV Werder Bremen,Bundesliga
 2053,Justin,Njinmah,Right Winger,SV Werder Bremen,Bundesliga
 2054,Olivier,Deman,Left Midfield,SV Werder Bremen,Bundesliga
@@ -2065,12 +2065,12 @@
 2063,Oliver,Burke,Right Winger,SV Werder Bremen,Bundesliga
 2064,Niklas,Stark,Centre-Back,SV Werder Bremen,Bundesliga
 2065,Mitchell,Weiser,Right-Back,SV Werder Bremen,Bundesliga
-2066,Miloš,Veljković,Centre-Back,SV Werder Bremen,Bundesliga
+2066,Milos,Veljkovic,Centre-Back,SV Werder Bremen,Bundesliga
 2067,Marvin,Ducksch,Centre-Forward,SV Werder Bremen,Bundesliga
 2068,Leonardo,Bittencourt,Central Midfield,SV Werder Bremen,Bundesliga
 2069,Robin,Zentner,Goalkeeper,1. FSV Mainz 05,Bundesliga
 2070,Daniel,Batz,Goalkeeper,1. FSV Mainz 05,Bundesliga
-2071,Lasse,Rieß,Goalkeeper,1. FSV Mainz 05,Bundesliga
+2071,Lasse,Riess,Goalkeeper,1. FSV Mainz 05,Bundesliga
 2072,Kaishu,Sano,Midfield,1. FSV Mainz 05,Bundesliga
 2073,Paul,Nebel,Midfield,1. FSV Mainz 05,Bundesliga
 2074,Gabriel,Vidovic,Midfield,1. FSV Mainz 05,Bundesliga
@@ -2098,14 +2098,14 @@
 2096,Dominik,Kohr,Defensive Midfield,1. FSV Mainz 05,Bundesliga
 2097,Finn,Dahmen,Goalkeeper,FC Augsburg,Bundesliga
 2098,Daniel,Klein,Goalkeeper,FC Augsburg,Bundesliga
-2099,Nediljko,Labrović,Goalkeeper,FC Augsburg,Bundesliga
+2099,Nediljko,Labrovic,Goalkeeper,FC Augsburg,Bundesliga
 2100,Dimitris,Giannoulis,Defence,FC Augsburg,Bundesliga
 2101,Noahkai,Banks,Defence,FC Augsburg,Bundesliga
 2102,Yusuf,Kabadayi,Midfield,FC Augsburg,Bundesliga
 2103,Henri,Koudossou,Midfield,FC Augsburg,Bundesliga
 2104,Samuel,Essende,Offence,FC Augsburg,Bundesliga
-2105,Mert,Kömür,Attacking Midfield,FC Augsburg,Bundesliga
-2106,Mahmut,Kücüksahin,Defensive Midfield,FC Augsburg,Bundesliga
+2105,Mert,Komur,Attacking Midfield,FC Augsburg,Bundesliga
+2106,Mahmut,Kucuksahin,Defensive Midfield,FC Augsburg,Bundesliga
 2107,Tim,Breithaupt,Defensive Midfield,FC Augsburg,Bundesliga
 2108,Chrislain,Matsima,Centre-Back,FC Augsburg,Bundesliga
 2109,Maximilian,Bauer,Centre-Back,FC Augsburg,Bundesliga
@@ -2115,17 +2115,17 @@
 2113,Ruben,Vargas,Left Winger,FC Augsburg,Bundesliga
 2114,Mads,Pedersen,Left-Back,FC Augsburg,Bundesliga
 2115,Frank,Onyeka,Central Midfield,FC Augsburg,Bundesliga
-2116,Kristijan,Jakić,Defensive Midfield,FC Augsburg,Bundesliga
+2116,Kristijan,Jakic,Defensive Midfield,FC Augsburg,Bundesliga
 2117,Masaya,Okugawa,Left Winger,FC Augsburg,Bundesliga
 2118,Elvis,Rexhbecaj,Central Midfield,FC Augsburg,Bundesliga
-2119,Steve,Mounié,Centre-Forward,FC Augsburg,Bundesliga
+2119,Steve,Mounie,Centre-Forward,FC Augsburg,Bundesliga
 2120,Fredrik,Jensen,Attacking Midfield,FC Augsburg,Bundesliga
 2121,Marius,Wolf,Right-Back,FC Augsburg,Bundesliga
 2122,Reece,Oxford,Centre-Back,FC Augsburg,Bundesliga
 2123,Jeffrey,Gouweleeuw,Centre-Back,FC Augsburg,Bundesliga
 2124,Arne,Maier,Central Midfield,FC Augsburg,Bundesliga
 2125,Alexis,Claude Maurice,Attacking Midfield,FC Augsburg,Bundesliga
-2126,Florian,Müller,Goalkeeper,SC Freiburg,Bundesliga
+2126,Florian,Muller,Goalkeeper,SC Freiburg,Bundesliga
 2127,Jannik,Huth,Goalkeeper,SC Freiburg,Bundesliga
 2128,Noah,Atubolu,Goalkeeper,SC Freiburg,Bundesliga
 2129,Maximilian,Philipp,Offence,SC Freiburg,Bundesliga
@@ -2134,19 +2134,19 @@
 2132,Max,Rosenfelder,Centre-Back,SC Freiburg,Bundesliga
 2133,Jordy,Makengo,Left-Back,SC Freiburg,Bundesliga
 2134,Kenneth,Schmidt,Centre-Back,SC Freiburg,Bundesliga
-2135,Merlin,Röhl,Central Midfield,SC Freiburg,Bundesliga
+2135,Merlin,Rohl,Central Midfield,SC Freiburg,Bundesliga
 2136,Eren,Dinkci,Right Winger,SC Freiburg,Bundesliga
-2137,Noah,Weißhaupt,Left Winger,SC Freiburg,Bundesliga
+2137,Noah,Weisshaupt,Left Winger,SC Freiburg,Bundesliga
 2138,Kiliann,Sildillia,Right-Back,SC Freiburg,Bundesliga
 2139,Patrick,Osterhage,Central Midfield,SC Freiburg,Bundesliga
 2140,Daniel-Kofi,Kyereh,Attacking Midfield,SC Freiburg,Bundesliga
 2141,Chikwubuike,Adamu,Centre-Forward,SC Freiburg,Bundesliga
-2142,Lucas,Höler,Centre-Forward,SC Freiburg,Bundesliga
-2143,Nicolas,Höfler,Defensive Midfield,SC Freiburg,Bundesliga
+2142,Lucas,Holer,Centre-Forward,SC Freiburg,Bundesliga
+2143,Nicolas,Hofler,Defensive Midfield,SC Freiburg,Bundesliga
 2144,Philipp,Lienhart,Centre-Back,SC Freiburg,Bundesliga
 2145,Manuel,Gulde,Centre-Back,SC Freiburg,Bundesliga
 2146,Lukas,Kübler,Right-Back,SC Freiburg,Bundesliga
-2147,Christian,Günter,Left-Back,SC Freiburg,Bundesliga
+2147,Christian,Gunter,Left-Back,SC Freiburg,Bundesliga
 2148,Maximilian,Eggestein,Central Midfield,SC Freiburg,Bundesliga
 2149,Ritsu,Doan,Right Winger,SC Freiburg,Bundesliga
 2150,Florent,Muslija,Left Winger,SC Freiburg,Bundesliga
@@ -2170,13 +2170,13 @@
 2168,Nathan,N'Goumou,Right Winger,Borussia Mönchengladbach,Bundesliga
 2169,Joseph,Scally,Right-Back,Borussia Mönchengladbach,Bundesliga
 2170,Philipp,Sander,Central Midfield,Borussia Mönchengladbach,Bundesliga
-2171,Tomáš,Čvančara,Centre-Forward,Borussia Mönchengladbach,Bundesliga
+2171,Tomas,Cvancara,Centre-Forward,Borussia Mönchengladbach,Bundesliga
 2172,Ko,Itakura,Centre-Back,Borussia Mönchengladbach,Bundesliga
 2173,Stefan,Lainer,Right-Back,Borussia Mönchengladbach,Bundesliga
-2174,Kevin,Stöger,Attacking Midfield,Borussia Mönchengladbach,Bundesliga
+2174,Kevin,Stoger,Attacking Midfield,Borussia Mönchengladbach,Bundesliga
 2175,Florian,Neuhaus,Central Midfield,Borussia Mönchengladbach,Bundesliga
 2176,Tim,Kleindienst,Centre-Forward,Borussia Mönchengladbach,Bundesliga
-2177,Alassane,Pléa,Centre-Forward,Borussia Mönchengladbach,Bundesliga
+2177,Alassane,Plea,Centre-Forward,Borussia Mönchengladbach,Bundesliga
 2178,Marvin,Friedrich,Centre-Back,Borussia Mönchengladbach,Bundesliga
 2179,Nico,Elvedi,Centre-Back,Borussia Mönchengladbach,Bundesliga
 2180,Franck,Honorat,Right Winger,Borussia Mönchengladbach,Bundesliga
@@ -2184,15 +2184,15 @@
 2182,Julian,Weigl,Defensive Midfield,Borussia Mönchengladbach,Bundesliga
 2183,Kevin,Trapp,Goalkeeper,Eintracht Frankfurt,Bundesliga
 2184,Jens,Grahl,Goalkeeper,Eintracht Frankfurt,Bundesliga
-2185,Kaua,,Goalkeeper,Eintracht Frankfurt,Bundesliga
+2185,Kaua,Santos,Goalkeeper,Eintracht Frankfurt,Bundesliga
 2186,Nils,Ramming,Goalkeeper,Eintracht Frankfurt,Bundesliga
-2187,Jérôme,Onguéné,Defence,Eintracht Frankfurt,Bundesliga
+2187,Jerome,Onguene,Defence,Eintracht Frankfurt,Bundesliga
 2188,Aurele,Amenda,Defence,Eintracht Frankfurt,Bundesliga
 2189,Nathaniel,Brown,Defence,Eintracht Frankfurt,Bundesliga
 2190,Krisztian,Lisztes,Midfield,Eintracht Frankfurt,Bundesliga
 2191,Can,Uzun,Midfield,Eintracht Frankfurt,Bundesliga
 2192,Oscar,Højlund,Midfield,Eintracht Frankfurt,Bundesliga
-2193,Noah,Fenyö,Midfield,Eintracht Frankfurt,Bundesliga
+2193,Noah,Fenyo,Midfield,Eintracht Frankfurt,Bundesliga
 2194,Igor,Matanovic,Offence,Eintracht Frankfurt,Bundesliga
 2195,Anas,Alaoui,Offence,Eintracht Frankfurt,Bundesliga
 2196,Junior,Awusi,Offence,Eintracht Frankfurt,Bundesliga
@@ -2208,19 +2208,19 @@
 2206,Timmy,Chandler,Right-Back,Eintracht Frankfurt,Bundesliga
 2207,Ellyes,Skhiri,Defensive Midfield,Eintracht Frankfurt,Bundesliga
 2208,Mahmoud,Dahoud,Central Midfield,Eintracht Frankfurt,Bundesliga
-2209,Mario,Götze,Attacking Midfield,Eintracht Frankfurt,Bundesliga
+2209,Mario,Gotze,Attacking Midfield,Eintracht Frankfurt,Bundesliga
 2210,Harpreet,Ghotra,Central Midfield,Eintracht Frankfurt,Bundesliga
 2211,Davis,Bautista,Centre-Back,Eintracht Frankfurt,Bundesliga
 2212,Jean,Bahoya,Left Winger,Eintracht Frankfurt,Bundesliga
 2213,Mehdi,Loune,Central Midfield,Eintracht Frankfurt,Bundesliga
 2214,Hugo,Larsson,Central Midfield,Eintracht Frankfurt,Bundesliga
-2215,Fares,Chaïbi,Attacking Midfield,Eintracht Frankfurt,Bundesliga
+2215,Fares,Chaibi,Attacking Midfield,Eintracht Frankfurt,Bundesliga
 2216,Nnamdi,Collins,Centre-Back,Eintracht Frankfurt,Bundesliga
 2217,Marcel,Wenig,Central Midfield,Eintracht Frankfurt,Bundesliga
 2218,Sascha,Burchert,Goalkeeper,FC St. Pauli 1910,Bundesliga
 2219,Nikola,Vasilj,Goalkeeper,FC St. Pauli 1910,Bundesliga
 2220,Ben,Alexander Voll,Goalkeeper,FC St. Pauli 1910,Bundesliga
-2221,Sören,Ahlers,Goalkeeper,FC St. Pauli 1910,Bundesliga
+2221,Soren,Ahlers,Goalkeeper,FC St. Pauli 1910,Bundesliga
 2222,Fin,Stevens,Defence,FC St. Pauli 1910,Bundesliga
 2223,Muhammad,Dahaba,Defence,FC St. Pauli 1910,Bundesliga
 2224,Robert,Wagner,Midfield,FC St. Pauli 1910,Bundesliga
@@ -2233,7 +2233,7 @@
 2231,Scott,Banks,Right Winger,FC St. Pauli 1910,Bundesliga
 2232,Carlo,Boukhalfa,Central Midfield,FC St. Pauli 1910,Bundesliga
 2233,Andreas,Albers,Centre-Forward,FC St. Pauli 1910,Bundesliga
-2234,Adam,Dźwigała,Centre-Back,FC St. Pauli 1910,Bundesliga
+2234,Adam,Dzwigała,Centre-Back,FC St. Pauli 1910,Bundesliga
 2235,Maurides,,Centre-Forward,FC St. Pauli 1910,Bundesliga
 2236,Eric,Smith,Centre-Back,FC St. Pauli 1910,Bundesliga
 2237,Danel,Sinani,Right Winger,FC St. Pauli 1910,Bundesliga
@@ -2250,7 +2250,7 @@
 2248,Carl,Klaus,Goalkeeper,1. FC Union Berlin,Bundesliga
 2249,Yannic,Stein,Goalkeeper,1. FC Union Berlin,Bundesliga
 2250,Leopold,Querfeld,Defence,1. FC Union Berlin,Bundesliga
-2251,László,Bénes,Midfield,1. FC Union Berlin,Bundesliga
+2251,Laszlo,Benes,Midfield,1. FC Union Berlin,Bundesliga
 2252,Tim,Skarke,Midfield,1. FC Union Berlin,Bundesliga
 2253,David,Preu,Midfield,1. FC Union Berlin,Bundesliga
 2254,Ivan,Prtajin,Offence,1. FC Union Berlin,Bundesliga
@@ -2261,14 +2261,14 @@
 2259,Benedict,Hollerbach,Centre-Forward,1. FC Union Berlin,Bundesliga
 2260,Yorbe,Vertessen,Centre-Forward,1. FC Union Berlin,Bundesliga
 2261,Jeong,Wooyeong,Attacking Midfield,1. FC Union Berlin,Bundesliga
-2262,András,Schafer,Central Midfield,1. FC Union Berlin,Bundesliga
+2262,Andras,Schafer,Central Midfield,1. FC Union Berlin,Bundesliga
 2263,Danilho,Doekhi,Centre-Back,1. FC Union Berlin,Bundesliga
 2264,Diogo,Leite,Centre-Back,1. FC Union Berlin,Bundesliga
-2265,Josip,Juranović,Right-Back,1. FC Union Berlin,Bundesliga
+2265,Josip,Juranovic,Right-Back,1. FC Union Berlin,Bundesliga
 2266,Robert,Skov,Left Midfield,1. FC Union Berlin,Bundesliga
 2267,Janik,Haberer,Central Midfield,1. FC Union Berlin,Bundesliga
 2268,Lucas,Tousart,Defensive Midfield,1. FC Union Berlin,Bundesliga
-2269,Jérôme,Roussillon,Left-Back,1. FC Union Berlin,Bundesliga
+2269,Jerome,Roussillon,Left-Back,1. FC Union Berlin,Bundesliga
 2270,Christopher,Trimmel,Right-Back,1. FC Union Berlin,Bundesliga
 2271,Rani,Khedira,Defensive Midfield,1. FC Union Berlin,Bundesliga
 2272,Jordan,Siebatcheu,Centre-Forward,1. FC Union Berlin,Bundesliga
@@ -2287,7 +2287,7 @@
 2285,Lukas,Daschner,Attacking Midfield,VfL Bochum 1848,Bundesliga
 2286,Maximilian,Wittek,Left-Back,VfL Bochum 1848,Bundesliga
 2287,Bernardo,,Left-Back,VfL Bochum 1848,Bundesliga
-2288,Erhan,Mašović,Centre-Back,VfL Bochum 1848,Bundesliga
+2288,Erhan,Masovic,Centre-Back,VfL Bochum 1848,Bundesliga
 2289,Myron,Boadu,Centre-Forward,VfL Bochum 1848,Bundesliga
 2290,Philipp,Hofmann,Centre-Forward,VfL Bochum 1848,Bundesliga
 2291,Moritz,Broschinski,Centre-Forward,VfL Bochum 1848,Bundesliga
@@ -2300,10 +2300,10 @@
 2298,Mohammed,Tolba,Centre-Back,VfL Bochum 1848,Bundesliga
 2299,Aliou,Balde,Left Winger,VfL Bochum 1848,Bundesliga
 2300,Agon,Elezi,Central Midfield,VfL Bochum 1848,Bundesliga
-2301,Jakov,Medić,Centre-Back,VfL Bochum 1848,Bundesliga
+2301,Jakov,Medic,Centre-Back,VfL Bochum 1848,Bundesliga
 2302,Moritz-Broni,Kwarteng,Attacking Midfield,VfL Bochum 1848,Bundesliga
 2303,Noah,Loosli,Centre-Back,VfL Bochum 1848,Bundesliga
-2304,Matúš,Bero,Central Midfield,VfL Bochum 1848,Bundesliga
+2304,Matus,Bero,Central Midfield,VfL Bochum 1848,Bundesliga
 2305,Ivan,Ordets,Centre-Back,VfL Bochum 1848,Bundesliga
 2306,Kevin,Müller,Goalkeeper,1. FC Heidenheim 1846,Bundesliga
 2307,Vitus,Eicher,Goalkeeper,1. FC Heidenheim 1846,Bundesliga
@@ -2312,18 +2312,18 @@
 2310,Mathias,Honsak,Midfield,1. FC Heidenheim 1846,Bundesliga
 2311,Sirlord,Conteh,Midfield,1. FC Heidenheim 1846,Bundesliga
 2312,Julian,Niehues,Midfield,1. FC Heidenheim 1846,Bundesliga
-2313,Léo,Scienza,Midfield,1. FC Heidenheim 1846,Bundesliga
+2313,Leo,Scienza,Midfield,1. FC Heidenheim 1846,Bundesliga
 2314,Luca,Kerber,Midfield,1. FC Heidenheim 1846,Bundesliga
 2315,Paul,Wanner,Midfield,1. FC Heidenheim 1846,Bundesliga
 2316,Christopher,Negele,Offence,1. FC Heidenheim 1846,Bundesliga
-2317,Luka,Janeš,Defensive Midfield,1. FC Heidenheim 1846,Bundesliga
+2317,Luka,Janes,Defensive Midfield,1. FC Heidenheim 1846,Bundesliga
 2318,Tim,Siersleben,Centre-Back,1. FC Heidenheim 1846,Bundesliga
 2319,Mikkel,Kaufmann,Centre-Forward,1. FC Heidenheim 1846,Bundesliga
 2320,Adrian,Beck,Attacking Midfield,1. FC Heidenheim 1846,Bundesliga
 2321,Marvin,Pieringer,Centre-Forward,1. FC Heidenheim 1846,Bundesliga
 2322,Thomas,Keller,Centre-Back,1. FC Heidenheim 1846,Bundesliga
-2323,Jan,Schöppner,Central Midfield,1. FC Heidenheim 1846,Bundesliga
-2324,Haktab,Traoré,Right-Back,1. FC Heidenheim 1846,Bundesliga
+2323,Jan,Schoppner,Central Midfield,1. FC Heidenheim 1846,Bundesliga
+2324,Haktab,Traore,Right-Back,1. FC Heidenheim 1846,Bundesliga
 2325,Patrick,Mainka,Centre-Back,1. FC Heidenheim 1846,Bundesliga
 2326,Stefan,Schimmer,Centre-Forward,1. FC Heidenheim 1846,Bundesliga
 2327,Maximilian,Breunig,Centre-Forward,1. FC Heidenheim 1846,Bundesliga
@@ -2331,15 +2331,15 @@
 2329,Denis,Thomalla,Attacking Midfield,1. FC Heidenheim 1846,Bundesliga
 2330,Norman,Theuerkauf,Defensive Midfield,1. FC Heidenheim 1846,Bundesliga
 2331,Marnon-Thomas,Busch,Right-Back,1. FC Heidenheim 1846,Bundesliga
-2332,Jonas,Föhrenbach,Left-Back,1. FC Heidenheim 1846,Bundesliga
+2332,Jonas,Fohrenbach,Left-Back,1. FC Heidenheim 1846,Bundesliga
 2333,Lennart,Maloney,Defensive Midfield,1. FC Heidenheim 1846,Bundesliga
 2334,Niklas,Dorsch,Defensive Midfield,1. FC Heidenheim 1846,Bundesliga
 2335,Marcel,Engelhardt,Goalkeeper,Holstein Kiel,Bundesliga
 2336,Timon,Weiner,Goalkeeper,Holstein Kiel,Bundesliga
-2337,Thomas,Dähne,Goalkeeper,Holstein Kiel,Bundesliga
+2337,Thomas,Dahne,Goalkeeper,Holstein Kiel,Bundesliga
 2338,Tyler,Dogan,Goalkeeper,Holstein Kiel,Bundesliga
 2339,Tymoteusz,Puchacz,Defence,Holstein Kiel,Bundesliga
-2340,Dominik,Javorček,Defence,Holstein Kiel,Bundesliga
+2340,Dominik,Javorcek,Defence,Holstein Kiel,Bundesliga
 2341,Max,Geschwill,Defence,Holstein Kiel,Bundesliga
 2342,Magnus,Knudsen,Midfield,Holstein Kiel,Bundesliga
 2343,Armin,Gigovic,Midfield,Holstein Kiel,Bundesliga
@@ -2347,7 +2347,7 @@
 2345,Shuto,Machino,Offence,Holstein Kiel,Bundesliga
 2346,Phil,Harres,Offence,Holstein Kiel,Bundesliga
 2347,Aurel,Wagbe,Left Midfield,Holstein Kiel,Bundesliga
-2348,Marko,Ivezić,Defensive Midfield,Holstein Kiel,Bundesliga
+2348,Marko,Ivezic,Defensive Midfield,Holstein Kiel,Bundesliga
 2349,Lasse,Rosenboom,Right-Back,Holstein Kiel,Bundesliga
 2350,Colin,Kleine-Bekel,Centre-Back,Holstein Kiel,Bundesliga
 2351,Nicolai,Remberg,Central Midfield,Holstein Kiel,Bundesliga
@@ -2362,45 +2362,45 @@
 2360,Jann-Fiete,Arp,Centre-Forward,Holstein Kiel,Bundesliga
 2361,Lewis,Holtby,Central Midfield,Holstein Kiel,Bundesliga
 2362,Patrick,Erras,Defensive Midfield,Holstein Kiel,Bundesliga
-2363,Péter,Gulácsi,Goalkeeper,RB Leipzig,Bundesliga
+2363,Peter,Gulacsi,Goalkeeper,RB Leipzig,Bundesliga
 2364,Leopold,Zingerle,Goalkeeper,RB Leipzig,Bundesliga
 2365,Maarten,Vandevoordt,Goalkeeper,RB Leipzig,Bundesliga
 2366,Antonio,Nusa,Midfield,RB Leipzig,Bundesliga
-2367,Assan,Ouédraogo,Midfield,RB Leipzig,Bundesliga
+2367,Assan,Ouedraogo,Midfield,RB Leipzig,Bundesliga
 2368,Viggo,Gebel,Midfield,RB Leipzig,Bundesliga
 2369,Nuha,Jatta,Attacking Midfield,RB Leipzig,Bundesliga
 2370,Arthur,Vermeeren,Central Midfield,RB Leipzig,Bundesliga
 2371,Castello,Lukeba,Centre-Back,RB Leipzig,Bundesliga
 2372,El,Chadaille Bitshiabu,Centre-Back,RB Leipzig,Bundesliga
 2373,Xavi,Simons,Attacking Midfield,RB Leipzig,Bundesliga
-2374,Benjamin,Šeško,Centre-Forward,RB Leipzig,Bundesliga
-2375,Nicolas, Seiwald,Central Midfield,RB Leipzig,Bundesliga
-2376,Loïs,Openda,Centre-Forward,RB Leipzig,Bundesliga
+2374,Benjamin,Sesko,Centre-Forward,RB Leipzig,Bundesliga
+2375,Nicolas,Seiwald,Central Midfield,RB Leipzig,Bundesliga
+2376,Lois,Openda,Centre-Forward,RB Leipzig,Bundesliga
 2377,Christoph,Baumgartner,Attacking Midfield,RB Leipzig,Bundesliga
 2378,Eljif,Elmas,Attacking Midfield,RB Leipzig,Bundesliga
 2379,Xaver,Schlager,Central Midfield,RB Leipzig,Bundesliga
-2380,Amadou,Haïdara,Central Midfield,RB Leipzig,Bundesliga
+2380,Amadou,Haidara,Central Midfield,RB Leipzig,Bundesliga
 2381,David,Raum,Left-Back,RB Leipzig,Bundesliga
 2382,Kevin,Kampl,Central Midfield,RB Leipzig,Bundesliga
 2383,Willi,Orban,Centre-Back,RB Leipzig,Bundesliga
 2384,Lukas,Klostermann,Centre-Back,RB Leipzig,Bundesliga
 2385,Lutsharel,Geertruida,Right-Back,RB Leipzig,Bundesliga
 2386,Yussuf,Poulsen,Centre-Forward,RB Leipzig,Bundesliga
-2387,André,Silva,Centre-Forward,RB Leipzig,Bundesliga
+2387,Andre,Silva,Centre-Forward,RB Leipzig,Bundesliga
 2388,Benjamin,Henrichs,Right-Back,RB Leipzig,Bundesliga
-2389,Álex,Domínguez,Goalkeeper,Toulouse FC,Ligue 1
+2389,Alex,Dominguez,Goalkeeper,Toulouse FC,Ligue 1
 2390,Guillaume,Restes,Goalkeeper,Toulouse FC,Ligue 1
 2391,Justin,Lacombe,Goalkeeper,Toulouse FC,Ligue 1
 2392,Jaydee,Canvot,Defence,Toulouse FC,Ligue 1
 2393,Dayann,Methalie,Defence,Toulouse FC,Ligue 1
 2394,Shavy,Warren Babicka,Right Winger,Toulouse FC,Ligue 1
 2395,Ilyes,Aradj,Left-Back,Toulouse FC,Ligue 1
-2396,Aron,Dönnum,Right Winger,Toulouse FC,Ligue 1
+2396,Aron,Donnum,Right Winger,Toulouse FC,Ligue 1
 2397,Umit,Akdag,Centre-Back,Toulouse FC,Ligue 1
 2398,Warren,Kamanzi,Right-Back,Toulouse FC,Ligue 1
 2399,Frank,Magri,Centre-Forward,Toulouse FC,Ligue 1
 2400,Charlie,Cresswell,Centre-Back,Toulouse FC,Ligue 1
-2401,Cristian,Cásseres Jr.,Central Midfield,Toulouse FC,Ligue 1
+2401,Cristian,Casseres Jr.,Central Midfield,Toulouse FC,Ligue 1
 2402,Zakaria,Aboukhlal,Right Winger,Toulouse FC,Ligue 1
 2403,Yann,Gboho,Left Winger,Toulouse FC,Ligue 1
 2404,Mark,McKenzie,Centre-Back,Toulouse FC,Ligue 1
@@ -2410,25 +2410,25 @@
 2408,Niklas,Schmidt,Central Midfield,Toulouse FC,Ligue 1
 2409,Joshua,King,Left Winger,Toulouse FC,Ligue 1
 2410,Denis,Genreau,Attacking Midfield,Toulouse FC,Ligue 1
-2411,Djibril,Sidibé,Right-Back,Toulouse FC,Ligue 1
+2411,Djibril,Sidibe,Right-Back,Toulouse FC,Ligue 1
 2412,Miha,Zajc,Central Midfield,Toulouse FC,Ligue 1
 2413,Grégoire,Coudert,Goalkeeper,Stade Brestois 29,Ligue 1
 2414,Marco,Bizot,Goalkeeper,Stade Brestois 29,Ligue 1
 2415,Noah,Jauny,Goalkeeper,Stade Brestois 29,Ligue 1
 2416,Axel,Camblan,Midfield,Stade Brestois 29,Ligue 1
-2417,Léo,Botz,Offence,Stade Brestois 29,Ligue 1
-2418,Ibrahim,Kanté,Offence,Stade Brestois 29,Ligue 1
+2417,Leo,Botz,Offence,Stade Brestois 29,Ligue 1
+2418,Ibrahim,Kante,Offence,Stade Brestois 29,Ligue 1
 2419,Serigne,Diop,Offence,Stade Brestois 29,Ligue 1
 2420,Luc,Zogbe,Right-Back,Stade Brestois 29,Ligue 1
 2421,Abdoulaye,N'Diaye,Centre-Back,Stade Brestois 29,Ligue 1
 2422,Ibrahim,Salah,Left Winger,Stade Brestois 29,Ligue 1
 2423,Kamory,Doumbia,Attacking Midfield,Stade Brestois 29,Ligue 1
 2424,Bradley,Locko,Left-Back,Stade Brestois 29,Ligue 1
-2425,Soumaïla,Coulibaly,Centre-Back,Stade Brestois 29,Ligue 1
+2425,Soumaila,Coulibaly,Centre-Back,Stade Brestois 29,Ligue 1
 2426,Abdallah,Sima,Right Winger,Stade Brestois 29,Ligue 1
 2427,Julien,Le Cardinal,Centre-Back,Stade Brestois 29,Ligue 1
 2428,Hugo,Magnetti,Central Midfield,Stade Brestois 29,Ligue 1
-2429,Mama,Baldé,Centre-Forward,Stade Brestois 29,Ligue 1
+2429,Mama,Balde,Centre-Forward,Stade Brestois 29,Ligue 1
 2430,Jonas,Martin,Defensive Midfield,Stade Brestois 29,Ligue 1
 2431,Kenny,Lala,Right-Back,Stade Brestois 29,Ligue 1
 2432,Romain,Faivre,Right Midfield,Stade Brestois 29,Ligue 1
@@ -2436,13 +2436,13 @@
 2434,Pierre,Lees Melou,Defensive Midfield,Stade Brestois 29,Ligue 1
 2435,Jordan,Amavi,Left-Back,Stade Brestois 29,Ligue 1
 2436,Edimilson,Fernandes,Centre-Back,Stade Brestois 29,Ligue 1
-2437,Massadio,Haïdara,Left-Back,Stade Brestois 29,Ligue 1
+2437,Massadio,Haidara,Left-Back,Stade Brestois 29,Ligue 1
 2438,Romain,Del Castillo,Right Winger,Stade Brestois 29,Ligue 1
 2439,Ludovic,Ajorque,Centre-Forward,Stade Brestois 29,Ligue 1
 2440,Mathias,Pereira Lage,Left Winger,Stade Brestois 29,Ligue 1
 2441,Brendan,Chardonnet,Centre-Back,Stade Brestois 29,Ligue 1
-2442,Géronimo,Rulli,Goalkeeper,Olympique de Marseille,Ligue 1
-2443,Rubén,Blanco,Goalkeeper,Olympique de Marseille,Ligue 1
+2442,Geronimo,Rulli,Goalkeeper,Olympique de Marseille,Ligue 1
+2443,Ruben,Blanco,Goalkeeper,Olympique de Marseille,Ligue 1
 2444,Jeffrey,De Lange,Goalkeeper,Olympique de Marseille,Ligue 1
 2445,Ismael,Kone,Midfield,Olympique de Marseille,Ligue 1
 2446,Enzo,Sternal,Offence,Olympique de Marseille,Ligue 1
@@ -2461,12 +2461,12 @@
 2459,Pol,Mikel Lirola,Right-Back,Olympique de Marseille,Ligue 1
 2460,Ulisses,Garcia,Left-Back,Olympique de Marseille,Ligue 1
 2461,Darryl,Bakola,Attacking Midfield,Olympique de Marseille,Ligue 1
-2462,Gaël,Lafont,Central Midfield,Olympique de Marseille,Ligue 1
+2462,Gael,Lafont,Central Midfield,Olympique de Marseille,Ligue 1
 2463,Keyliane,Abdallah,Right Winger,Olympique de Marseille,Ligue 1
 2464,Emran,Soglo,Left Midfield,Olympique de Marseille,Ligue 1
 2465,Michael,Murillo,Right-Back,Olympique de Marseille,Ligue 1
-2466,Valentín,Carboni,Attacking Midfield,Olympique de Marseille,Ligue 1
-2467,Bamo,Meité,Centre-Back,Olympique de Marseille,Ligue 1
+2466,Valentin,Carboni,Attacking Midfield,Olympique de Marseille,Ligue 1
+2467,Bamo,Meite,Centre-Back,Olympique de Marseille,Ligue 1
 2468,Jonathan,Rowe,Left Winger,Olympique de Marseille,Ligue 1
 2469,Roggerio,Nyakossi,Centre-Back,Olympique de Marseille,Ligue 1
 2470,Bilal,Nadir,Central Midfield,Olympique de Marseille,Ligue 1
@@ -2477,8 +2477,8 @@
 2475,Dimitry,Bertaud,Goalkeeper,Montpellier HSC,Ligue 1
 2476,Benjamin,Lecomte,Goalkeeper,Montpellier HSC,Ligue 1
 2477,Belmin,Dizdarevic,Goalkeeper,Montpellier HSC,Ligue 1
-2478,Birama,Touré,Midfield,Montpellier HSC,Ligue 1
-2479,Stefan,Džodić,Midfield,Montpellier HSC,Ligue 1
+2478,Birama,Toure,Midfield,Montpellier HSC,Ligue 1
+2479,Stefan,Dzodic,Midfield,Montpellier HSC,Ligue 1
 2480,Craig,Mamilo,Midfield,Montpellier HSC,Ligue 1
 2481,Glenn,Ngosso,Offence,Montpellier HSC,Ligue 1
 2482,Simon,Cara,Offence,Montpellier HSC,Ligue 1
@@ -2487,13 +2487,13 @@
 2485,Becir,Omeragic,Centre-Back,Montpellier HSC,Ligue 1
 2486,Akor,Adams,Centre-Forward,Montpellier HSC,Ligue 1
 2487,Falaye,Sacko,Right-Back,Montpellier HSC,Ligue 1
-2488,Boubacar,Kouyaté,Centre-Back,Montpellier HSC,Ligue 1
+2488,Boubacar,Kouyate,Centre-Back,Montpellier HSC,Ligue 1
 2489,Jordan,Ferri,Central Midfield,Montpellier HSC,Ligue 1
 2490,Issiaga,Sylla,Left-Back,Montpellier HSC,Ligue 1
 2491,Christopher,Jullien,Centre-Back,Montpellier HSC,Ligue 1
 2492,Wahbi,Khazri,Left Winger,Montpellier HSC,Ligue 1
-2493,Téji,Savanier,Attacking Midfield,Montpellier HSC,Ligue 1
-2494,Théo,Sainte-Luce,Left-Back,Montpellier HSC,Ligue 1
+2493,Teji,Savanier,Attacking Midfield,Montpellier HSC,Ligue 1
+2494,Theo,Sainte-Luce,Left-Back,Montpellier HSC,Ligue 1
 2495,Modibo,Sagnan,Centre-Back,Montpellier HSC,Ligue 1
 2496,Arnaud,Nordin,Right Winger,Montpellier HSC,Ligue 1
 2497,Rabby,Nzingoula,Defensive Midfield,Montpellier HSC,Ligue 1
@@ -2507,12 +2507,12 @@
 2505,Enzo,Tchato,Right-Back,Montpellier HSC,Ligue 1
 2506,Joris,Chotard,Defensive Midfield,Montpellier HSC,Ligue 1
 2507,Tanguy,Coulibaly,Right Winger,Montpellier HSC,Ligue 1
-2508,Donovan,Léon,Goalkeeper,AJ Auxerre,Ligue 1
-2509,Raphaël,Adiceam,Goalkeeper,AJ Auxerre,Ligue 1
+2508,Donovan,Leon,Goalkeeper,AJ Auxerre,Ligue 1
+2509,Raphael,Adiceam,Goalkeeper,AJ Auxerre,Ligue 1
 2510,Théo,De Percin,Goalkeeper,AJ Auxerre,Ligue 1
 2511,Tom,Negrel,Goalkeeper,AJ Auxerre,Ligue 1
-2512,Jubal,Júnior,Defence,AJ Auxerre,Ligue 1
-2513,Ben,Viadère,Offence,AJ Auxerre,Ligue 1
+2512,Jubal,Junior,Defence,AJ Auxerre,Ligue 1
+2513,Ben,Viadere,Offence,AJ Auxerre,Ligue 1
 2514,Aristide,Zossou,Offence,AJ Auxerre,Ligue 1
 2515,Ange,N'Gatta,Right-Back,AJ Auxerre,Ligue 1
 2516,Madiou,Keita,Centre-Back,AJ Auxerre,Ligue 1
@@ -2520,7 +2520,7 @@
 2518,Kevin,Danois,Central Midfield,AJ Auxerre,Ligue 1
 2519,Paul,Joly,Right-Back,AJ Auxerre,Ligue 1
 2520,Lasso,Coulibaly,Right Midfield,AJ Auxerre,Ligue 1
-2521,Sinaly,Diomandé,Centre-Back,AJ Auxerre,Ligue 1
+2521,Sinaly,Diomande,Centre-Back,AJ Auxerre,Ligue 1
 2522,Saad,Agouzoul,Centre-Back,AJ Auxerre,Ligue 1
 2523,Theo,Bair,Centre-Forward,AJ Auxerre,Ligue 1
 2524,Ki-Jana,Hoever,Right-Back,AJ Auxerre,Ligue 1
@@ -2528,40 +2528,40 @@
 2526,Gabriel,Osho,Centre-Back,AJ Auxerre,Ligue 1
 2527,Ado,Onaiwu,Centre-Forward,AJ Auxerre,Ligue 1
 2528,Gideon,Mensah,Left-Back,AJ Auxerre,Ligue 1
-2529,Théo,Pellenard,Centre-Back,AJ Auxerre,Ligue 1
+2529,Theo,Pellenard,Centre-Back,AJ Auxerre,Ligue 1
 2530,Elisha,Owusu,Defensive Midfield,AJ Auxerre,Ligue 1
-2531,Assane,Dioussé,Defensive Midfield,AJ Auxerre,Ligue 1
-2532,Hamed,Traoré,Attacking Midfield,AJ Auxerre,Ligue 1
-2533,Gaëtan,Perrin,Right Winger,AJ Auxerre,Ligue 1
+2531,Assane,Diousse,Defensive Midfield,AJ Auxerre,Ligue 1
+2532,Hamed,Traore,Attacking Midfield,AJ Auxerre,Ligue 1
+2533,Gaetan,Perrin,Right Winger,AJ Auxerre,Ligue 1
 2534,Rayan,Raveloson,Defensive Midfield,AJ Auxerre,Ligue 1
 2535,Lassine,Sinayoko,Right Winger,AJ Auxerre,Ligue 1
-2536,Florian,Ayé,Centre-Forward,AJ Auxerre,Ligue 1
+2536,Florian,Ayew,Centre-Forward,AJ Auxerre,Ligue 1
 2537,Vito,Mannone,Goalkeeper,Lille OSC,Ligue 1
 2538,Marc-Aurèle,Caillard,Goalkeeper,Lille OSC,Ligue 1
 2539,Lucas,Chevalier,Goalkeeper,Lille OSC,Ligue 1
 2540,Lisandru,Olmeta,Goalkeeper,Lille OSC,Ligue 1
 2541,Isaac,Cossier,Defence,Lille OSC,Ligue 1
-2542,Hákon,Haraldsson,Midfield,Lille OSC,Ligue 1
+2542,Hakon,Haraldsson,Midfield,Lille OSC,Ligue 1
 2543,Younes,Lachaab,Midfield,Lille OSC,Ligue 1
-2544,Bafodé,Diakité,Centre-Back,Lille OSC,Ligue 1
+2544,Bafode,Diakite,Centre-Back,Lille OSC,Ligue 1
 2545,Gabriel,Gudmundsson,Left-Back,Lille OSC,Ligue 1
 2546,Edon,Zhegrova,Right Winger,Lille OSC,Ligue 1
 2547,Jonathan,David,Centre-Forward,Lille OSC,Ligue 1
-2548,Benjamin,André,Defensive Midfield,Lille OSC,Ligue 1
-2549,Rémy,Cabella,Attacking Midfield,Lille OSC,Ligue 1
+2548,Benjamin,Andres,Defensive Midfield,Lille OSC,Ligue 1
+2549,Remy,Cabella,Attacking Midfield,Lille OSC,Ligue 1
 2550,Angel,Gomes,Attacking Midfield,Lille OSC,Ligue 1
 2551,Mitchel,Bakker,Left Midfield,Lille OSC,Ligue 1
 2552,Nabil,Bentaleb,Defensive Midfield,Lille OSC,Ligue 1
 2553,Thomas,Meunier,Right-Back,Lille OSC,Ligue 1
 2554,Samuel,Umtiti,Centre-Back,Lille OSC,Ligue 1
-2555,André,Gomes,Central Midfield,Lille OSC,Ligue 1
+2555,Andre,Gomes,Central Midfield,Lille OSC,Ligue 1
 2556,Ismaily,,Left-Back,Lille OSC,Ligue 1
 2557,Mohamed,Bayo,Centre-Forward,Lille OSC,Ligue 1
-2558,Aïssa,Mandi,Centre-Back,Lille OSC,Ligue 1
+2558,Aissa,Mandi,Centre-Back,Lille OSC,Ligue 1
 2559,Lilian,Baret,Defensive Midfield,Lille OSC,Ligue 1
 2560,Ayyoub,Bouaddi,Central Midfield,Lille OSC,Ligue 1
-2561,Ethan,Mbappé,Central Midfield,Lille OSC,Ligue 1
-2562,Ousmane,Touré,Centre-Back,Lille OSC,Ligue 1
+2561,Ethan,Mbappe,Central Midfield,Lille OSC,Ligue 1
+2562,Ousmane,Toure,Centre-Back,Lille OSC,Ligue 1
 2563,Matias,Fernandez-Pardo,Left Winger,Lille OSC,Ligue 1
 2564,Aaron,Malouda,Left Winger,Lille OSC,Ligue 1
 2565,Ngal'ayel,Mukau,Defensive Midfield,Lille OSC,Ligue 1
@@ -2570,10 +2570,10 @@
 2568,Alexsandro,Ribeiro,Centre-Back,Lille OSC,Ligue 1
 2569,Akim,Zedadka,Right-Back,Lille OSC,Ligue 1
 2570,Osame,Sahraoui,Left Winger,Lille OSC,Ligue 1
-2571,Maxime,Dupé,Goalkeeper,OGC Nice,Ligue 1
+2571,Maxime,Dupe,Goalkeeper,OGC Nice,Ligue 1
 2572,Teddy,Boulhendi,Goalkeeper,OGC Nice,Ligue 1
 2573,Marcin,Bulka,Goalkeeper,OGC Nice,Ligue 1
-2574,Yaël,Nandjou,Defence,OGC Nice,Ligue 1
+2574,Yael,Nandjou,Defence,OGC Nice,Ligue 1
 2575,Iliesse,Salhi,Midfield,OGC Nice,Ligue 1
 2576,Mohamed,Cho,Offence,OGC Nice,Ligue 1
 2577,Victor,Orakpo,Striker,OGC Nice,Ligue 1
@@ -2593,19 +2593,19 @@
 2591,Terem,Moffi,Centre-Forward,OGC Nice,Ligue 1
 2592,Ali,El Abdi,Left-Back,OGC Nice,Ligue 1
 2593,Sofiane,Diop,Left Winger,OGC Nice,Ligue 1
-2594,Gaëtan,Laborde,Centre-Forward,OGC Nice,Ligue 1
-2595,Tanguy,Ndombèlé,Central Midfield,OGC Nice,Ligue 1
+2594,Gaetan,Laborde,Centre-Forward,OGC Nice,Ligue 1
+2595,Tanguy,Ndombele,Central Midfield,OGC Nice,Ligue 1
 2596,Dante,,Centre-Back,OGC Nice,Ligue 1
 2597,Morgan,Sanson,Central Midfield,OGC Nice,Ligue 1
 2598,Pablo,Rosario,Defensive Midfield,OGC Nice,Ligue 1
-2599,Jérémie,Boga,Left Winger,OGC Nice,Ligue 1
+2599,Jeremie,Boga,Left Winger,OGC Nice,Ligue 1
 2600,Jonathan,Clauss,Right-Back,OGC Nice,Ligue 1
-2601,Rémy,Descamps,Goalkeeper,Olympique Lyonnais,Ligue 1
+2601,Remy,Descamps,Goalkeeper,Olympique Lyonnais,Ligue 1
 2602,Lucas,Perri,Goalkeeper,Olympique Lyonnais,Ligue 1
 2603,Anthony,Lopes,Goalkeeper,Olympique Lyonnais,Ligue 1
 2604,Justin,Jose Bengui Joao,Goalkeeper,Olympique Lyonnais,Ligue 1
 2605,Abner,Vinicius,Defence,Olympique Lyonnais,Ligue 1
-2606,Enzo,Molébé,Offence,Olympique Lyonnais,Ligue 1
+2606,Enzo,Molebe,Offence,Olympique Lyonnais,Ligue 1
 2607,Mahamadou,Diawara,Central Midfield,Olympique Lyonnais,Ligue 1
 2608,Gift,Orban,Centre-Forward,Olympique Lyonnais,Ligue 1
 2609,Malick,Fofana,Left Winger,Olympique Lyonnais,Ligue 1
@@ -2617,16 +2617,16 @@
 2615,Rayan,Cherki,Attacking Midfield,Olympique Lyonnais,Ligue 1
 2616,Maxence,Caqueret,Central Midfield,Olympique Lyonnais,Ligue 1
 2617,Paul,Akouokou,Defensive Midfield,Olympique Lyonnais,Ligue 1
-2618,Duje,Ćaleta-Car,Centre-Back,Olympique Lyonnais,Ligue 1
+2618,Duje,Caleta-Car,Centre-Back,Olympique Lyonnais,Ligue 1
 2619,Clinton,Mata,Right-Back,Olympique Lyonnais,Ligue 1
-2620,Moussa,Niakhaté,Centre-Back,Olympique Lyonnais,Ligue 1
+2620,Moussa,Niakhate,Centre-Back,Olympique Lyonnais,Ligue 1
 2621,Wilfried,Zaha,Left Winger,Olympique Lyonnais,Ligue 1
 2622,Alexandre,Lacazette,Centre-Forward,Olympique Lyonnais,Ligue 1
 2623,Ainsley,Maitland-Niles,Right-Back,Olympique Lyonnais,Ligue 1
-2624,Nemanja,Matić,Defensive Midfield,Olympique Lyonnais,Ligue 1
-2625,Nicolás,Tagliafico,Left-Back,Olympique Lyonnais,Ligue 1
+2624,Nemanja,Matic,Defensive Midfield,Olympique Lyonnais,Ligue 1
+2625,Nicolas,Tagliafico,Left-Back,Olympique Lyonnais,Ligue 1
 2626,Jordan,Veretout,Central Midfield,Olympique Lyonnais,Ligue 1
-2627,Saïd,Benrahma,Left Winger,Olympique Lyonnais,Ligue 1
+2627,Said,Benrahma,Left Winger,Olympique Lyonnais,Ligue 1
 2628,Corentin,Tolisso,Central Midfield,Olympique Lyonnais,Ligue 1
 2629,Gianluigi,Donnarumma,Goalkeeper,Paris Saint-Germain FC,Ligue 1
 2630,Matvei,Safonov,Goalkeeper,Paris Saint-Germain FC,Ligue 1
@@ -2636,22 +2636,22 @@
 2634,Kang-in,Lee,Midfield,Paris Saint-Germain FC,Ligue 1
 2635,Nuno,Mendes,Left-Back,Paris Saint-Germain FC,Ligue 1
 2636,William,Pacho,Centre-Back,Paris Saint-Germain FC,Ligue 1
-2637,Gonçalo,Ramos,Centre-Forward,Paris Saint-Germain FC,Ligue 1
+2637,Goncalo,Ramos,Centre-Forward,Paris Saint-Germain FC,Ligue 1
 2638,Randal,Kolo Muani,Centre-Forward,Paris Saint-Germain FC,Ligue 1
-2639,Ousmane,Dembélé,Right Winger,Paris Saint-Germain FC,Ligue 1
-2640,Lucas,Hernández,Left-Back,Paris Saint-Germain FC,Ligue 1
+2639,Ousmane,Dembele,Right Winger,Paris Saint-Germain FC,Ligue 1
+2640,Lucas,Hernandez,Left-Back,Paris Saint-Germain FC,Ligue 1
 2641,Presnel,Kimpembe,Centre-Back,Paris Saint-Germain FC,Ligue 1
 2642,Marquinhos,,Centre-Back,Paris Saint-Germain FC,Ligue 1
-2643,Milan,Škriniar,Centre-Back,Paris Saint-Germain FC,Ligue 1
+2643,Milan,Skriniar,Centre-Back,Paris Saint-Germain FC,Ligue 1
 2644,Achraf,Hakimi,Right-Back,Paris Saint-Germain FC,Ligue 1
 2645,Marco,Asensio,Right Winger,Paris Saint-Germain FC,Ligue 1
-2646,Fabián,Ruiz,Central Midfield,Paris Saint-Germain FC,Ligue 1
+2646,Fabian,Ruiz,Central Midfield,Paris Saint-Germain FC,Ligue 1
 2647,Ibrahim,M'Baye,Right Winger,Paris Saint-Germain FC,Ligue 1
 2648,Yoram,Zague,Right-Back,Paris Saint-Germain FC,Ligue 1
 2649,Senny,Mayulu,Attacking Midfield,Paris Saint-Germain FC,Ligue 1
 2650,Serif,Nhaga,Left-Back,Paris Saint-Germain FC,Ligue 1
 2651,Joao,Neves,Defensive Midfield,Paris Saint-Germain FC,Ligue 1
-2652,Warren,Zaïre-Emery,Central Midfield,Paris Saint-Germain FC,Ligue 1
+2652,Warren,Zaire-Emery,Central Midfield,Paris Saint-Germain FC,Ligue 1
 2653,Ayman,Kari,Central Midfield,Paris Saint-Germain FC,Ligue 1
 2654,Vitinha,,Central Midfield,Paris Saint-Germain FC,Ligue 1
 2655,Desire,Doue,Left Winger,Paris Saint-Germain FC,Ligue 1
@@ -2660,13 +2660,13 @@
 2658,Gautier,Larsonneur,Goalkeeper,AS Saint-Étienne,Ligue 1
 2659,Brice,Maubleu,Goalkeeper,AS Saint-Étienne,Ligue 1
 2660,Boubacar,Fall,Goalkeeper,AS Saint-Étienne,Ligue 1
-2661,Issiaka,Touré,Goalkeeper,AS Saint-Étienne,Ligue 1
+2661,Issiaka,Toure,Goalkeeper,AS Saint-Étienne,Ligue 1
 2662,Kevin,Pedro,Defence,AS Saint-Étienne,Ligue 1
 2663,Marwann,N'Zuzi,Defence,AS Saint-Étienne,Ligue 1
 2664,Ayman,Aiki,Midfield,AS Saint-Étienne,Ligue 1
 2665,Zuriko,Davitashvili,Right Winger,AS Saint-Étienne,Ligue 1
-2666,Mickaël,Nade,Centre-Back,AS Saint-Étienne,Ligue 1
-2667,Léo,Pétrot,Centre-Back,AS Saint-Étienne,Ligue 1
+2666,Mickael,Nade,Centre-Back,AS Saint-Étienne,Ligue 1
+2667,Leo,Petrot,Centre-Back,AS Saint-Étienne,Ligue 1
 2668,Yvann,Macon,Right-Back,AS Saint-Étienne,Ligue 1
 2669,Ibrahim,Sissoko,Centre-Forward,AS Saint-Étienne,Ligue 1
 2670,Ibrahima,Wadji,Centre-Forward,AS Saint-Étienne,Ligue 1
@@ -2674,7 +2674,7 @@
 2672,Dylan,Batubinsika,Centre-Back,AS Saint-Étienne,Ligue 1
 2673,Dennis,Appiah,Right-Back,AS Saint-Étienne,Ligue 1
 2674,Thomas,Monconduit,Defensive Midfield,AS Saint-Étienne,Ligue 1
-2675,Anthony,Briançon,Centre-Back,AS Saint-Étienne,Ligue 1
+2675,Anthony,Briancon,Centre-Back,AS Saint-Étienne,Ligue 1
 2676,Mathieu,Cafaro,Right Winger,AS Saint-Étienne,Ligue 1
 2677,Yunis,Abdelhamid,Centre-Back,AS Saint-Étienne,Ligue 1
 2678,Lamine,Fomba,Defensive Midfield,AS Saint-Étienne,Ligue 1
@@ -2692,11 +2692,11 @@
 2690,Aimen,Moueffek,Central Midfield,AS Saint-Étienne,Ligue 1
 2691,Gauthier,Gallon,Goalkeeper,Stade Rennais FC 1901,Ligue 1
 2692,Steve,Mandanda,Goalkeeper,Stade Rennais FC 1901,Ligue 1
-2693,Doğan,Alemdar,Goalkeeper,Stade Rennais FC 1901,Ligue 1
+2693,Dogan,Alemdar,Goalkeeper,Stade Rennais FC 1901,Ligue 1
 2694,Geoffrey,Lembet,Goalkeeper,Stade Rennais FC 1901,Ligue 1
-2695,Carlos,Gómez,Midfield,Stade Rennais FC 1901,Ligue 1
+2695,Carlos,Gomez,Midfield,Stade Rennais FC 1901,Ligue 1
 2696,Mikayil,Faye,Centre-Back,Stade Rennais FC 1901,Ligue 1
-2697,Djaoui,Cissé,Central Midfield,Stade Rennais FC 1901,Ligue 1
+2697,Djaoui,Cisse,Central Midfield,Stade Rennais FC 1901,Ligue 1
 2698,Mahamadou,Nagida,Left-Back,Stade Rennais FC 1901,Ligue 1
 2699,Henrik,Meister,Centre-Forward,Stade Rennais FC 1901,Ligue 1
 2700,Jordan,James,Central Midfield,Stade Rennais FC 1901,Ligue 1
@@ -2709,7 +2709,7 @@
 2707,Christopher,Wooh,Centre-Back,Stade Rennais FC 1901,Ligue 1
 2708,Ludovic,Blas,Right Winger,Stade Rennais FC 1901,Ligue 1
 2709,Keito,Nakamura,Left Winger,Stade Rennais FC 1901,Ligue 1
-2710,Leo,Østigård,Centre-Back,Stade Rennais FC 1901,Ligue 1
+2710,Leo,Østigard,Centre-Back,Stade Rennais FC 1901,Ligue 1
 2711,Jota,,Left Winger,Stade Rennais FC 1901,Ligue 1
 2712,Glen,Kamara,Central Midfield,Stade Rennais FC 1901,Ligue 1
 2713,Baptiste,Santamaria,Defensive Midfield,Stade Rennais FC 1901,Ligue 1
@@ -2722,15 +2722,15 @@
 2720,Ousmane,Camara,Midfield,Angers SCO,Ligue 1
 2721,Ahmadou,Bamba Dieng,Offence,Angers SCO,Ligue 1
 2722,Farid,El Melali,Left Winger,Angers SCO,Ligue 1
-2723,Cédric,Hountondji,Centre-Back,Angers SCO,Ligue 1
+2723,Cedric,Hountondji,Centre-Back,Angers SCO,Ligue 1
 2724,Florent,Hanin,Left-Back,Angers SCO,Ligue 1
-2725,Halid,Šabanović,Right-Back,Angers SCO,Ligue 1
+2725,Halid,Sabanovic,Right-Back,Angers SCO,Ligue 1
 2726,Adrien,Hunou,Centre-Forward,Angers SCO,Ligue 1
 2727,Jean-Eudes,Aholou,Defensive Midfield,Angers SCO,Ligue 1
 2728,Ibrahima,Niane,Centre-Forward,Angers SCO,Ligue 1
 2729,Pierrick,Capelle,Central Midfield,Angers SCO,Ligue 1
 2730,Abdoulaye,Bamba,Centre-Back,Angers SCO,Ligue 1
-2731,Loïs,Diony,Centre-Forward,Angers SCO,Ligue 1
+2731,Lois,Diony,Centre-Forward,Angers SCO,Ligue 1
 2732,Jordan,Lefort,Centre-Back,Angers SCO,Ligue 1
 2733,Haris,Belkebla,Central Midfield,Angers SCO,Ligue 1
 2734,Joseph,Lopy,Central Midfield,Angers SCO,Ligue 1
@@ -2744,7 +2744,7 @@
 2742,Yassin,Belkhdim,Central Midfield,Angers SCO,Ligue 1
 2743,Jacques,Ekomie,Left-Back,Angers SCO,Ligue 1
 2744,Esteban,Lepaul,Centre-Forward,Angers SCO,Ligue 1
-2745,Zinédine,Ould Khaled,Defensive Midfield,Angers SCO,Ligue 1
+2745,Zinedine,Ould Khaled,Defensive Midfield,Angers SCO,Ligue 1
 2746,Jim,Allevinah,Right Winger,Angers SCO,Ligue 1
 2747,Himad,Abdelli,Attacking Midfield,Angers SCO,Ligue 1
 2748,Arthur,Desmas,Goalkeeper,Le Havre AC,Ligue 1
@@ -2752,25 +2752,25 @@
 2750,Paul,Argney,Goalkeeper,Le Havre AC,Ligue 1
 2751,Daren,Mosengo,Midfield,Le Havre AC,Ligue 1
 2752,Guy,Zohouri,Midfield,Le Havre AC,Ligue 1
-2753,Issa,Soumaré,Offence,Le Havre AC,Ligue 1
+2753,Issa,Soumare,Offence,Le Havre AC,Ligue 1
 2754,Ilyes,Housni,Offence,Le Havre AC,Ligue 1
 2755,Oussama,Targhalline,Central Midfield,Le Havre AC,Ligue 1
-2756,Josué,Casimir,Right Winger,Le Havre AC,Ligue 1
+2756,Josue,Casimir,Right Winger,Le Havre AC,Ligue 1
 2757,Timothee,Pembele,Right-Back,Le Havre AC,Ligue 1
 2758,Yann,Kitala,Centre-Forward,Le Havre AC,Ligue 1
-2759,Loïc,Nego,Right-Back,Le Havre AC,Ligue 1
+2759,Loic,Nego,Right-Back,Le Havre AC,Ligue 1
 2760,Emmanuel,Sabbi,Right Winger,Le Havre AC,Ligue 1
 2761,Yoann,Salmier,Centre-Back,Le Havre AC,Ligue 1
-2762,Abdoulaye,Touré,Defensive Midfield,Le Havre AC,Ligue 1
+2762,Abdoulaye,Toure,Defensive Midfield,Le Havre AC,Ligue 1
 2763,Samuel,Grandsir,Right Winger,Le Havre AC,Ligue 1
-2764,André,Ayew,Left Winger,Le Havre AC,Ligue 1
+2764,Andre,Ayew,Left Winger,Le Havre AC,Ligue 1
 2765,Oualid,El Hajjam,Right-Back,Le Havre AC,Ligue 1
 2766,Daler,Kuzyaev,Central Midfield,Le Havre AC,Ligue 1
 2767,Gautier,Lloris,Centre-Back,Le Havre AC,Ligue 1
 2768,Christopher,Operi,Left-Back,Le Havre AC,Ligue 1
 2769,Yanis,Zouaoui,Left-Back,Le Havre AC,Ligue 1
 2770,Ruben,Londja,Right Winger,Le Havre AC,Ligue 1
-2771,Mathéo,Bodmer,Defensive Midfield,Le Havre AC,Ligue 1
+2771,Matheo,Bodmer,Defensive Midfield,Le Havre AC,Ligue 1
 2772,Ismail,Bouneb,Attacking Midfield,Le Havre AC,Ligue 1
 2773,Andy,Logbo,Centre-Forward,Le Havre AC,Ligue 1
 2774,Steve,Ngoura,Centre-Forward,Le Havre AC,Ligue 1
@@ -2783,12 +2783,12 @@
 2781,Alban,Lafont,Goalkeeper,FC Nantes,Ligue 1
 2782,Patrik,Carlgren,Goalkeeper,FC Nantes,Ligue 1
 2783,Hugo,Barbet,Goalkeeper,FC Nantes,Ligue 1
-2784,Mathieu,Acapandié,Defence,FC Nantes,Ligue 1
-2785,Sekou,Doucouré,Defence,FC Nantes,Ligue 1
+2784,Mathieu,Acapandie,Defence,FC Nantes,Ligue 1
+2785,Sekou,Doucoure,Defence,FC Nantes,Ligue 1
 2786,Louis,Leroux,Midfield,FC Nantes,Ligue 1
 2787,Herba,Guirassy,Left Winger,FC Nantes,Ligue 1
 2788,Dehmaine,Assoumani,Central Midfield,FC Nantes,Ligue 1
-2789,Nathan,Zézé,Centre-Back,FC Nantes,Ligue 1
+2789,Nathan,Zeze,Centre-Back,FC Nantes,Ligue 1
 2790,Matthis,Abline,Centre-Forward,FC Nantes,Ligue 1
 2791,Johann,Lepenant,Defensive Midfield,FC Nantes,Ligue 1
 2792,Mostafa,Mohamed,Centre-Forward,FC Nantes,Ligue 1
@@ -2808,8 +2808,8 @@
 2806,Fabien,Centonze,Right-Back,FC Nantes,Ligue 1
 2807,Jean-Charles,Castelletto,Centre-Back,FC Nantes,Ligue 1
 2808,Brice,Samba,Goalkeeper,Racing Club de Lens,Ligue 1
-2809,Hervé,Koffi,Goalkeeper,Racing Club de Lens,Ligue 1
-2810,Denis,Petrić,Goalkeeper,Racing Club de Lens,Ligue 1
+2809,Herve,Koffi,Goalkeeper,Racing Club de Lens,Ligue 1
+2810,Denis,Petric,Goalkeeper,Racing Club de Lens,Ligue 1
 2811,Adam,Delplace,Goalkeeper,Racing Club de Lens,Ligue 1
 2812,Kyllian,Antonio,Defence,Racing Club de Lens,Ligue 1
 2813,M'Bala,Nzola,Offence,Racing Club de Lens,Ligue 1
@@ -2817,7 +2817,7 @@
 2815,Deiver,Machado,Left-Back,Racing Club de Lens,Ligue 1
 2816,Adrien,Thomasson,Attacking Midfield,Racing Club de Lens,Ligue 1
 2817,Angelo,Fulgini,Attacking Midfield,Racing Club de Lens,Ligue 1
-2818,Wesley,Saïd,Centre-Forward,Racing Club de Lens,Ligue 1
+2818,Wesley,Said,Centre-Forward,Racing Club de Lens,Ligue 1
 2819,Nampalys,Mendy,Defensive Midfield,Racing Club de Lens,Ligue 1
 2820,Malang,Sarr,Centre-Back,Racing Club de Lens,Ligue 1
 2821,Ruben,Aguilar,Right-Back,Racing Club de Lens,Ligue 1
@@ -2827,7 +2827,7 @@
 2825,Jimmy,Cabot,Right Midfield,Racing Club de Lens,Ligue 1
 2826,Tom,Pouilly,Defensive Midfield,Racing Club de Lens,Ligue 1
 2827,Abdukodir,Khusanov,Centre-Back,Racing Club de Lens,Ligue 1
-2828,Rémy,Labeau Lascary,Centre-Forward,Racing Club de Lens,Ligue 1
+2828,Remy,Labeau Lascary,Centre-Forward,Racing Club de Lens,Ligue 1
 2829,Hamzat,Ojediran,Defensive Midfield,Racing Club de Lens,Ligue 1
 2830,Pierre,Ganiou,Centre-Back,Racing Club de Lens,Ligue 1
 2831,Sidi,Bane,Centre-Back,Racing Club de Lens,Ligue 1
@@ -2844,10 +2844,10 @@
 2842,Kobi,Henry,Defence,Stade de Reims,Ligue 1
 2843,Mohamed,Bamba,Midfield,Stade de Reims,Ligue 1
 2844,Niama,Pape Sissoko,Offence,Stade de Reims,Ligue 1
-2845,Abdoul,Koné,Centre-Back,Stade de Reims,Ligue 1
+2845,Abdoul,Kone,Centre-Back,Stade de Reims,Ligue 1
 2846,Nhoa,Sangui,Left-Back,Stade de Reims,Ligue 1
-2847,Amadou,Koné,Defensive Midfield,Stade de Reims,Ligue 1
-2848,Moscardo,,Defensive Midfield,Stade de Reims,Ligue 1
+2847,Amadou,Kone,Defensive Midfield,Stade de Reims,Ligue 1
+2848,Gabriel,Moscardo,Defensive Midfield,Stade de Reims,Ligue 1
 2849,Mamadou,Diakhon,Left Winger,Stade de Reims,Ligue 1
 2850,Valentin,Atangana Edoa,Central Midfield,Stade de Reims,Ligue 1
 2851,Oumar,Diakite,Centre-Forward,Stade de Reims,Ligue 1
@@ -2860,14 +2860,14 @@
 2858,Teddy,Teuma,Central Midfield,Stade de Reims,Ligue 1
 2859,Junya,Ito,Right Winger,Stade de Reims,Ligue 1
 2860,Keito,Nakamura,Left Winger,Stade de Reims,Ligue 1
-2861,Cédric,Kipré,Centre-Back,Stade de Reims,Ligue 1
+2861,Cedric,Kipre,Centre-Back,Stade de Reims,Ligue 1
 2862,Marshall,Munetsi,Central Midfield,Stade de Reims,Ligue 1
 2863,Joseph,Okumu,Centre-Back,Stade de Reims,Ligue 1
 2864,Sergio,Akieme,Left-Back,Stade de Reims,Ligue 1
-2865,Buta,,Right-Back,Stade de Reims,Ligue 1
+2865,Aurelio,Buta,Right-Back,Stade de Reims,Ligue 1
 2866,Thibault,De Smet,Left-Back,Stade de Reims,Ligue 1
 2867,Philipp,Köhn,Goalkeeper,AS Monaco FC,Ligue 1
-2868,Radosław,Majecki,Goalkeeper,AS Monaco FC,Ligue 1
+2868,Radoslaw,Majecki,Goalkeeper,AS Monaco FC,Ligue 1
 2869,Yann,Lienard,Goalkeeper,AS Monaco FC,Ligue 1
 2870,Eliesse,Ben Seghir,Midfield,AS Monaco FC,Ligue 1
 2871,Lamine,Camara,Central Midfield,AS Monaco FC,Ligue 1
@@ -2884,18 +2884,18 @@
 2882,Mohammed,Salisu,Centre-Back,AS Monaco FC,Ligue 1
 2883,Jordan,Teze,Right-Back,AS Monaco FC,Ligue 1
 2884,Takumi,Minamino,Left Winger,AS Monaco FC,Ligue 1
-2885,Krépin,Diatta,Right Winger,AS Monaco FC,Ligue 1
+2885,Krepin,Diatta,Right Winger,AS Monaco FC,Ligue 1
 2886,Denis,Zakaria,Defensive Midfield,AS Monaco FC,Ligue 1
 2887,Thilo,Kehrer,Centre-Back,AS Monaco FC,Ligue 1
 2888,Aleksandr,Golovin,Attacking Midfield,AS Monaco FC,Ligue 1
 2889,Breel,Embolo,Centre-Forward,AS Monaco FC,Ligue 1
 2890,Caio,Henrique,Left-Back,AS Monaco FC,Ligue 1
-2891,Đorđe,Petrović,Goalkeeper,RC Strasbourg Alsace,Ligue 1
+2891,Dorde,Petrovic,Goalkeeper,RC Strasbourg Alsace,Ligue 1
 2892,Alaa,Bellaarouch,Goalkeeper,RC Strasbourg Alsace,Ligue 1
 2893,Robin,Risser,Goalkeeper,RC Strasbourg Alsace,Ligue 1
 2894,Kalle,Johnsson,Goalkeeper,RC Strasbourg Alsace,Ligue 1
 2895,Ryan,Tutu Mayangila,Goalkeeper,RC Strasbourg Alsace,Ligue 1
-2896,Guela,Doué,Defence,RC Strasbourg Alsace,Ligue 1
+2896,Guela,Doue,Defence,RC Strasbourg Alsace,Ligue 1
 2897,Dion,Moise Sahi,Offence,RC Strasbourg Alsace,Ligue 1
 2898,Abdoul,Ouattara,Offence,RC Strasbourg Alsace,Ligue 1
 2899,Caleb,Wiley,Left-Back,RC Strasbourg Alsace,Ligue 1
@@ -2906,8 +2906,8 @@
 2904,Sekou,Mara,Centre-Forward,RC Strasbourg Alsace,Ligue 1
 2905,Dilane,Bakwa,Right Winger,RC Strasbourg Alsace,Ligue 1
 2906,Emanuel,Emegha,Centre-Forward,RC Strasbourg Alsace,Ligue 1
-2907,Saïdou,Sow,Centre-Back,RC Strasbourg Alsace,Ligue 1
-2908,Ismaël,Doukouré,Centre-Back,RC Strasbourg Alsace,Ligue 1
+2907,Saidou,Sow,Centre-Back,RC Strasbourg Alsace,Ligue 1
+2908,Ismael,Doukoure,Centre-Back,RC Strasbourg Alsace,Ligue 1
 2909,Sebastian,Nanasi,Left Midfield,RC Strasbourg Alsace,Ligue 1
 2910,Eduard,Sobol,Left-Back,RC Strasbourg Alsace,Ligue 1
 2911,Thomas,Delaine,Left-Back,RC Strasbourg Alsace,Ligue 1
@@ -2916,7 +2916,7 @@
 2914,Tidiane,Diallo,Attacking Midfield,RC Strasbourg Alsace,Ligue 1
 2915,Milos,Lukovic,Centre-Forward,RC Strasbourg Alsace,Ligue 1
 2916,Mohamed,Bechikh,Centre-Forward,RC Strasbourg Alsace,Ligue 1
-2917,Jérémy,Sebas,Left Winger,RC Strasbourg Alsace,Ligue 1
+2917,Jeremy,Sebas,Left Winger,RC Strasbourg Alsace,Ligue 1
 2918,Yoni,Gomis,Centre-Back,RC Strasbourg Alsace,Ligue 1
 2919,Mamadou,Sarr,Centre-Back,RC Strasbourg Alsace,Ligue 1
 2920,Oscar,Perea,Left Winger,RC Strasbourg Alsace,Ligue 1
