@@ -144,21 +144,22 @@ if __name__ == "__main__":
     try:
         checkpoint_files = sorted(glob.glob("./Data/checkpoint_*.csv"))
         if checkpoint_files:
-            last_checkpoint = checkpoint_files[-1]
-            processed_stats = pd.read_csv(last_checkpoint)
+            processed_stats = pd.concat([pd.read_csv(f) for f in checkpoint_files], ignore_index=True).drop_duplicates(subset=['prénom', 'nom'])
             starting_index = len(processed_stats)
             print(f"Reprise à partir de {starting_index} joueurs.")
         else:
             processed_stats = pd.DataFrame()
             starting_index = 0
     except Exception as e:
-        print("Erreur lors du chargement du checkpoint:", e)
+        print("Erreur lors du chargement des checkpoints:", e)
         processed_stats = pd.DataFrame()
         starting_index = 0
 
     new_stats = collect_stats(players[starting_index:])
     if new_stats:
         new_stats = pd.DataFrame(new_stats)
-        stats_players = pd.concat([processed_stats, new_stats], ignore_index=True)
+        stats = pd.concat([processed_stats, new_stats], ignore_index=True).drop_duplicates(subset=['prénom', 'nom'])
+        stats_players = merge_players_stats(players, stats)
         stats_players = clear_empty_row(stats_players)
+        
         save_players_data(stats_players)
